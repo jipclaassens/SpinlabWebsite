@@ -586,10 +586,15 @@ def old_document_addresses():
 OLD_DOCUMENTS = {}
 
 
+def stays_in_preview(path):
+    # pictures, and a thesis that is not on the current site, so there is nowhere else to send people
+    return path.lower().endswith(IMAGE_EXTENSIONS) or (path.startswith("theses/") and "/files/" + path not in OLD_DOCUMENTS)
+
+
 def as_preview(text):
     def document(match):
         path = match.group(1)
-        if path.lower().endswith(IMAGE_EXTENSIONS):
+        if stays_in_preview(path):
             return match.group(0)
         old = OLD_DOCUMENTS.get("/files/" + path, path)
         return f'href="{CURRENT_SITE_UPLOADS}{old}"'
@@ -644,11 +649,12 @@ def copy_static():
     if not BASE:
         shutil.copytree(STATIC_DIR, OUT_DIR, dirs_exist_ok=True)
         return
-    # a preview only takes the pictures; documents stay where they are on the current site
+    # a preview only takes what stays in it; other documents stay where they are on the current site
     for dir_path, _, file_names in os.walk(STATIC_DIR):
         for name in file_names:
-            if name.lower().endswith(IMAGE_EXTENSIONS):
-                target = os.path.join(OUT_DIR, os.path.relpath(os.path.join(dir_path, name), STATIC_DIR))
+            relative = os.path.relpath(os.path.join(dir_path, name), STATIC_DIR)
+            if stays_in_preview(relative.replace(os.sep, "/").removeprefix("files/")):
+                target = os.path.join(OUT_DIR, relative)
                 os.makedirs(os.path.dirname(target), exist_ok=True)
                 shutil.copy(os.path.join(dir_path, name), target)
 
