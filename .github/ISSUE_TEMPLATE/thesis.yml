@@ -56,5 +56,5 @@ body:
     attributes:
       label: Permission
       options:
-        - label: The student agreed to this thesis being public on this site.
+        - label: The student gave permission for publication when handing in this thesis at the VU.
           required: true

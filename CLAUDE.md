@@ -45,8 +45,8 @@ not change the `slug` of a thesis that is online.
 
 `data/theses.yaml` is the list. Each thesis with a pdf gets its own page under `/supervised-theses/`, with
 the `citation_*` tags Google Scholar reads, and a place in the sitemap and the search index. The pdfs are in
-`static/files/theses/`. `.github/workflows/thesis-from-issue.yml` adds one from the Thesis form, which
-requires ticking that the student agreed.
+`static/files/theses/`. `.github/workflows/thesis-from-issue.yml` adds one from the Thesis form. Students give
+permission for publication when they hand in their thesis at the VU, and the form asks to confirm that.
 
 ## Documents
 

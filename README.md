@@ -44,7 +44,8 @@ This site is the only place where these theses are public, so this is the page t
 
 The easiest way: open [Issues](../../issues/new/choose), choose **Thesis**, fill in the form and drag the
 pdf into the box. Add the label `publish` and it goes online, with its own page that search engines and
-Google Scholar can find. Only do this if the student agreed to it being public.
+Google Scholar can find. Students give permission for publication when they hand in their thesis at the
+VU; the form asks you to confirm that.
 
 To do it by hand, upload the pdf to `static/files/theses/` and add a block to
 [`data/theses.yaml`](data/theses.yaml); the instructions are at the top of that file.

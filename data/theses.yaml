@@ -3,7 +3,7 @@
 #
 # The easiest way to add one is the "Thesis" form under Issues. To do it by hand, upload the pdf to
 # static/files/theses/ and add a block under theses: below. The order does not matter, the site sorts
-# by date. Only add a thesis if the student agreed to it being public.
+# by date. Students give permission for publication when they hand in their thesis at the VU.
 #
 #   author      as it should appear
 #   title       the title

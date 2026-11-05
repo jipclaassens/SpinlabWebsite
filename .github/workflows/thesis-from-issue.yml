@@ -1,5 +1,6 @@
 # Adds a thesis from a filled-in "Thesis" issue once somebody with write access adds the label
-# "publish". The form makes the sender tick that the student agreed; this checks it again.
+# "publish". Students give permission for publication when they hand in their thesis at the VU; the
+# form makes the sender confirm that, and the script checks the box again.
 #
 # A push made with the workflow's own token does not start other workflows, so this one starts the
 # deploy itself.

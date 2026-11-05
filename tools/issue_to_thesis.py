@@ -42,7 +42,7 @@ def main():
     title = os.environ["ISSUE_TITLE"].strip()
     answers = sections(os.environ["ISSUE_BODY"])
     if not re.search(r"^- \[[xX]\]", answers.get("Permission", ""), flags=re.M):
-        raise SystemExit("The box that the student agreed is not ticked")
+        raise SystemExit("The box that the student gave permission is not ticked")
 
     data = yaml.safe_load(open(THESES, encoding="utf-8"))
     programme = next((key for key, label in data["programmes"].items() if label == answers.get("Programme", "").strip()), None)
