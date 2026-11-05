@@ -3,6 +3,10 @@
     python build.py            # build
     python build.py --serve    # build and serve on port 8000
     python build.py --check    # build and fail on internal links that lead nowhere
+    python build.py --preview spinlab --check   # a preview for a subfolder of another site, in _preview/
+
+A preview shows the site before the server is ready. It carries a notice and stays out of search
+engines, and it leaves the documents out: their links open the copies on the current site.
 
 Every markdown file becomes a directory with an index.html, so urls stay clean. The people, the
 recent publications and the redirects come from data/. Nothing runs on the server: what ends up in
@@ -31,6 +35,11 @@ ASSETS_DIR = "assets"
 STATIC_DIR = "static"  # copied to the site root unchanged; the documents live in static/files
 DATA_DIR = "data"
 OUT_DIR = "_site"
+BASE = ""  # the subfolder of a preview, for example /spinlab; empty for the real site
+CURRENT_SITE_UPLOADS = "https://spinlab.vu.nl/wp-content/uploads/"
+IMAGE_EXTENSIONS = (".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg")
+PREVIEW_NOTE = ('<div class="preview-note">Preview of the new SPINlab website. The current site is still at '
+                '<a href="https://spinlab.vu.nl/">spinlab.vu.nl</a>, and documents open from there.</div>')
 
 HOME_NEWS = 4
 HOME_PUBLICATIONS = 5
@@ -390,9 +399,9 @@ def thesis_body(thesis, programmes):
     place = degree if institution in degree else f"{degree}, {institution}"
     year = str(thesis.get("date") or thesis.get("year") or "")[:4]
     note = f'<p class="archived">{html.escape(str(thesis["note"]))}</p>' if thesis.get("note") else ""
-    annexes = "".join(f'<a class="annex" href="{html.escape(a["file"])}">{html.escape(str(a["label"]))}</a>' for a in thesis.get("attachments", []))
+    annexes = "".join(f'<p><a href="{html.escape(a["file"])}">{html.escape(str(a["label"]))}</a></p>' for a in thesis.get("attachments", []))
     return (f'<dl class="facts">{facts}</dl>{note}'
-            f'<p><a class="btn btn-blue" href="{html.escape(thesis["file"])}">Read the thesis (pdf, {size:.1f} MB)</a>{annexes}</p>'
+            f'<p><a class="btn btn-blue" href="{html.escape(thesis["file"])}">Read the thesis (pdf, {size:.1f} MB)</a></p>{annexes}'
             f'<h2>How to cite</h2><p>{html.escape(str(thesis.get("author", "")))} ({year}). {html.escape(str(thesis["title"]))}. {html.escape(place)}.</p>'
             '<p class="updated">Are you the author, and would you like this page changed or removed? <a href="/contact/">Contact us</a>.</p>')
 
@@ -516,10 +525,34 @@ def render(page, pages, css_name):
                 **extra)
 
 
+def old_document_addresses():
+    # new document path -> its name on the current site, which is where a preview sends people
+    files = yaml.safe_load(open(f"{DATA_DIR}/redirects.yaml", encoding="utf-8")).get("files") or {}
+    return {new: old.replace("/wp-content/uploads/", "", 1) for old, new in files.items() if new.startswith("/files/")}
+
+
+OLD_DOCUMENTS = {}
+
+
+def as_preview(text):
+    def document(match):
+        path = match.group(1)
+        if path.lower().endswith(IMAGE_EXTENSIONS):
+            return match.group(0)
+        old = OLD_DOCUMENTS.get("/files/" + path, path)
+        return f'href="{CURRENT_SITE_UPLOADS}{old}"'
+
+    text = re.sub(r'href="/files/([^"]+)"', document, text)
+    text = re.sub(r'\b(href|src)="/(?!/)', lambda m: f'{m.group(1)}="{BASE}/', text)
+    text = re.sub(r'<link rel="canonical"[^>]*>\n?', "", text)
+    text = text.replace("<head>", '<head>\n<meta name="robots" content="noindex">', 1)
+    return re.sub(r"(<body[^>]*>)", lambda m: m.group(1) + PREVIEW_NOTE, text, count=1)
+
+
 def write_out(url, text):
     path = os.path.join(OUT_DIR, url.lstrip("/")) if url.endswith(".html") else os.path.join(OUT_DIR, url.strip("/"), "index.html")
     os.makedirs(os.path.dirname(path), exist_ok=True)
-    open(path, "w", encoding="utf-8").write(text)
+    open(path, "w", encoding="utf-8").write(as_preview(text) if BASE else text)
 
 
 def theme_pages(pages, css_name):
@@ -535,6 +568,37 @@ def theme_pages(pages, css_name):
                             body=theme_chips(pages, theme) + news_html(pages, theme, by_year=True), updated="", css=css_name,
                             year=str(datetime.now(timezone.utc).year)))
     return used
+
+
+def write_preview_htaccess():
+    # Sits in the subfolder of the other site and overrides its security policy, which does not
+    # allow the embedded videos. Nothing else of the other site changes.
+    lines = [
+        f"ErrorDocument 404 {BASE}/404.html",
+        "<IfModule mod_headers.c>",
+        '  Header always set X-Robots-Tag "noindex"',
+        '  Header always set Content-Security-Policy "default-src \'self\'; script-src \'self\'; '
+        "style-src 'self'; img-src 'self' data:; font-src 'self'; connect-src 'self'; "
+        "frame-src https://www.youtube-nocookie.com https://player.vimeo.com; "
+        "frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'\"",
+        "</IfModule>",
+    ]
+    open(f"{OUT_DIR}/.htaccess", "w", encoding="utf-8", newline="\n").write("\n".join(lines) + "\n")
+
+
+def copy_static():
+    if not os.path.isdir(STATIC_DIR):
+        return
+    if not BASE:
+        shutil.copytree(STATIC_DIR, OUT_DIR, dirs_exist_ok=True)
+        return
+    # a preview only takes the pictures; documents stay where they are on the current site
+    for dir_path, _, file_names in os.walk(STATIC_DIR):
+        for name in file_names:
+            if name.lower().endswith(IMAGE_EXTENSIONS):
+                target = os.path.join(OUT_DIR, os.path.relpath(os.path.join(dir_path, name), STATIC_DIR))
+                os.makedirs(os.path.dirname(target), exist_ok=True)
+                shutil.copy(os.path.join(dir_path, name), target)
 
 
 def write_redirects(pages):
@@ -595,7 +659,7 @@ def close_folders():
     for dir_path, _, file_names in os.walk(f"{OUT_DIR}/files"):
         if "index.html" not in file_names:
             open(os.path.join(dir_path, "index.html"), "w", encoding="utf-8").write(
-                '<!doctype html><meta charset="utf-8"><title>Documents</title><meta name="robots" content="noindex"><p><a href="/publications/">Publications</a></p>\n')
+                f'<!doctype html><meta charset="utf-8"><title>Documents</title><meta name="robots" content="noindex"><p><a href="{BASE}/publications/">Publications</a></p>\n')
 
 
 def write_sitemap(pages, extra_urls):
@@ -637,6 +701,8 @@ def write_search_index(pages):
         records.append({"t": str(thesis["title"]), "u": thesis_url(thesis) if thesis.get("file") else "/supervised-theses/",
                         "d": " · ".join(str(p) for p in (thesis.get("author"), thesis.get("degree"), thesis_when(thesis)) if p),
                         "x": f"{thesis.get('author', '')} {programmes.get(thesis['programme'], '')} {thesis.get('degree', '')} {thesis.get('year', '')}"})
+    for record in records:
+        record["u"] = BASE + record["u"]
     json.dump(records, open(f"{OUT_DIR}/search.json", "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
 
 
@@ -649,7 +715,8 @@ def check_links():
     for path in glob.glob(f"{OUT_DIR}/**/*.html", recursive=True):
         text = open(path, encoding="utf-8").read()
         for ref in set(REF_RE.findall(text)):
-            target = os.path.join(OUT_DIR, unquote(ref).lstrip("/").replace("/", os.sep))
+            local = ref[len(BASE):] if BASE and ref.startswith(BASE + "/") else ref
+            target = os.path.join(OUT_DIR, unquote(local).lstrip("/").replace("/", os.sep))
             if not (os.path.isfile(target) or os.path.isfile(os.path.join(target, "index.html"))):
                 broken.setdefault(ref, []).append(os.path.relpath(path, OUT_DIR))
     for ref, sources in sorted(broken.items()):
@@ -662,7 +729,14 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--serve", action="store_true", help="serve the result on port 8000")
     parser.add_argument("--check", action="store_true", help="fail on internal links that lead nowhere")
+    parser.add_argument("--preview", metavar="FOLDER", help="build a preview for this subfolder, in _preview/")
     args = parser.parse_args()
+
+    global BASE, OUT_DIR, OLD_DOCUMENTS
+    if args.preview:
+        BASE = "/" + args.preview.strip("/")
+        OUT_DIR = "_preview" + BASE
+        OLD_DOCUMENTS = old_document_addresses()
 
     if os.path.isdir(OUT_DIR):
         shutil.rmtree(OUT_DIR)
@@ -678,12 +752,14 @@ def main():
 
     shutil.copytree(ASSETS_DIR, f"{OUT_DIR}/assets", dirs_exist_ok=True)
     shutil.copy("theme/site.css", f"{OUT_DIR}/assets/{css_name}")
-    if os.path.isdir(STATIC_DIR):
-        shutil.copytree(STATIC_DIR, OUT_DIR, dirs_exist_ok=True)
+    copy_static()
 
-    write_redirects(pages)
+    if BASE:
+        write_preview_htaccess()
+    else:
+        write_redirects(pages)
+        write_sitemap(pages, thesis_urls)
     close_folders()
-    write_sitemap(pages, thesis_urls)
     write_feed(pages)
     write_search_index(pages)
     if not load_people().get("verified"):

@@ -40,6 +40,9 @@ a:focus-visible, .menu-toggle:focus-visible + .menu-button { outline: 3px solid 
 .skip:focus { left: 1rem; top: 1rem; background: #fff; padding: 0.5rem 1rem; z-index: 10; }
 .muted { color: var(--muted); }
 
+.preview-note { background: var(--orange); color: #fff; padding: 0.35rem 1.25rem; font-size: 0.9rem; text-align: center; }
+.preview-note a { color: #fff; }
+
 /* header */
 .top { background: var(--paper); border-bottom: 1px solid var(--line); position: relative; z-index: 5; }
 .top-row { display: flex; align-items: center; justify-content: space-between; gap: 1rem; min-height: 4.5rem; }
@@ -184,7 +187,6 @@ th { font-weight: 700; }
 .facts dd { margin: 0; }
 .btn-blue { background: var(--blue); color: #fff; }
 .btn-blue:hover { background: var(--blue-deep); color: #fff; }
-.annex { margin-left: 1rem; }
 #thesis-filter { margin: 0.5rem 0 0.25rem; }
 
 /* search */

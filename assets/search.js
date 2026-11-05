@@ -29,7 +29,7 @@
     }).join("") : '<p class="muted">Nothing found.</p>';
   }
 
-  fetch("/search.json").then(function (r) { return r.json(); }).then(function (data) {
+  fetch("../search.json").then(function (r) { return r.json(); }).then(function (data) {
     records = data;
     var start = new URLSearchParams(location.search).get("q");
     if (start) { box.value = start; show(start); }

@@ -451,7 +451,7 @@ theses:
   year: 2026
   file: /files/theses/Relatieve-bodemdaling-van-veenterpen_Hoofdtekst.pdf
   attachments:
-  - label: With annexes here
+  - label: Version with annexes
     file: /files/theses/Relatieve-bodemdaling-van-veenterpen_bijlagen.pdf
   slug: laas-scholvinck-relatieve-bodemdaling-van-veenterpen-in-waterland-de-i
 - author: Leon de Vries
@@ -586,7 +586,7 @@ theses:
   year: 2023
   file: /files/theses/Driving-forces-behind-deforestation-in-Upper-West-Ghana.pdf
   attachments:
-  - label: here
+  - label: Annex
     file: /files/theses/Modellingforestcover_NorthernGhana.pdf
   slug: marijn-van-t-hof-driving-forces-behind-deforestation-in-upper-west-gha
 - author: Luuk Verdonk
@@ -637,7 +637,7 @@ theses:
   year: 2021
   file: /files/theses/Waardenburg_ToekomstMekongdelta.pdf
   attachments:
-  - label: BenteJanssens_Thesis_BSc_ESE
+  - label: Annex
     file: /files/theses/BenteJanssens_Thesis_BSc_ESE.pdf
   slug: waardenburg-rijst-en-ravages-de-toekomst-van-de-mekongdelta-vietnam
 - author: Harman, J.
@@ -979,9 +979,6 @@ theses:
   year: 2019
   supervisor: Koomen, E
   file: /files/theses/Kouwenhoven_L.pdf
-  attachments:
-  - label: Poverty distribution mapping using a random forest algorithm a case study of the Mekong river delta, BSc Capstone Amsterdam University College
-    file: /files/theses/Kouwenhoven_L.pdf
   slug: kouwenhoven-poverty-distribution-mapping-using-a-random-forest-algorit
 - author: Gutierrez, J. G.
   title: 'Inclusive Green Growth: The Sustainable Livelihood of the Mekong Delta in Vietnam'
