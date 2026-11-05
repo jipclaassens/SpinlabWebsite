@@ -1,13 +1,13 @@
 # The People page is built from this file.
 #
 # Somebody joins: copy a block, change the name and role.
-# Somebody leaves: change their group from staff to former.
+# Somebody leaves: change their group to former.
 # Keep it short. Phone numbers, rooms and publication lists live in the research portal (Pure), so
 # they stay correct without anyone having to update them here.
 #
 #   name     full name
 #   role     what they do at SPINlab
-#   group    staff or former
+#   group    staff, phd, affiliates or former
 #   pure     the last part of their address on research.vu.nl/en/persons/ (optional)
 #   feed     true: their recent publications appear on this site (optional)
 #   page     their page on this site (optional)
@@ -19,117 +19,141 @@ verified: false
 
 groups:
   staff: Staff
+  phd: PhD researchers
+  affiliates: Affiliated researchers and advisors
   former: Former members
-
 people:
-- name: Henri de Groot
-  role: Chair
-  group: staff
-  pure: henri-de-groot
 - name: Eric Koomen
-  photo: /files/people/eric-koomen.jpg
-  role: Chair, team leader Spatial Analysis and Modelling
+  role: Research leader
   group: staff
+  photo: /files/people/eric-koomen.jpg
   pure: eric-koomen
   feed: true
   page: /phd-research/eric-koomen/
   email: e.koomen@vu.nl
-- name: Henk Scholten
-  photo: /files/people/henk-scholten.jpg
-  role: Scientific director
+- name: Jaap Boter
+  role: Programme Director UNIGIS
   group: staff
+  photo: /files/people/jaap-boter.jpg
+  pure: jaap-boter
+- name: Eduardo Dias
+  role: Team Leader Spatial Data
+  group: staff
+  photo: /files/people/eduardo-dias.jpg
+  pure: eduardo-simao-da-graca-dias
+  page: /phd-research/eduardo-dias/
+- name: Jiakun Liu
+  role: Postdoc researcher
+  group: staff
+  photo: /files/people/jiakun-liu.jpg
+  pure: jiakun-liu
+  feed: true
 - name: Jip Claassens
+  role: PhD Researcher
+  group: phd
   photo: /files/people/jip-claassens.jpg
-  role: Researcher
-  group: staff
   pure: jip-claassens
   feed: true
   page: /phd-research/jip-claassens/
-- name: Niels van Manen
-  photo: /files/people/niels-van-manen.jpg
-  role: Team leader Spatial Digital Humanities
-  group: staff
-- name: Eduardo Dias
-  photo: /files/people/eduardo-dias.jpg
-  role: Team leader Geodesign
-  group: staff
-  page: /phd-research/eduardo-dias/
-- name: Maurice de Kleijn
-  photo: /files/people/maurice-de-kleijn.jpg
-  role: Researcher
-  group: staff
-  page: /phd-research/maurice-de-kleijn/
-- name: Jaap Boter
-  photo: /files/people/jaap-boter.jpg
-  role: Researcher
-  group: staff
-  pure: jaap-boter
-- name: Ron Janssen
-  photo: /files/people/ron-janssen.jpg
-  role: Researcher
-  group: staff
-  pure: ron-janssen
-- name: Paolo Tasseron
-  role: Researcher
-  group: staff
-- name: Apeksha Tare
-  photo: /files/people/apeksha-tare.jpg
-  role: PhD researcher
-  group: staff
-  pure: apeksha-tare
-- name: Mark Opmeer
-  role: PhD researcher
-  group: staff
+- name: Marcela Martinez Ibarra
+  role: PhD Researcher
+  group: phd
+  photo: /files/people/marcela-martinez-ibarra.jpg
 - name: Sanne Hettinga
+  role: PhD Researcher
+  group: phd
   photo: /files/people/sanne-hettinga.jpg
-  role: PhD researcher
-  group: staff
   page: /phd-research/sanne-hettinga/
-- name: Xander Wilcke
-  photo: /files/people/xander-wilcke.jpg
-  role: PhD researcher
+- name: Apeksha Tare
+  role: PhD Researcher
+  group: phd
+  photo: /files/people/apeksha-tare.jpg
+  pure: apeksha-tare
+  feed: true
+- name: Yujing Ma
+  role: PhD Researcher
+  group: phd
+  photo: /files/people/yujing-ma.jpg
+- name: Maaike van Aalst
+  role: PhD Researcher
+  group: phd
+  photo: /files/people/maaike-van-aalst.jpg
+  pure: maaike-van-aalst
+  feed: true
+- name: Xingcheng Zheng
+  role: PhD Researcher
+  group: phd
+  pure: xincheng-zheng
+  feed: true
+- name: Yashvant Premchand
+  role: PhD Researcher
+  group: phd
+  photo: /files/people/yashvant-premchand.jpg
+  pure: yashvant-premchand
+  feed: true
+- name: Tu Giang Vu
+  role: PhD Researcher
+  group: phd
+  photo: /files/people/tu-giang-vu.jpg
+  pure: tu-giang-vu
+  feed: true
+- name: Zhenyu Luo
+  role: PhD Researcher
+  group: phd
+  photo: /files/people/zhenyu-luo.jpg
+  pure: zhenyu-luo
+  feed: true
+- name: Lynn Bouwknegt
+  role: PhD Researcher
+  group: phd
+  photo: /files/people/lynn-bouwknegt.jpg
+  pure: lynn-bouwknegt
+  feed: true
+- name: Nursakti Adhi Pratomoatmojo
+  role: PhD Researcher
+  group: phd
+  photo: /files/people/nursakti-adhi-pratomoatmojo.jpg
+  pure: nursakti-adhi-pratomoatmo-pratomoatmojo
+  feed: true
+- name: Thijmen van der Wielen
+  role: Researcher
   group: staff
-  pure: xander-wilcke
-  page: /phd-research/xander-wilcke/
-- name: Ting Zhou
-  photo: /files/people/ting-zhou.jpg
-  role: PhD researcher
+  photo: /files/people/thijmen-van-der-wielen.jpg
+  pure: thijmen-van-der-wielen
+  feed: true
+- name: Ron Janssen
+  role: Affiliate Researcher
+  group: affiliates
+  photo: /files/people/ron-janssen.jpg
+  pure: ron-janssen
+- name: Sofie Roelofswaard
+  role: Student Assistant
   group: staff
-- name: Erik van der Zee
-  photo: /files/people/erik-van-der-zee.jpg
-  role: PhD researcher
-  group: staff
-- name: Bo Andrée
-  photo: /files/people/bo-andree.jpg
-  role: PhD researcher
-  group: staff
-  page: /phd-research/bo-andree/
+  photo: /files/people/sofie-roelofswaard.jpg
 - name: Bart Rijken
+  role: Affiliate Researcher
+  group: affiliates
   photo: /files/people/bart-rijken.jpg
-  role: PhD researcher
-  group: staff
-- name: Azarakhsh Rafiee-Voermans
-  photo: /files/people/azarakhsh-rafiee-voermans.jpg
-  role: PhD researcher
-  group: staff
-- name: Nursakti Pratomoatmojo
-  role: PhD researcher
-  group: staff
-- name: Bart Kusse
-  photo: /files/people/bart-kusse.jpg
-  role: General staff
-  group: staff
-- name: Luc Kohsiek
-  photo: /files/people/luc-kohsiek.jpg
-  role: Scientific advisor
-  group: staff
-- name: Rob van de Velde
-  photo: /files/people/rob-van-de-velde.jpg
-  role: Scientific advisor
-  group: staff
-- name: Brian de Vogel
-  role: Student assistant
-  group: staff
+- name: Bo Andrée
+  role: Affiliate Researcher
+  group: affiliates
+  photo: /files/people/bo-andree.jpg
+  page: /phd-research/bo-andree/
+- name: Maurice de Kleijn
+  role: Affiliate Lecturer
+  group: affiliates
+  photo: /files/people/maurice-de-kleijn.jpg
+  pure: mtm-de-kleijn
+  page: /phd-research/maurice-de-kleijn/
+- name: Henk Scholten
+  role: Scientific Advisor
+  group: affiliates
+  photo: /files/people/henk-scholten.jpg
+- name: Henri de Groot
+  role: Scientific Advisor
+  group: affiliates
+  photo: /files/people/henri-de-groot.jpg
+  pure: henri-de-groot
 - name: Chris Jacobs-Crisioni
   role: Former PhD researcher
   group: former
@@ -146,3 +170,9 @@ people:
   role: Former PhD researcher
   group: former
   page: /phd-research/joost-buurman/
+- name: Xander Wilcke
+  role: Former PhD researcher
+  group: former
+  photo: /files/people/xander-wilcke.jpg
+  pure: xander-wilcke
+  page: /phd-research/xander-wilcke/

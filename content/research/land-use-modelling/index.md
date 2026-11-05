@@ -2,6 +2,7 @@
 title: Land use modelling
 description: How land use changes and may change, from the Netherlands to the whole world. Current work on the RuimteScanner, 2UP and CRISP.
 banner: land-use-modelling
+banner_caption: "Land use in the Randstad. Source: CBS Bestand Bodemgebruik 2022."
 ---
 
 The analysis and simulation of land-use change has long been a central topic at SPINlab. We look at what has driven land-use change in the past, simulate how land use may develop, and assess what that means for policy: for open space, urbanisation and flood risk, among other things.

@@ -1,5 +1,6 @@
 ---
 banner: geodesign
+banner_caption: "Dwellings per hectare in Amsterdam, shown as height. Source: BAG."
 title: Geodesign and digital twins
 description: Geodesign tools can be used to support collaborative processes. Typical tools combine different methods, such as simulation models, spatial multi-criteria analysis, visualization,...
 updated: '2021-03-23'
@@ -7,7 +8,7 @@ updated: '2021-03-23'
 
 ## Digital twins
 
-Digital twins take the same idea further: a dynamic, virtual representation of a place that people can explore together. See [Twinning for climate-resilient urban solutions](/news/twinning-for-climate-resilient-urban-solutions/) with the University of Twente, its [final workshop](/news/final-workshop-twinning-for-climate-resilient-urban-solutions/), and the [digital twin of Alkmaar](/news/digital-twin-alkmaar/).
+A digital twin is a dynamic, virtual representation of a place that people can explore together. See [Twinning for climate-resilient urban solutions](/news/twinning-for-climate-resilient-urban-solutions/) with the University of Twente, its [final workshop](/news/final-workshop-twinning-for-climate-resilient-urban-solutions/), and the [digital twin of Alkmaar](/news/digital-twin-alkmaar/).
 
 ## Geodesign
 

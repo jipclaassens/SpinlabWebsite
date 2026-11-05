@@ -2,6 +2,7 @@
 title: Accessibility
 description: Accessibility analysis on highly detailed spatial data, alongside the transport economics of the Department of Spatial Economics.
 banner: accessibility
+banner_caption: "Roads (blue) and railways (orange) around Utrecht. Source: CBS Bestand Bodemgebruik 2022."
 ---
 
 The Department of Spatial Economics has a strong focus on transport economics. SPINlab complements that research with accessibility analysis, building on new and highly detailed spatial data.

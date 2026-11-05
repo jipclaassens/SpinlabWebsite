@@ -533,7 +533,8 @@ def render(page, pages, css_name):
             current = f' See <a href="{parent}">{html.escape(str(index[parent]["meta"].get("title", "")))}</a> for current work.'
         notice = f'<p class="archived">This page describes earlier work and is no longer updated.{current}</p>'
     if meta.get("banner"):
-        notice = f'<img class="page-banner" src="/assets/map/{html.escape(str(meta["banner"]))}.png" alt="">' + notice
+        caption = f'<p class="caption banner-caption">{html.escape(str(meta["banner_caption"]))}</p>' if meta.get("banner_caption") else ""
+        notice = f'<img class="page-banner" src="/assets/map/{html.escape(str(meta["banner"]))}.png" alt="">{caption}' + notice
     updated = ""
     if meta.get("updated") and not page["url"].startswith("/news/"):
         updated = f'<p class="updated">Last updated {html.escape(format_date(meta["updated"]))}</p>'
@@ -807,7 +808,7 @@ def main():
     write_feed(pages)
     write_search_index(pages)
     if not load_people().get("verified"):
-        print("WARNING: data/people.yaml is not verified yet: the list comes from the 2019 version of the site")
+        print("WARNING: data/people.yaml has not been checked yet: it is the list the old site showed in June 2026")
     print(f"site written to {OUT_DIR}/")
 
     if args.check and not check_links():

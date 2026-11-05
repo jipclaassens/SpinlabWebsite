@@ -2,6 +2,7 @@
 title: Climate adaptation
 description: How land use and climate change influence each other, and what that means for adaptation.
 banner: climate-adaptation
+banner_caption: "The delta of the Rhine and Meuse: water (blue), built-up areas (orange) and nature (green). Source: CBS Bestand Bodemgebruik 2022."
 ---
 
 Land use and climate influence each other: changes in land use may affect the climate, and climate change will influence future land use. Research at SPINlab focuses mainly on what climate change means for land-use patterns. We use land-use models to simulate the effects of socio-economic change, climate impacts and adaptation measures.

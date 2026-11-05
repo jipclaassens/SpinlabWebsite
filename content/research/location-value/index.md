@@ -2,6 +2,7 @@
 title: Location value
 description: What location adds to the value of property, from open space and aircraft noise to new infrastructure.
 banner: location-value
+banner_caption: "How far built-up areas in Amsterdam are from the nearest open space of at least 25 hectares: darker is further. Calculated from CBS Bestand Bodemgebruik 2022."
 ---
 
 What determines the value of a property? Real estate agents know the answer: location, location, location. Sale prices reveal what people are willing to pay for accessibility, open space, quiet and other qualities of a place. SPINlab uses these hedonic pricing techniques to value such amenities and disamenities, and to explain land values.

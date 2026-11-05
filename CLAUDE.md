@@ -61,10 +61,10 @@ long side.
 ## Publishing
 
 `.github/workflows/build-and-deploy.yml`. A push to `main` publishes, once the variable `DEPLOY_ENABLED` is
-true; until then it only builds. The upload uses lftp, which handles both sftp and ftps; set
-`DEPLOY_PROTOCOL` to the one the server offers. The first real upload has to be checked by hand, including
-whether `.htaccess` works (old file addresses, security headers) and whether the server can be reached from
-GitHub's runners at all.
+true; until then it only builds. The upload is rsync over ssh with a key made for this purpose; the VU server
+takes keys, not passwords. Its target must be a folder of its own, because `--delete` empties it of everything
+that is not in the site. The first real upload has to be checked by hand, including whether `.htaccess` works
+(old file addresses, security headers).
 
 `.github/workflows/news-from-issue.yml` turns an issue made with the News item form into a page when
 somebody adds the label `publish`, and `thesis-from-issue.yml` does the same for a thesis. The labels `publish`,
@@ -73,7 +73,8 @@ input: it goes in through environment variables and only ever ends up in a markd
 
 ## Before going live
 
-- `data/people.yaml` has `verified: false`, because the list comes from the 2019 version of the site. The build warns until it has been checked.
+- `data/people.yaml` has `verified: false`: it is the list the old site showed in June 2026, the last copy in the Internet Archive. The build warns until it has been checked.
+- The web server: see Publishing.
 - Set `SITE_URL` right if the address changes.
 
 The conversion from WordPress was one-off and its scripts are not in this repository. `content/` is now the

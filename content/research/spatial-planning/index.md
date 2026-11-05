@@ -2,6 +2,7 @@
 title: Spatial planning
 description: What planning policy does to cities and the countryside, and where urban development can still go.
 banner: spatial-planning
+banner_caption: "Built-up areas (blue) and the protected nature network (green) around the Green Heart. Sources: CBS Bestand Bodemgebruik 2022, Natuurnetwerk Nederland."
 ---
 
 Spatial planning tries to steer spatial development so that society and the environment benefit, while also meeting other objectives such as economic development, water management and biodiversity. Reconciling these calls for clear information on current developments, insight into possible future trends, and an understanding of what alternative policies would do. SPINlab provides this by combining spatial analysis with newly available, highly detailed data.

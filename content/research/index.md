@@ -3,11 +3,9 @@ title: Research
 description: SPINlab researches geo-information science and spatial information management, from data collection to analysis, modelling and communication.
 ---
 
-SPINlab carries out research on geo-information science and spatial information management. We apply a wide range of spatial analysis methods to many scientific and societal topics. Spatial analysis aims to turn spatial data into meaningful information, which in decision making means information that helps to prepare, develop and evaluate alternatives. Depending on the question, the work focuses on one or more parts of this process:
+<figure class="side-figure"><img src="/assets/map/netherlands.png" alt="Map of land use in the Netherlands"><figcaption>Land use in the Netherlands. Source: CBS Bestand Bodemgebruik 2022.</figcaption></figure>
 
-- data collection and preparation
-- spatial analysis and modelling, from exploratory analysis to explanatory modelling
-- visualisation and communication, in static maps, interactive web maps, graphs and infographics
+SPINlab carries out research on geo-information science and spatial information management. We apply a wide range of spatial analysis methods to many scientific and societal topics. Spatial analysis aims to turn spatial data into meaningful information, which in decision making means information that helps to prepare, develop and evaluate alternatives.
 
 The research is funded by the Dutch Research Council (NWO), Dutch science programmes such as Climate Changes Spatial Planning and Knowledge for Climate, the European Commission, Dutch ministries and other organisations. It is carried out by PhD candidates and permanent staff.
 
@@ -22,9 +20,11 @@ The research is funded by the Dutch Research Council (NWO), Dutch science progra
 
 Earlier projects, including our work on risk management and spatial digital humanities, are in the [research archive](/research/researcharchive/).
 
-![The iterative spatial analysis process](/files/2016/06/SA_framework_3_large.jpg)
+## From data to decisions
 
-The iterative spatial analysis process (source: Koomen, 2008).
+We work in each phase of the spatial analysis process. What we learn in the last phase feeds back into the earlier ones, so the process is iterative (Koomen, 2008).
+
+<ol class="steps"><li>Exploratory data analysis</li><li>Explanatory data analysis</li><li>Modelling or simulation</li><li>Decision support</li><li>Evaluation or monitoring</li></ol>
 
 ## Latest updates
 
