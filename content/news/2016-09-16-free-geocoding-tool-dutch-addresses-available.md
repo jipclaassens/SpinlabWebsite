@@ -16,4 +16,4 @@ Using an open source GIS-platform (GeoDMS), which is a small but powerful piece 
 You simply put a csv-file with address data in a designated directory, click ‘Export file’  in the geocoding tool, and a resulting csv-file is created that includes your original data, supplemented with X,Y-coordinates, BAG-ID (in case of a unique match) and more data.
 Also metadata about the geocoding process is provided (i.e. how many addresses on what geocode levels have been processed).
 
-Visit [the tools’ web page](/support/tools/geodms-bag-geocoder/) for more information and to download the tool and the source data.
+Visit [the tools’ web page](/support/tools/bag-toolkit/) for more information and to download the tool and the source data.

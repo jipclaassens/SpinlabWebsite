@@ -124,6 +124,7 @@ pages:
   /where-to-build-our-houses/: /news/where-to-build-our-houses/
   /world-urbanization-prospects/: /news/world-urbanization-prospects/
   /you-can-now-register-for-another-interesting-unigis-amsterdam-expert-webinar-on-linked-data-location-intelligence/: /news/
+  /support/tools/geodms-bag-geocoder/: /support/tools/bag-toolkit/
 files:
   /wp-content/uploads/2013/12/Geoplaza_relaunch.png: /files/2013/12/Geoplaza_relaunch.jpg
   /wp-content/uploads/2015/01/kleine_kernen.jpg: /files/2015/01/kleine_kernen-1.jpg
@@ -427,3 +428,9 @@ files:
   /wp-content/uploads/2018/11/LandscapesOfTheThunderDragon_ThomasWarnaarMScThesis.pdf: /files/theses/LandscapesOfTheThunderDragon_ThomasWarnaarMScThesis.pdf
   ? /wp-content/uploads/2018/11/Operationalizing-Social-Inclusiveness-in-Infrastructure-Investment-Choices-in-the-Developing-World_Daniel-Lyons-Harrison.pdf
   : /files/theses/Operationalizing-Social-Inclusiveness-in-Infrastructure-Investment-Choices-in-the-Developing-World_Daniel-Lyons-Harrison.pdf
+  /wp-content/uploads/2016/09/Definite_setup.zip: /support/tools/definite-bosda/
+  /wp-content/uploads/2016/09/evaluationmethods.zip: /support/tools/definite-bosda/
+  /wp-content/uploads/2016/09/geocode_2016-09-16.zip: /support/tools/bag-toolkit/
+  /wp-content/uploads/2017/04/geocode_2017-04-07.zip: /support/tools/bag-toolkit/
+  /wp-content/uploads/2016/09/nvm_2015.zip: /support/tools/bag-toolkit/
+  /wp-content/uploads/2017/04/Manual_Geocoding-using-the-BAG_v08.pdf: /support/tools/bag-toolkit/

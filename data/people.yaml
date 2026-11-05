@@ -14,7 +14,7 @@
 #   email    only if it is meant to be public (optional)
 #   photo    a file in static/files/people/, for example /files/people/name.jpg (optional)
 #
-# Set verified to true once the list has been checked; until then the page shows a draft notice.
+# Set verified to true once the list has been checked; until then the build prints a warning.
 verified: false
 
 groups:

@@ -58,8 +58,7 @@ NAV = [
     ("Tools", "/support/tools/", [
         ("Land Use Scanner", "/research/spatial-analysis-modelling/land-use-scanner-model/"),
         ("Land Use Scanner, student edition", "/support/tools/landusescanner/"),
-        ("BAG geocoder", "/support/tools/geodms-bag-geocoder/"),
-        ("Definite", "/support/tools/definite-bosda/"),
+        ("BAG toolkit", "/support/tools/bag-toolkit/"),
     ]),
     ("Education", "/education/", [
         ("UNIGIS distance learning", "/unigis/"),
@@ -322,8 +321,6 @@ def person_card(person):
 def people_html():
     data = load_people()
     out = []
-    if not data.get("verified"):
-        out.append('<p class="draft">Draft: this list comes from the 2019 version of the site and has not been checked yet.</p>')
     for key, label in data["groups"].items():
         members = [p for p in data["people"] if p.get("group") == key]
         if members:
@@ -797,7 +794,7 @@ def main():
     write_feed(pages)
     write_search_index(pages)
     if not load_people().get("verified"):
-        print("WARNING: data/people.yaml is not verified yet; the People page shows a draft notice")
+        print("WARNING: data/people.yaml is not verified yet: the list comes from the 2019 version of the site")
     print(f"site written to {OUT_DIR}/")
 
     if args.check and not check_links():

@@ -1,13 +1,22 @@
 ---
-title: Land Use Scanner – Student Edition
-description: Land Use Scanner – Model Download The Land Use Scanner Student Edition (download here) provides an example model configuration and geographic data. It allows you to experiment...
-updated: '2023-12-01'
+title: Land Use Scanner, student edition
+description: A working land-use model with its data, to learn how land-use simulation works. Free, and it runs on your own computer.
 ---
 
-**Land Use Scanner – Model Download**
+The student edition is a working version of the [Land Use Scanner](/research/spatial-analysis-modelling/land-use-scanner-model/) that simulates land use in the Netherlands. It comes with its data, so you can change the assumptions and see what happens on the map. It is a first introduction to the modelling environment that research institutes use to support spatial planning.
 
-[The Land Use Scanner Student Edition](https://github.com/ObjectVision/LandUseModelling) ([download here](https://github.com/ObjectVision/LandUseModelling/archive/refs/heads/main.zip)) provides an example model configuration and geographic data. It allows you to experiment with land-use modelling and contains an [assignment](/files/2023/01/LUS_assignment_20january2023.docx) that serves as a first introduction to the modelling environment that is used at various research institutes worldwide to support spatial planning.
+## Get started
 
-The assignment contains a short description of the model, an introduction to its main functions and an assignment that asks you to simulate future land use in the Netherlands according to scenario conditions. Before you start with the exercise, first unzip the Land Use Scanner Student Edition zip file and install the GeoData Model Server (GeoDMS) software ([download the latest release here](https://github.com/ObjectVision/GeoDMS/releases)) by running the GeoDms[XX.X.X]-Setup-x64.exe. Subsequently, start the installed GeoDMS software. A message box with the text: file not found is presented. Browse to the cfg subfolder of the downloaded and unzipped(!) configuration and then select the lus_demo/cfg/demo.dms file and click Open. The Student Edition configuration is now loaded.
+1. Install the latest release of [GeoDMS](https://github.com/ObjectVision/GeoDMS/releases).
+2. [Download the student edition](https://github.com/ObjectVision/LandUseModelling/archive/refs/heads/main.zip) and unzip it in a project folder, such as `D:\prj\LUS_demo`.
+3. Start GeoDMS and open `lus_demo/cfg/demo.dms` from that folder.
 
-If you would like to have more information about the GeoDMS software, please visit [the](https://github.com/ObjectVision/GeoDMS/wiki) developers’ website, where you can find the GeoDMS user guide and results presentations. An extensive set of publications on the Land Use Scanner model and its applications can be found [here](/publications/land-use-scanner-publications/). Please contact us (Dr. Eric Koomen or Jip Claassens) if you want to use this modelling environment to develop your own land-use model.
+## Learn with it
+
+- The [land-use allocation exercise in the GeoDMS Academy](https://github.com/ObjectVision/GeoDMS_Academy/wiki/Module-6%2C-Allocating-land-use) is the assignment and tutorial that goes with this model.
+- The [wiki page on the student edition](https://github.com/ObjectVision/LandUseModelling/wiki/Land-Use-Scanner---demo-version) describes how it is set up.
+- The [land use modelling wiki](https://github.com/ObjectVision/LandUseModelling/wiki) explains the methods, such as [discrete](https://github.com/ObjectVision/LandUseModelling/wiki/Discrete-Allocation) and [continuous allocation](https://github.com/ObjectVision/LandUseModelling/wiki/Continuous-Allocation).
+
+## Going further
+
+The full model, for use in research, is [RSopen](https://www.geodms.nl/rsopen/). The [Land Use Scanner publications](/publications/land-use-scanner-publications/) show what it has been used for. To develop your own land-use model in this environment, contact [Eric Koomen](https://research.vu.nl/en/persons/eric-koomen) or [Jip Claassens](https://research.vu.nl/en/persons/jip-claassens).

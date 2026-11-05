@@ -71,7 +71,7 @@ input: it goes in through environment variables and only ever ends up in a markd
 
 ## Before going live
 
-- `data/people.yaml` has `verified: false`, and the People page shows a draft notice until that is true.
+- `data/people.yaml` has `verified: false`, because the list comes from the 2019 version of the site. The build warns until it has been checked.
 - Set `SITE_URL` right if the address changes.
 
 The conversion from WordPress was one-off and its scripts are not in this repository. `content/` is now the
