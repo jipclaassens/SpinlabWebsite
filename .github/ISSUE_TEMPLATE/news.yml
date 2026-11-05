@@ -1,6 +1,7 @@
 name: News item
 description: Write a news item for the site. It goes online once somebody adds the label "publish".
 title: "A short title for the news item"
+labels: [news]
 body:
   - type: textarea
     id: text

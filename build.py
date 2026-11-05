@@ -35,6 +35,7 @@ OUT_DIR = "_site"
 HOME_NEWS = 4
 HOME_PUBLICATIONS = 5
 LIST_PUBLICATIONS = 15
+HOME_THESES = 4
 
 # Order and grouping of the main navigation. A page that is not listed is still built and is
 # reachable through its parent page.
@@ -53,8 +54,8 @@ NAV = [
     ]),
     ("Education", "/education/", [
         ("UNIGIS distance learning", "/unigis/"),
-        ("Supervised theses", "/supervised-theses/"),
     ]),
+    ("Theses", "/supervised-theses/", []),
     ("Publications", "/publications/", [
         ("PhD dissertations", "/publications/phd-dissertations/"),
         ("Land Use Scanner publications", "/publications/land-use-scanner-publications/"),
@@ -309,6 +310,110 @@ def publications_html(limit):
     return f'<div class="pub-list">{rows}</div>'
 
 
+def load_theses():
+    data = yaml.safe_load(open(f"{DATA_DIR}/theses.yaml", encoding="utf-8"))
+    return data["programmes"], data["theses"]
+
+
+def thesis_sort_key(thesis):
+    return (str(thesis.get("date") or thesis.get("year") or ""), str(thesis.get("title", "")))
+
+
+def thesis_when(thesis):
+    return format_date(thesis["date"]) if thesis.get("date") else str(thesis.get("year", ""))
+
+
+def thesis_url(thesis):
+    return f"/supervised-theses/{thesis['slug']}/"
+
+
+def thesis_row(thesis):
+    title = html.escape(str(thesis["title"]))
+    parts = [thesis.get("author"), thesis.get("degree"), thesis_when(thesis)]
+    meta = " · ".join(html.escape(str(p)) for p in parts if p)
+    if thesis.get("file"):
+        title = f'<a class="thesis-title" href="{thesis_url(thesis)}">{title}</a>'
+    else:
+        title = f'<span class="thesis-title">{title}</span>'
+        meta += " · no public copy"
+    return f'<div class="thesis">{title}<div class="thesis-meta">{meta}</div></div>'
+
+
+def theses_html():
+    # the collection: one section per programme, newest first, with a filter that needs javascript
+    # and therefore stays hidden without it
+    programmes, theses = load_theses()
+    online = sum(1 for t in theses if t.get("file"))
+    out = [f'<p class="muted">{len(theses)} theses, of which {online} can be read online.</p>',
+           '<input class="search-box" id="thesis-filter" type="search" placeholder="Filter by title, author, programme or year" aria-label="Filter the theses" hidden>',
+           '<div class="chips">' + "".join(f'<a class="chip" href="#{key}">{html.escape(label)}</a>' for key, label in programmes.items()) + "</div>"]
+    for key, label in programmes.items():
+        members = sorted((t for t in theses if t["programme"] == key), key=thesis_sort_key, reverse=True)
+        if members:
+            out.append(f'<section class="thesis-group" id="{key}"><h2>{html.escape(label)}</h2>{"".join(thesis_row(t) for t in members)}</section>')
+    out.append('<p class="muted" id="thesis-none" hidden>No thesis matches this filter.</p><script src="/assets/theses.js" defer></script>')
+    return "".join(out)
+
+
+def home_theses_html():
+    _, theses = load_theses()
+    online = [t for t in theses if t.get("file")]
+    latest = sorted(online, key=thesis_sort_key, reverse=True)[:HOME_THESES]
+    return (f'<p>{len(online)} bachelor and master theses supervised at SPINlab, open for anyone to read. '
+            'They are handed in at the university but not published anywhere else.</p>'
+            '<p class="more"><a href="/supervised-theses/">All theses</a></p>',
+            "".join(thesis_row(t) for t in latest))
+
+
+def thesis_page_head(thesis):
+    # Google Scholar reads these tags, which is how a thesis can be found outside this site
+    day = str(thesis.get("date") or thesis.get("year") or "").replace("-", "/")
+    tags = {"citation_title": thesis["title"], "citation_author": thesis.get("author", ""), "citation_publication_date": day,
+            "citation_dissertation_institution": thesis_institution(thesis), "citation_pdf_url": SITE_URL + thesis["file"]}
+    return "".join(f'<meta name="{name}" content="{html.escape(str(value))}">\n' for name, value in tags.items() if value)
+
+
+def thesis_institution(thesis):
+    for name in ("University College Utrecht", "Amsterdam University College"):
+        if name in str(thesis.get("degree", "")):
+            return name
+    return "Amsterdam University College" if thesis.get("programme") == "auc" else "Vrije Universiteit Amsterdam"
+
+
+def thesis_body(thesis, programmes):
+    rows = [("Author", thesis.get("author")), ("Degree", thesis.get("degree")), ("Programme", programmes.get(thesis["programme"])),
+            ("Graded" if thesis.get("date") else "Year", thesis_when(thesis)), ("Supervisor", thesis.get("supervisor"))]
+    facts = "".join(f"<dt>{name}</dt><dd>{html.escape(str(value))}</dd>" for name, value in rows if value)
+    size = os.path.getsize(STATIC_DIR + thesis["file"]) / 1e6 if os.path.exists(STATIC_DIR + thesis["file"]) else 0
+    institution = thesis_institution(thesis)
+    degree = str(thesis.get("degree", ""))
+    place = degree if institution in degree else f"{degree}, {institution}"
+    year = str(thesis.get("date") or thesis.get("year") or "")[:4]
+    note = f'<p class="archived">{html.escape(str(thesis["note"]))}</p>' if thesis.get("note") else ""
+    annexes = "".join(f'<a class="annex" href="{html.escape(a["file"])}">{html.escape(str(a["label"]))}</a>' for a in thesis.get("attachments", []))
+    return (f'<dl class="facts">{facts}</dl>{note}'
+            f'<p><a class="btn btn-blue" href="{html.escape(thesis["file"])}">Read the thesis (pdf, {size:.1f} MB)</a>{annexes}</p>'
+            f'<h2>How to cite</h2><p>{html.escape(str(thesis.get("author", "")))} ({year}). {html.escape(str(thesis["title"]))}. {html.escape(place)}.</p>'
+            '<p class="updated">Are you the author, and would you like this page changed or removed? <a href="/contact/">Contact us</a>.</p>')
+
+
+def write_thesis_pages(css_name):
+    programmes, theses = load_theses()
+    shell = open("theme/page.html", encoding="utf-8").read()
+    urls = []
+    for thesis in theses:
+        if not thesis.get("file"):
+            continue
+        url = thesis_url(thesis)
+        urls.append(url)
+        title = html.escape(str(thesis["title"]))
+        write_out(url, fill(shell, title=f"{title} · {SITE_NAME}", description=html.escape(f"{thesis.get('degree', '')} by {thesis.get('author', '')}."),
+                            canonical=SITE_URL + url, nav=nav_html(url), crumbs='<div class="crumbs"><a href="/">Home</a><span>/</span><a href="/supervised-theses/">Supervised theses</a></div>',
+                            pagetitle=title, notice="", side="", layout="no-side", body=thesis_body(thesis, programmes), updated="", css=css_name,
+                            year=str(datetime.now(timezone.utc).year), headextra=thesis_page_head(thesis)))
+    return urls
+
+
 def theme_tiles():
     cells = "".join(
         f'<a class="tile" href="{url}"><img class="tile-map" src="/assets/map/{key}.png" alt="" loading="lazy">'
@@ -339,6 +444,8 @@ def render_body(page, pages):
             return people_html()
         if name == "publications":
             return publications_html(LIST_PUBLICATIONS)
+        if name == "theses":
+            return theses_html()
         if name == "children":
             kids = children_of(page["url"], by_url(pages))
             return '<ul class="children">' + "".join(f'<li><a href="{u}">{html.escape(t)}</a></li>' for t, u in kids) + "</ul>"
@@ -361,6 +468,7 @@ def hashed_name(path, stem, extension):
 
 
 def fill(shell, **values):
+    values.setdefault("headextra", "")
     for key, value in values.items():
         shell = shell.replace("{{" + key + "}}", value)
     return shell
@@ -381,7 +489,10 @@ def render(page, pages, css_name):
         updated = f'<p class="updated">Last updated {html.escape(format_date(meta["updated"]))}</p>'
     extra = {}
     if is_home:
+        thesis_text, thesis_rows = home_theses_html()
         extra = {
+            "thesistext": thesis_text,
+            "thesisrows": thesis_rows,
             "tiles": theme_tiles(),
             "homenews": news_html(pages, limit=HOME_NEWS),
             "homepubs": publications_html(HOME_PUBLICATIONS),
@@ -487,9 +598,9 @@ def close_folders():
                 '<!doctype html><meta charset="utf-8"><title>Documents</title><meta name="robots" content="noindex"><p><a href="/publications/">Publications</a></p>\n')
 
 
-def write_sitemap(pages):
+def write_sitemap(pages, extra_urls):
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    urls = sorted(p["url"] for p in pages.values() if not p["url"].endswith(".html"))
+    urls = sorted([p["url"] for p in pages.values() if not p["url"].endswith(".html")] + extra_urls)
     with open(f"{OUT_DIR}/sitemap.xml", "w", encoding="utf-8") as fn:
         fn.write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
         for url in urls:
@@ -520,6 +631,12 @@ def write_search_index(pages):
         text = re.sub(r"[#*_>`|]", " ", text)
         records.append({"t": str(page["meta"].get("title", "")), "u": page["url"], "d": str(page["meta"].get("description", ""))[:160],
                         "x": re.sub(r"\s+", " ", text).strip()[:3000]})
+    # every thesis is a record of its own, otherwise only the first few on the list could be found
+    programmes, theses = load_theses()
+    for thesis in theses:
+        records.append({"t": str(thesis["title"]), "u": thesis_url(thesis) if thesis.get("file") else "/supervised-theses/",
+                        "d": " · ".join(str(p) for p in (thesis.get("author"), thesis.get("degree"), thesis_when(thesis)) if p),
+                        "x": f"{thesis.get('author', '')} {programmes.get(thesis['programme'], '')} {thesis.get('degree', '')} {thesis.get('year', '')}"})
     json.dump(records, open(f"{OUT_DIR}/search.json", "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
 
 
@@ -556,7 +673,8 @@ def main():
     for page in pages.values():
         write_out(page["url"], render(page, pages, css_name))
     used = theme_pages(pages, css_name)
-    print(f"{len(pages)} pages, {len(used)} news themes")
+    thesis_urls = write_thesis_pages(css_name)
+    print(f"{len(pages)} pages, {len(thesis_urls)} thesis pages, {len(used)} news themes")
 
     shutil.copytree(ASSETS_DIR, f"{OUT_DIR}/assets", dirs_exist_ok=True)
     shutil.copy("theme/site.css", f"{OUT_DIR}/assets/{css_name}")
@@ -565,7 +683,7 @@ def main():
 
     write_redirects(pages)
     close_folders()
-    write_sitemap(pages)
+    write_sitemap(pages, thesis_urls)
     write_feed(pages)
     write_search_index(pages)
     if not load_people().get("verified"):

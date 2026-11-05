@@ -40,12 +40,14 @@ with `#`, links look like `[text](https://example.org)`, and a table is a few li
 
 ## Add a thesis
 
-Open [`content/supervised-theses.md`](content/supervised-theses.md), upload the pdf to
-[`static/files/theses/`](static/files/), and add a line under the right programme:
+This site is the only place where these theses are public, so this is the page that matters most.
 
-```
-[Name. Title. MSc thesis STREEM.](/files/theses/file-name.pdf) Graded 1 July 2026.
-```
+The easiest way: open [Issues](../../issues/new/choose), choose **Thesis**, fill in the form and drag the
+pdf into the box. Add the label `publish` and it goes online, with its own page that search engines and
+Google Scholar can find. Only do this if the student agreed to it being public.
+
+To do it by hand, upload the pdf to `static/files/theses/` and add a block to
+[`data/theses.yaml`](data/theses.yaml); the instructions are at the top of that file.
 
 ## Documents
 

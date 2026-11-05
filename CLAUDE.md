@@ -32,10 +32,21 @@ design from `assets/`, documents from `static/files/`. Anything else is in git b
 | `tools/make_maps.py` | draws the map pictures in `assets/map/`; needs the CBS land-use raster, which is not in the repository |
 
 A page uses these tokens on a line of their own: `{{news}}`, `{{news:theme}}`, `{{chips}}`, `{{people}}`,
-`{{publications}}`, `{{children}}`. The side menu and the breadcrumbs come from the folder structure, so a
+`{{publications}}`, `{{theses}}`, `{{children}}`. The side menu and the breadcrumbs come from the folder structure, so a
 new page appears there without further work. The top menu is `NAV` in `build.py`.
 
 A page with `archived: true` in its front matter shows a notice that it is no longer updated.
+
+## Theses
+
+The theses are the main reason this site exists: they are handed in at the university but not published
+anywhere else, so this is the only place where they are public. Treat their addresses as permanent, and do
+not change the `slug` of a thesis that is online.
+
+`data/theses.yaml` is the list. Each thesis with a pdf gets its own page under `/supervised-theses/`, with
+the `citation_*` tags Google Scholar reads, and a place in the sitemap and the search index. The pdfs are in
+`static/files/theses/`. `.github/workflows/thesis-from-issue.yml` adds one from the Thesis form, which
+requires ticking that the student agreed.
 
 ## Documents
 
@@ -52,7 +63,8 @@ whether `.htaccess` works (old file addresses, security headers) and whether the
 GitHub's runners at all.
 
 `.github/workflows/news-from-issue.yml` turns an issue made with the News item form into a page when
-somebody adds the label `publish`. The label has to exist in the repository. The issue text is untrusted
+somebody adds the label `publish`, and `thesis-from-issue.yml` does the same for a thesis. The labels `publish`,
+`news` and `thesis` have to exist in the repository. The issue text is untrusted
 input: it goes in through environment variables and only ever ends up in a markdown file.
 
 ## Before going live

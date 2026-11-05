@@ -1,0 +1,60 @@
+name: Thesis
+description: Add a thesis to the site. It goes online once somebody adds the label "publish".
+title: "The title of the thesis"
+labels: [thesis]
+body:
+  - type: input
+    id: author
+    attributes:
+      label: Student
+      description: The name as it should appear on the site.
+    validations:
+      required: true
+  - type: dropdown
+    id: programme
+    attributes:
+      label: Programme
+      options:
+        - Master programme Spatial Economics (STREEM)
+        - Master programme Transport & Supply Chain Management (TSCM)
+        - Master programme Earth Sciences
+        - Bachelor programme Earth Science, Economics and Sustainability
+        - Bachelor programme Amsterdam University College
+        - National GI minor research assignment
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: degree
+    attributes:
+      label: Degree
+      description: For example "MSc thesis STREEM" or "BSc capstone Amsterdam University College".
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Date graded
+      description: As 2026-08-20.
+    validations:
+      required: true
+  - type: input
+    id: supervisor
+    attributes:
+      label: Supervisor
+    validations:
+      required: false
+  - type: textarea
+    id: pdf
+    attributes:
+      label: The thesis as a pdf
+      description: Drag the pdf into this box. It can be at most 25 MB.
+    validations:
+      required: true
+  - type: checkboxes
+    id: permission
+    attributes:
+      label: Permission
+      options:
+        - label: The student agreed to this thesis being public on this site.
+          required: true

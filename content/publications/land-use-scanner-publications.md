@@ -102,7 +102,7 @@ Schaeffer,M., *De invloed van het veranderend landgebruik op de hydrologie*, *Ma
 
 [Koomen, E., Rijken, B., Recent applications of a land-use change model in support of sustainable urban development, in: Lee,D.B., Dias,E.S., Scholten,H.J. (eds.), *Geodesign by integrating Design and Geospatial Sciences*, Springer-Verlag, Heidelberg, 2014.](http://link.springer.com/chapter/10.1007/978-3-319-08299-8_6)
 
-[Olijve, I., *Ruimtelijke veranderingen in de glastuinbouw*, *Bachelor thesis Earth and Economics*, VU University Amsterdam, 2013.](/files/2016/09/Eindversie_Inge_Olijve.pdf)
+[Olijve, I., *Ruimtelijke veranderingen in de glastuinbouw*, *Bachelor thesis Earth and Economics*, VU University Amsterdam, 2013.](/files/theses/Eindversie_Inge_Olijve.pdf)
 
 [Kuhlman, T., Diogo, V., Koomen, E., Exploring the potential of reed as a bioenergy crop in the Netherlands, *Biomass and Bioenergy*, 55, pp.41-52, 2013.](https://doi.org/10.1016/j.biombioe.2012.06.024)
 
@@ -216,7 +216,7 @@ Remarks: Describes the simulation of future land use and its possible environmen
 
 Koomen, E., Improvement of the land allocation in the EUClueScanner100 model, *Final Report to the European Commission, Joint Research Centre*, Vrije Universiteit, Amsterdam, 2011.
 
-[Snelder, M., *Land use modelling of Austria with the EuClueScanner; Calibration and validation of explanatory factors*, *Bachelor thesis Earth and Economics*, VU University Amsterdam, 2010.](/files/2016/09/Snelder_Martijn_Land_use_modelling_Austria.pdf)
+[Snelder, M., *Land use modelling of Austria with the EuClueScanner; Calibration and validation of explanatory factors*, *Bachelor thesis Earth and Economics*, VU University Amsterdam, 2010.](/files/theses/Snelder_Martijn_Land_use_modelling_Austria.pdf)
 
 [Perez-Soba, M., Verburg, P.H., Koomen, E., Hilferink, M., Benito, P., Lesschen, J.P., Banse, M., Woltjer, G., Eickhout, B., Prins, A.-G., Staritsky, I., Land use modelling – implementation; Preserving and enhancing the environmental benefits of land-use services, *Final report to the European Commission, DG Environment*, Alterra Wageningen UR/ Geodan Next/ Object Vision/ BIOS/ LEI and PBL, Wageningen, 2010.](http://ec.europa.eu/environment/enveco/studies.htm#7)
 Remarks: The executive summary can be found [here](/files/2016/09/Enveco7_2010_exec_sum_land_use.pdf).

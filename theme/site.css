@@ -169,6 +169,24 @@ th { font-weight: 700; }
 .person-links { font-size: 0.86rem; margin-top: 0.15rem; }
 .person-links a { margin-right: 0.5rem; }
 
+/* theses */
+.band-theses { background: #EAF4FA; }
+.thesis-band { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 2fr); gap: 3rem; }
+.thesis-band p { margin: 0 0 0.5rem; }
+.thesis { padding: 0.65rem 0; border-top: 1px solid var(--line); line-height: 1.35; }
+.band-theses .thesis { border-color: #CFE3EF; }
+.thesis-title { display: block; font-weight: 600; }
+.thesis-meta { font-size: 0.88rem; color: var(--muted); margin-top: 0.15rem; }
+.thesis-group { margin-top: 2rem; }
+.thesis-group h2 { margin-top: 0; scroll-margin-top: 1rem; }
+.facts { display: grid; grid-template-columns: 8rem minmax(0, 1fr); gap: 0.3rem 1rem; margin: 0 0 1.5rem; }
+.facts dt { color: var(--muted); }
+.facts dd { margin: 0; }
+.btn-blue { background: var(--blue); color: #fff; }
+.btn-blue:hover { background: var(--blue-deep); color: #fff; }
+.annex { margin-left: 1rem; }
+#thesis-filter { margin: 0.5rem 0 0.25rem; }
+
 /* search */
 .search-box { width: 100%; padding: 0.7rem 0.9rem; font: inherit; border: 2px solid var(--blue); }
 .search-result { padding: 0.7rem 0; border-top: 1px solid var(--line); }
@@ -185,7 +203,7 @@ th { font-weight: 700; }
 .foot-head { color: #fff; font-weight: 700; }
 
 /* phones and small tablets */
-@media (max-width: 62rem) {
+@media (max-width: 68rem) {
   .menu-button { display: block; cursor: pointer; padding: 0.4rem 0.8rem; border: 1px solid var(--line); font-weight: 600; }
   .nav { display: none; }
   .menu-toggle:checked ~ .nav { display: block; position: absolute; left: 0; right: 0; top: 100%; background: #fff; border-bottom: 1px solid var(--line); padding: 0.5rem 1.25rem 1rem; }
@@ -195,7 +213,7 @@ th { font-weight: 700; }
   .with-side { grid-template-columns: minmax(0, 1fr); gap: 1.5rem; }
   .side { position: static; border-left: 0; border-top: 1px solid var(--line); padding: 1rem 0 0; }
   .tiles { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .two-col, .offer { grid-template-columns: minmax(0, 1fr); gap: 2.25rem; }
+  .two-col, .offer, .thesis-band { grid-template-columns: minmax(0, 1fr); gap: 2.25rem; }
 }
 @media (max-width: 40rem) {
   .brand-vu { width: 7.25rem; }

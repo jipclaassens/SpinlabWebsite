@@ -8,7 +8,7 @@
 <link rel="canonical" href="{{canonical}}">
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <link rel="alternate" type="application/rss+xml" title="SPINlab news" href="/feed.xml">
-<link rel="stylesheet" href="/assets/{{css}}">
+{{headextra}}<link rel="stylesheet" href="/assets/{{css}}">
 </head>
 <body class="home">
 <a class="skip" href="#main">Skip to content</a>
@@ -37,6 +37,15 @@
     <div class="wrap">
       <h2 class="section-title">Research themes</h2>
       {{tiles}}
+    </div>
+  </section>
+  <section class="band band-theses">
+    <div class="wrap thesis-band">
+      <div>
+        <h2 class="section-title">Student theses</h2>
+        {{thesistext}}
+      </div>
+      <div class="thesis-latest">{{thesisrows}}</div>
     </div>
   </section>
   <section class="band band-sand">

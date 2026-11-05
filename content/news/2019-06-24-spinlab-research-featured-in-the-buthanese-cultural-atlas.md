@@ -13,6 +13,6 @@ The project supported the creation of a comprehensive repository of heritage dat
 
 Some of the of the landscape mapping methodologies developed in this project are featured in the recently launched Nye Atlas of Bhutan in cooperation with cartographer Wim Feringa (University of Twente). This authoritative Atlas, published by the Bhutan National Mapping agency (NLCS), intends to be a comprehensive inventory of Bhutanese heritage and in this way support its management.
 
-The project was also the subject of Thomas Warnaar’s Master Thesis “*Landscapes of the Thunder Dragon, Creating a Typology of Bhutanese Landscapes as a tool for Policy-makers and Researchers*”([link](/files/2018/11/LandscapesOfTheThunderDragon_ThomasWarnaarMScThesis.pdf)). As part of this thesis Thomas developed the first ever cultural landscape characterization for Bhutan.
+The project was also the subject of Thomas Warnaar’s Master Thesis “*Landscapes of the Thunder Dragon, Creating a Typology of Bhutanese Landscapes as a tool for Policy-makers and Researchers*”([link](/files/theses/LandscapesOfTheThunderDragon_ThomasWarnaarMScThesis.pdf)). As part of this thesis Thomas developed the first ever cultural landscape characterization for Bhutan.
 
 ![](/files/2019/06/Bhutan.png)
