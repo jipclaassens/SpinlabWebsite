@@ -83,6 +83,7 @@ people:
 - name: Xingcheng Zheng
   role: PhD Researcher
   group: phd
+  photo: /files/people/xingcheng-zheng.jpg
   pure: xincheng-zheng
   feed: true
 - name: Yashvant Premchand
@@ -154,6 +155,12 @@ people:
   group: affiliates
   photo: /files/people/henri-de-groot.jpg
   pure: henri-de-groot
+- name: Francisco Santos
+  role: PhD Researcher
+  group: phd
+  photo: /files/people/francisco-santos.jpg
+  pure: francisco-mota-grilo-santos
+  feed: true
 - name: Chris Jacobs-Crisioni
   role: Former PhD researcher
   group: former
