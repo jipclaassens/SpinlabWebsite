@@ -5,6 +5,7 @@ description: Stel nu dat we bodem en water echt serieus nemen bij de inrichting 
 themes:
 - land-use-modelling
 - spatial-analysis
+- spatial-planning
 ---
 
 Stel nu dat we bodem en water echt serieus nemen bij de inrichting van Nederland zoals de overheid beoogt? Voor Follow the Money heeft het SPINlab gekeken wat geschikte plekken voor woningbouw zijn. Een paar simpele uitgangspunten staan daarbij centraal: de circa 1 miljoen extra woningen die we denken nodig te hebben in 2030,  beschikbare informatie over de beperkingen van de ondergrond (te nat, te slap, etc.) en ruimtelijk economische inzichten over aantrekkelijke plekken voor woningbouw. Waar kun je dan het beste bouwen?

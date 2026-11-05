@@ -21,10 +21,6 @@ The content of the App is gathered by the Royal Dutch Institute in Rome KNIR tog
 
 The Designs produced during the design concourse can be found [here](http://www.flickr.com/photos/89784880@N07/).
 
-|  |  |
-| --- | --- |
-| **A publication related to Rediscovering Testaccio** | |
+**A publication related to Rediscovering Testaccio**
 
-|  |  |
-| --- | --- |
-| [UMAP 2013](http://ceur-ws.org/Vol-997/patch2013_paper_11.pdf) | de Kleijn, M.T.M., van Aart, C., van Manen, N., Burgers, G-J., Scholten, H.J., Testaccio, A Digital Cultural Biography App, in: *UMAP 2013 Extended Proceedings of the 21st Conference on User Modeling, Adaptation, and Personalization*, Rome, Italy, June 10-14, 2013. |
+- de Kleijn, M.T.M., van Aart, C., van Manen, N., [Burgers, G-J., Scholten, H.J., Testaccio, A Digital Cultural Biography App](http://ceur-ws.org/Vol-997/patch2013_paper_11.pdf), in: *UMAP 2013 Extended Proceedings of the 21st Conference on User Modeling, Adaptation, and Personalization*, Rome, Italy, June 10-14, 2013.

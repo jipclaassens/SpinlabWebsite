@@ -18,35 +18,35 @@ Finished: 2011
 
 **Publications related to LANDS (KvR)**
 
-[Diogo, V., Koomen, E., van der Hilst, F., Second generation biofuel production in the Netherlands: a spatially-explicit exploration on the economic viability of a perennial biofuel crop, Research Memorandum 2012-4, Faculty of Economics and Business Administration, Vrije Universiteit, Amsterdam, 2012.](http://hdl.handle.net/1871/33507)
+Diogo, V., Koomen, E., van der Hilst, F., [Second generation biofuel production in the Netherlands: a spatially-explicit exploration on the economic viability of a perennial biofuel crop](http://hdl.handle.net/1871/33507), Research Memorandum 2012-4, Faculty of Economics and Business Administration, Vrije Universiteit, Amsterdam, 2012.
 
 Koomen, E., de Moel. H., Steingröver, E.G., van Rooij, S.A.M., van Eupen, M., Land use and climate change; synthesis report, KvR report number KvR 062/12, Vrije Universiteit/Alterra, Amsterdam/Wageningen, 2012.
 
-[Koomen, E., Opdam, P., Steingröver, E., Adapting complex multi-level landscape systems to climate change; Editorial, Landscape Ecology, 2012.](https://doi.org/10.1007/s10980-012-9721-8)
+Koomen, E., Opdam, P., Steingröver, E., [Adapting complex multi-level landscape systems to climate change; Editorial, Landscape Ecology](https://doi.org/10.1007/s10980-012-9721-8), 2012.
 
-[De Moel, H., Aerts, J.C.J.H., Koomen, E., Development of flood exposure in the Netherlands during the 20th and 21st century, Global Environmental Change, 21 (2), pp.620-627, 2011.](https://doi.org/10.1016/j.gloenvcha.2010.12.005)
+De Moel, H., Aerts, J.C.J.H., Koomen, E., [Development of flood exposure in the Netherlands during the 20th and 21st century, Global Environmental Change, 21 (2), pp.620-627](https://doi.org/10.1016/j.gloenvcha.2010.12.005), 2011.
 
-[Dekkers, J.E.C., Rietveld, P., Explaining land-use transition in a segmented land market; potential input for Land Use Scanner. Chapter 9, in: Koomen, E., Borsboom-van Beurden, J. (eds.), Land-use modelling in planning practice. GeoJournal Library Vol. 101, Springer, Dordrecht, 2011.](http://link.springer.com/chapter/10.1007/978-94-007-1822-7_9)
+Dekkers, J.E.C., Rietveld, P., [Explaining land-use transition in a segmented land market; potential input for Land Use Scanner](http://link.springer.com/chapter/10.1007/978-94-007-1822-7_9). Chapter 9, in: Koomen, E., Borsboom-van Beurden, J. (eds.), Land-use modelling in planning practice. GeoJournal Library Vol. 101, Springer, Dordrecht, 2011.
 
-[Jacobs-Crisioni, C.G.W., Koomen, E., Bouwman, A., van den Burg, A., Lessons learned from using land-use simulation in regional planning. Chapter 8, in: Koomen, E., Borsboom-van Beurden, J. (eds.), Land-use modelling in planning practice. GeoJournal Library Vol. 101, Springer, Dordrecht, 2011.](http://link.springer.com/chapter/10.1007/978-94-007-1822-7_8)
+Jacobs-Crisioni, C.G.W., Koomen, E., Bouwman, A., van den Burg, A., [Lessons learned from using land-use simulation in regional planning](http://link.springer.com/chapter/10.1007/978-94-007-1822-7_8). Chapter 8, in: Koomen, E., Borsboom-van Beurden, J. (eds.), Land-use modelling in planning practice. GeoJournal Library Vol. 101, Springer, Dordrecht, 2011.
 
-[Koekoek, A., Koomen, E., Loonen, W., van Dijk, J., Simulation of future land use for developing a regional spatial strategy; the case of the Province of Overijssel. Chapter 7, in: Koomen, E., Borsboom-van Beurden, J. (eds.), Land-use modelling in planning practice. GeoJournal Library Vol. 101, Springer, Dordrecht, 2011.](http://link.springer.com/chapter/10.1007/978-94-007-1822-7_7)
+Koekoek, A., Koomen, E., Loonen, W., van Dijk, J., [Simulation of future land use for developing a regional spatial strategy; the case of the Province of Overijssel](http://link.springer.com/chapter/10.1007/978-94-007-1822-7_7). Chapter 7, in: Koomen, E., Borsboom-van Beurden, J. (eds.), Land-use modelling in planning practice. GeoJournal Library Vol. 101, Springer, Dordrecht, 2011.
 
 Koomen, E., Jacobs-Crisioni, C.G.W., Ruimtegebruiksimulatie in de regionale beleidspraktijk, Rooilijn, 44 (4), pp.284-291, 2011.
 
 Koomen, E., Borsboom-van Beurden, J., Land-use modelling in planning practice, GeoJournal Library Vol. 101, Springer, Dordrecht, 2011.
 
-[Koomen, E., Hilferink, M., Borsboom-van Beurden, J., Introducing Land Use Scanner. Chapter 1, in: Koomen, E., Borsboom-van Beurden, J. (eds.), Land-use modelling in planning practice. GeoJournal Library Vol. 101, Springer, Dordrecht, 2011.](https://link.springer.com/chapter/10.1007/978-94-007-1822-7_1)
+Koomen, E., Hilferink, M., Borsboom-van Beurden, J., [Introducing Land Use Scanner](https://link.springer.com/chapter/10.1007/978-94-007-1822-7_1). Chapter 1, in: Koomen, E., Borsboom-van Beurden, J. (eds.), Land-use modelling in planning practice. GeoJournal Library Vol. 101, Springer, Dordrecht, 2011.
 
-[Koomen, E., Koekoek, A., Dijk, E., Simulating Land-use Change in a Regional Planning Context, Applied Spatial Analysis and Policy, 4 (4), pp.223-247, 2011.](https://doi.org/10.1007/s12061-010-9053-5)
+Koomen, E., Koekoek, A., Dijk, E., [Simulating Land-use Change in a Regional Planning Context, Applied Spatial Analysis and Policy, 4 (4), pp.223-247](https://doi.org/10.1007/s12061-010-9053-5), 2011.
 
-[Kuhlman, T., Verburg, R., van Dijk, J., Phan-Drost, N., Biomass on peat soils? Feasibility of bio energy production under a climate change scenario. Chapter 6, in: Koomen, E., Borsboom-van Beurden, J. (eds.), Land-use modelling in planning practice. GeoJournal Library Vol. 101, Springer, Dordrecht, 2011.](https://link.springer.com/chapter/10.1007/978-94-007-1822-7_6)
+Kuhlman, T., Verburg, R., van Dijk, J., Phan-Drost, N., [Biomass on peat soils? Feasibility of bio energy production under a climate change scenario](https://link.springer.com/chapter/10.1007/978-94-007-1822-7_6). Chapter 6, in: Koomen, E., Borsboom-van Beurden, J. (eds.), Land-use modelling in planning practice. GeoJournal Library Vol. 101, Springer, Dordrecht, 2011.
 
 Olsthoorn, J., Koomen, E., Dekkers, J.E.C., Ruimtelijke verkenning Veenkoloniën 2040, Deelrapport Geodan Next, in opdracht van Stuurgroep Agenda voor de Veenkoloniën, Geodan Next, Amsterdam, 2011.
 
 van t Klooster, S., van Drunen, M., Koomen, E., Socio-Economic Scenarios in Climate Adaptation Studies. Chapter 3, in: Aerts, J., Botzen, W., Bowman, M.J., Ward, P.J., Dircke, P. (eds.), Climate Adaptation and flood risk in coastal cities, Earthscan, Oxford/New York, 2011.
 
-[Verburg, P.H., Lesschen, J.P., Koomen, E., Perez-Soba, M., Simulating land use policies targeted to protect biodiversity in Europe with the CLUE-Scanner model, in: Trisurat, Y., Shrestha, R.P., Alkemade, R. (eds.), Land Use, Climate Change and Biodiversity Modeling: Perspectives and Applications, IGI Global, Hershey, PA, USA, 2011.](http://www.igi-global.com/bookstore/chapter.aspx?titleid=53749)
+Verburg, P.H., Lesschen, J.P., Koomen, E., Perez-Soba, M., [Simulating land use policies targeted to protect biodiversity in Europe with the CLUE-Scanner model](http://www.igi-global.com/bookstore/chapter.aspx?titleid=53749), in: Trisurat, Y., Shrestha, R.P., Alkemade, R. (eds.), Land Use, Climate Change and Biodiversity Modeling: Perspectives and Applications, IGI Global, Hershey, PA, USA, 2011.
 
 Wagtendonk, A.J., Evaluating the loss of open space in land use change simulation, Spinlab Research Memorandum SL-12, Amsterdam, 2011.
 
@@ -76,7 +76,7 @@ Loonen, W., Koomen, E., Calibration and validation of the Land Use Scanner alloc
 
 van den Bergh, D., Berendsen, R., Gerritsen, M., Mes, R., van Nistelrooij, H., Koomen, E., Loonen, W., Ruimtelijke klimaatscan; Methodiek ontwikkeling, case Zuid Holland, Xplorelab, provincie Zuid Holland, Den Haag, 2009.
 
-[van der Hoeven, E.M.M.M., Aerts, J., van der Klis, H., Koomen, E., An Integrated Discussion Support System for New Dutch Flood Risk Management Strategies. Chapter 8, in: Geertman, S., Stillwell, J.C.H. (eds.), Planning Support Systems: Best Practices and New Methods. GeoJournal library, Springer, Berlin, 2009.](http://www.igi-global.com/bookstore/chapter.aspx?titleid=53749)
+van der Hoeven, E.M.M.M., Aerts, J., van der Klis, H., Koomen, E., [An Integrated Discussion Support System for New Dutch Flood Risk Management Strategies](http://www.igi-global.com/bookstore/chapter.aspx?titleid=53749). Chapter 8, in: Geertman, S., Stillwell, J.C.H. (eds.), Planning Support Systems: Best Practices and New Methods. GeoJournal library, Springer, Berlin, 2009.
 
 van Leeuwen, E.S., Koetse, M., Koomen, E., Rietveld, P., Spatial economic research on climate change and adaptation; Literature review for ‘Knowledge for Climate’, KfC report number KfC 002/09, Vrije Universiteit, Amsterdam, 2009.
 
@@ -108,7 +108,7 @@ Borzacchiello, M.T., Nijkamp, P., Koomen, E., Accessibility and urban developmen
 
 Borzacchiello, M.T., Nijkamp, P., Koomen, E., Accessibility and urban development: a grid-based comparative statistical analysis of Dutch cities, in: Paper presented at NECTAR Workshop “Network Dynamics and Location Choice”, NECTAR, Stuttgart, Germany, 26-27 October, 2007.
 
-[Dekkers, J.E.C., Koomen, E., Land-use simulation for water management: application of the Land Use Scanner model in two large-scale scenario-studies, in: Koomen, E., Stillwell, J.C.H., Bakema, A., Scholten, H.J. (eds.), Modelling land-use change; progress and applications, GeoJournal Library, Springer, Dordrecht, 2007.](https://doi.org/10.1007/s00168-007-0141-7)
+Dekkers, J.E.C., Koomen, E., [Land-use simulation for water management: application of the Land Use Scanner model in two large-scale scenario-studies](https://doi.org/10.1007/s00168-007-0141-7), in: Koomen, E., Stillwell, J.C.H., Bakema, A., Scholten, H.J. (eds.), Modelling land-use change; progress and applications, GeoJournal Library, Springer, Dordrecht, 2007.
 
 [Koomen, E., Stillwell, J., Bakema, A., Scholten, H.J., Modelling land-use change; progress and applications, GeoJournal Library, Springer, Dordrecht, 2007.](http://www.springer.com/west/home/geography/human+geography?SGWID=4-40420-22-173705114-0)*Remarks: A review can be found in the Applied Spatial Analysis and Policy journal, or here.*
 

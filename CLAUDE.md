@@ -32,10 +32,12 @@ design from `assets/`, documents from `static/files/`. Anything else is in git b
 | `tools/make_maps.py` | draws the map pictures in `assets/map/`; needs the CBS land-use raster, which is not in the repository |
 
 A page uses these tokens on a line of their own: `{{news}}`, `{{news:theme}}`, `{{chips}}`, `{{people}}`,
-`{{publications}}`, `{{theses}}`, `{{children}}`. The side menu and the breadcrumbs come from the folder structure, so a
+`{{publications}}`, `{{publications:theme}}`, `{{theses}}`, `{{children}}`. `{{publications:theme}}` picks from the portal's
+list by the words in `THEME_WORDS` in `build.py`. The side menu and the breadcrumbs come from the folder structure, so a
 new page appears there without further work. The top menu is `NAV` in `build.py`.
 
-A page with `archived: true` in its front matter shows a notice that it is no longer updated.
+A page with `archived: true` in its front matter shows a notice that it is no longer updated, with a link to
+the page above it. `banner: name` puts a map from `assets/map/` on top of a page.
 
 ## Theses
 

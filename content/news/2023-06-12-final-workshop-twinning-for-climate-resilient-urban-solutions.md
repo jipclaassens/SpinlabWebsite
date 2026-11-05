@@ -3,6 +3,9 @@ title: 'Final Workshop: Twinning for climate-resilient urban solutions'
 date: '2023-06-12'
 description: On 12 June 2023, the University of Twente and Vrije Universiteit Amsterdam held the final workshop of their joint project on digital twins for climate-resilient urban planning....
 image: /files/2025/09/workshop.jpg
+themes:
+- climate-adaptation
+- geodesign
 ---
 
 On 12 June 2023, the University of Twente and Vrije Universiteit Amsterdam held the final workshop of their joint project on digital twins for climate-resilient urban planning. Hosted at the municipality office, the session brought together 26 municipal planners from Enschede to explore and test digital tools that evaluate urban green space and urban heat island effects.

@@ -2,6 +2,8 @@
 title: Paper Jan Rouwendal, Jasper Dekkers and Martin Micheli in blog The Economist and NRC Q
 date: '2014-11-27'
 description: The Tinbergen Institute (TI) Discussion Paper on ‘Border Effect in House Prices’ has been picked up by The Economist, in its free exchange blog ‘Staying Dutch. House Prices at the...
+themes:
+- location-value
 ---
 
 The Tinbergen Institute (TI) Discussion Paper on ‘Border Effect in House Prices’ has been picked up by The Economist, in its [free exchange blog](http://www.economist.com/blogs/freeexchange/2014/11/house-prices-border) ‘Staying Dutch. House Prices at the Border’.

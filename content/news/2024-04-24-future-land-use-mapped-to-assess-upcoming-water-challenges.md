@@ -3,6 +3,7 @@ title: Future land use mapped to assess upcoming water challenges
 date: '2024-04-24'
 description: Water and spatial policy need to be better coordinated to prepare for upcoming climatic and societal changes. We are proud to have provided the land-use scenarios for this...
 themes:
+- climate-adaptation
 - land-use-modelling
 - spatial-planning
 image: /files/2024/05/Deltascenarios2024.png

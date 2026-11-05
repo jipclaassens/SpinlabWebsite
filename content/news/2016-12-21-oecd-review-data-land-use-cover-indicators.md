@@ -16,4 +16,4 @@ It is found that data on land cover are widely available and that many OECD coun
 
 The paper concludes with a discussion of selection guidelines for, and examples of, potentially suitable datasets in terms of their geographic coverage and the temporal, spatial and thematic resolution. The paper can be downloaded from the OECD library:
 
-[Diogo, V. and Koomen, E. (2016) Land COver and Land Use Indicators. Review of available data. *OECD Report No. 2016/03*, Paris, France.](https://doi.org/10.1787/5jlr2z86r5xw-en)
+Diogo, V. and Koomen, E. (2016) [Land COver and Land Use Indicators. Review of available data](https://doi.org/10.1787/5jlr2z86r5xw-en). *OECD Report No. 2016/03*, Paris, France.

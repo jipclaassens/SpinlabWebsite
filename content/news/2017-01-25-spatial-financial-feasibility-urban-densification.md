@@ -3,6 +3,7 @@ title: Spatial and Financial Feasibility of Further Urban Densification to be in
 date: '2017-01-25'
 description: 'Amsterdam Zuidas seen from the top of the VU building (copyright: Eric Koomen) The Netherlands Organisation for Scientific Research (NWO) has granted three research proposals in...'
 themes:
+- location-value
 - spatial-planning
 image: /files/2017/01/2016_may_3.jpg
 ---

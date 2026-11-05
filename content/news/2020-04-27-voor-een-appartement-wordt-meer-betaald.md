@@ -3,6 +3,7 @@ title: Voor een appartement wordt meer betaald
 date: '2020-04-27'
 description: Dat kopte de NRC op 27 april over een onderzoek dat mede is uitgevoerd door SPINlab onderzoekers Jip Claassens en Bart Rijken. In dit onderzoek werd een vergelijking gemaakt...
 themes:
+- location-value
 - spatial-planning
 image: /files/2020/05/Aantekening-2020-05-06-143135.png
 ---

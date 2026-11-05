@@ -22,16 +22,14 @@ For more information, see [www.landvalues.nl](http://www.landvalues.nl).
 
 **Publications related to Land markets & prices**
 
-|  |  |
-| --- | --- |
-| apppdf.gif (189 bytes) | Kennedy, E., *Comparing valuation methods for ecosystem services in Amstelland; Applying ecosystem service valuation methods to evaluate land-use changes*, *Bachelor thesis Earth and Economics*, VU University Amsterdam, 2014. ***Remarks:** Evaluated: 1 July 2014* *– Supervisor: Koomen, E.* |
-| CPB | De Groot, H.L.F., *Determination of land rents: A simple approach*, , Vrije Universiteit, Amsterdam, 2011. |
-| [VU-DARE](http://dare.ubvu.vu.nl/handle/1871/23934) | de Vor, F., *The Impact and Performance of Industrial Sites*, *Ph.D. Thesis, Tinbergen Institute Research Series*, Vrije Universiteit, Amsterdam, 2011. |
-| [Regional Studies](http://www.tandfonline.com/doi/abs/10.1080/00343401003601925) | de Vor, F., de Groot, H.L.F., The Impact of Industrial Sites on Residential Property Values: A Hedonic Pricing Analysis from the Netherlands, *Regional Studies*, 45 (5), pp.609-623, 2011. |
-| [Springer](http://link.springer.com/chapter/10.1007/978-94-007-1822-7_9) | Dekkers, J.E.C., Rietveld, P., Explaining land-use transition in a segmented land market; potential input for Land Use Scanner. Chapter 9, in: Koomen, E., Borsboom-van Beurden, J. (eds.), *Land-use modelling in planning practice. GeoJournal Library Vol. 101*, Springer, Dordrecht, 2011. |
-|  | Donovan, S., *Space Matters: Agglomeration Economies and Spatial Competition in New Zealand*, *MSc. Thesis*, Vrije Universiteit, Amsterdam, 2011. |
-| apppdf.gif (189 bytes) | Koomen, E., Rietveld, P., Dekkers, J.E.C., Towards an integrated approach for incorporating socio-economic and biophysical processes in local scale land-use modelling, Abstract European Regional Science Conference, Barcelona, Spain, 30 August – 3 September, 2011. |
-| [CPB](http://www.cpb.nl/publicatie/stad-en-land) | De Groot, H.L.F., Marlet, G., Teulings, C., Vermeulen, W., Stad en land, *CPB Bijzondere Publicatie*, Den Haag, 2010. |
-|  | Dekkers, J.E.C., *Externalities, land use planning and urban expansion*, *Ph.D. thesis*, Vrije Universiteit, Amsterdam, 2010. |
-| [VU-DARE](http://dare.ubvu.vu.nl/handle/1871/15854) | van der Straaten, J.W., *Essays on Urban Amenities and Location Choice*, *Ph.D. Thesis, Tinbergen Institute Research Series*, Vrije Universiteit, Amsterdam, 2010. |
-| Tinbergen Institute | Debrezion Andom, G., *Railway impacts on Real Estate Prices*, *Ph.D. Thesis, Tinbergen Institute Research Series*, Vrije Universiteit, Amsterdam, 2006. |
+- Kennedy, E., [Comparing valuation methods for ecosystem services in Amstelland; Applying ecosystem service valuation methods to evaluate land-use changes](/files/theses/Comparing_valuation_methods_for_ecosystem_services_in_Amstelland_BSCThesis_Eric_Kennedy_thesis.pdf), *Bachelor thesis Earth and Economics*, VU University Amsterdam, 2014. ***Remarks:** Evaluated: 1 July 2014* *– Supervisor: Koomen, E.*
+- De Groot, H.L.F., *Determination of land rents: A simple approach*, , Vrije Universiteit, Amsterdam, 2011.
+- de Vor, F., [The Impact and Performance of Industrial Sites](http://dare.ubvu.vu.nl/handle/1871/23934), *Ph.D. Thesis, Tinbergen Institute Research Series*, Vrije Universiteit, Amsterdam, 2011.
+- de Vor, F., de Groot, H.L.F., [The Impact of Industrial Sites on Residential Property Values: A Hedonic Pricing Analysis from the Netherlands](http://www.tandfonline.com/doi/abs/10.1080/00343401003601925), *Regional Studies*, 45 (5), pp.609-623, 2011.
+- Dekkers, J.E.C., Rietveld, P., [Explaining land-use transition in a segmented land market; potential input for Land Use Scanner](http://link.springer.com/chapter/10.1007/978-94-007-1822-7_9). Chapter 9, in: Koomen, E., Borsboom-van Beurden, J. (eds.), *Land-use modelling in planning practice. GeoJournal Library Vol. 101*, Springer, Dordrecht, 2011.
+- Donovan, S., *Space Matters: Agglomeration Economies and Spatial Competition in New Zealand*, *MSc. Thesis*, Vrije Universiteit, Amsterdam, 2011.
+- Koomen, E., Rietveld, P., Dekkers, J.E.C., [Towards an integrated approach for incorporating socio-economic and biophysical processes in local scale land-use modelling, Abstract European Regional Science Conference, Barcelona, Spain, 30 August – 3 September](/files/2016/09/ERSA2011_abstract_Koomen-Rietveld-Dekkers.pdf), 2011.
+- De Groot, H.L.F., Marlet, G., Teulings, C., Vermeulen, W., [Stad en land](http://www.cpb.nl/publicatie/stad-en-land), *CPB Bijzondere Publicatie*, Den Haag, 2010.
+- Dekkers, J.E.C., *Externalities, land use planning and urban expansion*, *Ph.D. thesis*, Vrije Universiteit, Amsterdam, 2010.
+- van der Straaten, J.W., [Essays on Urban Amenities and Location Choice](http://dare.ubvu.vu.nl/handle/1871/15854), *Ph.D. Thesis, Tinbergen Institute Research Series*, Vrije Universiteit, Amsterdam, 2010.
+- Debrezion Andom, G., *Railway impacts on Real Estate Prices*, *Ph.D. Thesis, Tinbergen Institute Research Series*, Vrije Universiteit, Amsterdam, 2006.

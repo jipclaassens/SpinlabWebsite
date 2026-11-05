@@ -18,7 +18,7 @@ The research is funded by the Dutch Research Council (NWO), Dutch science progra
 - [Climate adaptation](/research/spatial-analysis-modelling/climate-adaptation/)
 - [Location value](/research/spatial-analysis-modelling/location-value/)
 - [Accessibility](/research/accessibility/)
-- [Geodesign](/research/geodesign/)
+- [Geodesign and digital twins](/research/geodesign/)
 
 Earlier projects, including our work on risk management and spatial digital humanities, are in the [research archive](/research/researcharchive/).
 

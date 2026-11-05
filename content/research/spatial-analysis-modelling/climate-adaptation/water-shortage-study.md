@@ -22,12 +22,7 @@ Start: October 2002, finished: December 2002
 
 **Publications related to Water Shortage Study**
 
-|  |  |
-| --- | --- |
-| Springer | Dekkers, J.E.C., Koomen, E., Land-use simulation for water management: application of the Land Use Scanner model in two large-scale scenario-studies, in: Koomen, E., Stillwell, J.C.H., Bakema, A., Scholten, H.J. (eds.), *Modelling land-use change; progress and applications, GeoJournal Library*, Springer, Dordrecht, 2007. |
-|  | |
-| [apppdf.gif (189 bytes)](https://research.vu.nl/en/publications/simulation-of-future-land-use-for-water-management/) | Dekkers, J.E.C., Koomen, E., Simulations of Future Land Use for Water Management: Assessing the suitability for scenario-based modelling, in: *Proceedings of the 45th congress of the European Regional Science Association*, 45th congress of the European Regional Science Association, Amsterdam, 23-27 August, 2005. |
-|  | |
-| [apppdf.gif (189 bytes)](https://research.vu.nl/en/publications/landgebruikssimulatie-voor-droogtestudie-riza-versie-20/) | Koomen, E., Dekkers, J.E.C., Landgebruikssimulatie voor Droogtestudie RIZA – Aanvullende scenario-uitwerking, *RIZA werkdocument*, *2003.141x*, Lelystad, 2003. |
-|  | |
-| [apppdf.gif (189 bytes)](https://research.vu.nl/en/publications/landgebruikssimulatie-voor-droogtestudie-riza/) | Koomen, E., Dekkers, J.E.C., Landgebruikssimulatie voor Droogtestudie RIZA – Basisscenario-uitwerking, *Vrije Universiteit*, Amsterdam, 2002. |
+- Dekkers, J.E.C., Koomen, E., Land-use simulation for water management: application of the Land Use Scanner model in two large-scale scenario-studies, in: Koomen, E., Stillwell, J.C.H., Bakema, A., Scholten, H.J. (eds.), *Modelling land-use change; progress and applications, GeoJournal Library*, Springer, Dordrecht, 2007.
+- Dekkers, J.E.C., Koomen, E., [Simulations of Future Land Use for Water Management: Assessing the suitability for scenario-based modelling](https://research.vu.nl/en/publications/simulation-of-future-land-use-for-water-management/), in: *Proceedings of the 45th congress of the European Regional Science Association*, 45th congress of the European Regional Science Association, Amsterdam, 23-27 August, 2005.
+- Koomen, E., Dekkers, J.E.C., [Landgebruikssimulatie voor Droogtestudie RIZA – Aanvullende scenario-uitwerking](https://research.vu.nl/en/publications/landgebruikssimulatie-voor-droogtestudie-riza-versie-20/), *RIZA werkdocument*, *2003.141x*, Lelystad, 2003.
+- Koomen, E., Dekkers, J.E.C., [Landgebruikssimulatie voor Droogtestudie RIZA – Basisscenario-uitwerking](https://research.vu.nl/en/publications/landgebruikssimulatie-voor-droogtestudie-riza/), *Vrije Universiteit*, Amsterdam, 2002.

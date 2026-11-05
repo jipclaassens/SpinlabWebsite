@@ -27,6 +27,7 @@ people:
   group: staff
   pure: henri-de-groot
 - name: Eric Koomen
+  photo: /files/people/eric-koomen.jpg
   role: Chair, team leader Spatial Analysis and Modelling
   group: staff
   pure: eric-koomen
@@ -34,74 +35,96 @@ people:
   page: /phd-research/eric-koomen/
   email: e.koomen@vu.nl
 - name: Henk Scholten
+  photo: /files/people/henk-scholten.jpg
   role: Scientific director
   group: staff
 - name: Jip Claassens
+  photo: /files/people/jip-claassens.jpg
   role: Researcher
   group: staff
   pure: jip-claassens
   feed: true
   page: /phd-research/jip-claassens/
 - name: Niels van Manen
+  photo: /files/people/niels-van-manen.jpg
   role: Team leader Spatial Digital Humanities
   group: staff
 - name: Eduardo Dias
+  photo: /files/people/eduardo-dias.jpg
   role: Team leader Geodesign
   group: staff
   page: /phd-research/eduardo-dias/
 - name: Maurice de Kleijn
+  photo: /files/people/maurice-de-kleijn.jpg
   role: Researcher
   group: staff
   page: /phd-research/maurice-de-kleijn/
 - name: Jaap Boter
+  photo: /files/people/jaap-boter.jpg
   role: Researcher
   group: staff
+  pure: jaap-boter
 - name: Ron Janssen
+  photo: /files/people/ron-janssen.jpg
   role: Researcher
   group: staff
+  pure: ron-janssen
 - name: Paolo Tasseron
   role: Researcher
   group: staff
 - name: Apeksha Tare
+  photo: /files/people/apeksha-tare.jpg
   role: PhD researcher
   group: staff
+  pure: apeksha-tare
 - name: Mark Opmeer
   role: PhD researcher
   group: staff
 - name: Sanne Hettinga
+  photo: /files/people/sanne-hettinga.jpg
   role: PhD researcher
   group: staff
   page: /phd-research/sanne-hettinga/
 - name: Xander Wilcke
+  photo: /files/people/xander-wilcke.jpg
   role: PhD researcher
   group: staff
+  pure: xander-wilcke
   page: /phd-research/xander-wilcke/
 - name: Ting Zhou
+  photo: /files/people/ting-zhou.jpg
   role: PhD researcher
   group: staff
 - name: Erik van der Zee
+  photo: /files/people/erik-van-der-zee.jpg
   role: PhD researcher
   group: staff
 - name: Bo Andrée
+  photo: /files/people/bo-andree.jpg
   role: PhD researcher
   group: staff
   page: /phd-research/bo-andree/
 - name: Bart Rijken
+  photo: /files/people/bart-rijken.jpg
   role: PhD researcher
   group: staff
 - name: Azarakhsh Rafiee-Voermans
+  photo: /files/people/azarakhsh-rafiee-voermans.jpg
   role: PhD researcher
   group: staff
 - name: Nursakti Pratomoatmojo
   role: PhD researcher
   group: staff
 - name: Bart Kusse
+  photo: /files/people/bart-kusse.jpg
   role: General staff
   group: staff
 - name: Luc Kohsiek
+  photo: /files/people/luc-kohsiek.jpg
   role: Scientific advisor
   group: staff
 - name: Rob van de Velde
+  photo: /files/people/rob-van-de-velde.jpg
   role: Scientific advisor
   group: staff
 - name: Brian de Vogel

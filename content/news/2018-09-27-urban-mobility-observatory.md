@@ -3,6 +3,8 @@ title: Large Grant to set up Urban Mobility Observatory
 date: '2018-09-27'
 description: NWO has awarded seven proposals for innovative research infrastructure within the programme NWO Investment Grant Large. With this programme, NWO funds large research facilities,...
 image: /files/2018/11/umo.jpg
+themes:
+- accessibility
 ---
 
 ![](/files/2018/11/umo.jpg)

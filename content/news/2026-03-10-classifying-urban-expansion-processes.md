@@ -3,6 +3,7 @@ title: Classifying urban expansion processes
 date: '2026-03-10'
 description: Nursakti Pratomoatmojo just published his first paper. He developed a new Urban Patch Expansion (UPE) framework that characterises five different ways in which cities expand. In...
 themes:
+- land-use-modelling
 - phd
 - spatial-analysis
 - spatial-planning

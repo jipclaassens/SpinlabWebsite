@@ -1,8 +1,15 @@
 ---
-title: GeoDesign
+banner: geodesign
+title: Geodesign and digital twins
 description: Geodesign tools can be used to support collaborative processes. Typical tools combine different methods, such as simulation models, spatial multi-criteria analysis, visualization,...
 updated: '2021-03-23'
 ---
+
+## Digital twins
+
+Digital twins take the same idea further: a dynamic, virtual representation of a place that people can explore together. See [Twinning for climate-resilient urban solutions](/news/twinning-for-climate-resilient-urban-solutions/) with the University of Twente, its [final workshop](/news/final-workshop-twinning-for-climate-resilient-urban-solutions/), and the [digital twin of Alkmaar](/news/digital-twin-alkmaar/).
+
+## Geodesign
 
 Geodesign tools can be used to support collaborative processes. Typical tools combine different methods, such as simulation models, spatial multi-criteria analysis, visualization, and optimization.
 
@@ -24,6 +31,14 @@ In our view this is geodesign at its best:
 
 In a recent project we applied our experience with geodesign in data rich environments such as the Netherlands and the UK to design an approach for interactive workshops in the Lower Zambezi valley, Mozambique. Instead of a model based application that provides real time response to proposed changes, we designed a tool that facilitated open discussion and relied heavily on visualization. This approach required no calculation steps (the local stakeholders provided the input) and relied heavily on drawing and icons. This appealed to the participants and the absence of a quantitative model was not seen as a problem. Despite the simple strategy, the tool served its purpose well. It was interesting to observe that we were able to use the principles of our more sophisticated tools in an approach that was simpler, but also much more graphical in order to promote discussion and understanding.
 
+## Recent publications
+
+{{publications:geodesign}}
+
 ## Updates
 
 {{news:geodesign}}
+
+## Earlier projects
+
+{{children}}

@@ -17,9 +17,7 @@ Start: 2006, finished: 2009
 
 **Publications related to ISAAC**
 
-|  |  |
-| --- | --- |
-|  | Omtzigt, A.Q.A., de Reus, N.O., Koomen, E., Arezza, A., The construction of a Spatial Data Infrastructure for cultural heritage, in: Cunningham, P., Cinnungham, M. (eds.), *Collaboration and the Knowledge Economy: Issues, Applications, Case Studies*, IOS Press, Amsterdam, 2008. |
-|  | Arezza, A., Paskaleva, K., Wolf, E., Riganti, P., Koomen, E., Mitsche, N., Report on ISAAC user requirements for e-services and architecture, *ISAAC project report, Deliverable 2.1*, 2007. |
-|  | Arezza, A., Paskaleva, K., de Reus, N.O., Mitsche. N., Koomen, E., Report on ISAAC e-services and architecture specification, *ISAAC project report, Deliverable 2.2*, 2007. |
-|  | Platt, S., Riganti, P., Strielowski, W., Wang, J., Paskaleva, K., Azorin, J., Lombardi, P., Ciaffi, D., Wolf, E., Diemer, O., Russo, R., Koomen, E., Fusco Girard, L., Defining an EU indexing system to standardize retrieval in the CH domain, *ISAAC project deliverable 1.5*, 2007. |
+- Omtzigt, A.Q.A., de Reus, N.O., Koomen, E., Arezza, A., [The construction of a Spatial Data Infrastructure for cultural heritage](https://research.vu.nl/en/publications/the-construction-of-a-spatial-data-infrastructure-for-cultural-he/), in: Cunningham, P., Cinnungham, M. (eds.), *Collaboration and the Knowledge Economy: Issues, Applications, Case Studies*, IOS Press, Amsterdam, 2008.
+- Arezza, A., Paskaleva, K., Wolf, E., Riganti, P., Koomen, E., Mitsche, N., [Report on ISAAC user requirements for e-services and architecture](https://research.vu.nl/en/publications/report-on-isaac-user-requirements-for-e-services-and-architecture/), *ISAAC project report, Deliverable 2.1*, 2007.
+- Arezza, A., Paskaleva, K., de Reus, N.O., Mitsche. N., Koomen, E., Report on ISAAC e-services and architecture specification, *ISAAC project report, Deliverable 2.2*, 2007.
+- Platt, S., Riganti, P., Strielowski, W., Wang, J., Paskaleva, K., Azorin, J., Lombardi, P., Ciaffi, D., Wolf, E., Diemer, O., Russo, R., Koomen, E., Fusco Girard, L., [Defining an EU indexing system to standardize retrieval in the CH domain](https://research.vu.nl/en/publications/defining-an-eu-indexing-system-to-standardize-retrieval-in-the-ch/), *ISAAC project deliverable 1.5*, 2007.

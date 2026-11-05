@@ -1,27 +1,25 @@
 ---
 title: Location value
-description: Analysing property values, (dis-)amenities, externalities and the value of location for companies What determines the value of a property? Real estate agents know the answer:...
-updated: '2019-02-14'
+description: What location adds to the value of property, from open space and aircraft noise to new infrastructure.
+banner: location-value
 ---
 
-**Analysing property values, (dis-)amenities, externalities and the value of location for companies**
+What determines the value of a property? Real estate agents know the answer: location, location, location. Sale prices reveal what people are willing to pay for accessibility, open space, quiet and other qualities of a place. SPINlab uses these hedonic pricing techniques to value such amenities and disamenities, and to explain land values.
 
-What determines the value of a property? Real estate agents know the answer: Location-location-LOCATION!
+## Current work
 
-![distance to open space](/files/2016/07/distance-to-open-space.jpg)
+- [Impacts of new light rail investment on accessibility and housing markets](https://research.vu.nl/en/publications/impacts-of-new-light-rail-investment-on-accessibility-and-housing/): what the North/South metro line did to house prices in Amsterdam (Urban Studies, 2026).
+- [The financial feasibility of residential development in the existing city](https://hdl.handle.net/1871.1/1570eb2e-e732-4653-b8cc-3c86c35fcfc0), and [what people are willing to pay for inner-city apartments compared with suburban houses](/news/voor-een-appartement-wordt-meer-betaald/).
+- [High-resolution housing price indices for the Netherlands](https://hdl.handle.net/1871.1/06a75545-3e5e-4a10-83ca-c5b35d3c2806).
 
-Example of a spatial factor that influences the price of a residence: distance to open space (green is a low distance, red is a larger distance)
+## Recent publications
 
-We can use information on the characteristics of sold properties in revealed preference analyses to value amenities and disamenities, externalities and, for instance, public goods.
+{{publications:location-value}}
 
-A huge empirical literature using hedonic pricing techniques uses this insight for the purpose of valuation of individual aspects of the location, such as accessibility of jobs and facilities, the presence of open space, noise disturbances, the value of having a private parking place instead of a public parking permit.
+## Updates
 
-Some exemplary valuation studies that we have carried out focus on:
+{{news:location-value}}
 
-- [Attractivity of urban and cultural amenities to knowledge workers](../spatial-planning/knowledge-workers/)
-- [Presence of open space](../spatial-planning/open-space-preservation/)
-- [Transport noise nuisance](../location-value/aircraft-noise/)
-- [(E)valuation of parking space](../location-value/parking-policy/)
-- [Determining land rents from house transactions and using land rents in explanatory valuation studies](../location-value/land-rents/)
+## Earlier projects
 
-Further, one of the P’s in the marketing mix is the P from Place. This P has been understudied for a long time, but since a few years researchers and companies increasingly are interested in the value of place. Place concerns the location of a company (supply), the location of customers (demand, B2B & B2C), and the interaction between supply and demand in space. The SPINlab co-operates with the Department of Marketing to further explore the spatial aspects of marketing-related topics. The Geomarketing-course and the [supervision of master thesis research in this field](../../../education/supervised-theses/#mkt) are some of the most prominent mutual activities.
+{{children}}

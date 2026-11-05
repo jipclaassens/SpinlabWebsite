@@ -21,6 +21,6 @@ Finished: March 2004
 
 **Publications related to Netherlands 2030**
 
-Borsboom-van Beurden, J.A.M., Boersma, W.T., Bouwman, A.A., Crommentuijn, L.E.M., Dekkers, J.E.C., Koomen, E., Ruimtelijke Beelden – Visualisatie van een veranderd Nederland in 2030, *RIVM rapport*, *550016003*, Bilthoven, 2005. ***Remarks:** There are two links: one to the report (RIVM) and one to [a newspaper article related to the report](/files/2016/09/NCR_10012005_RB.jpg)*
+Borsboom-van Beurden, J.A.M., Boersma, W.T., Bouwman, A.A., Crommentuijn, L.E.M., Dekkers, J.E.C., Koomen, E., [Ruimtelijke Beelden – Visualisatie van een veranderd Nederland in 2030](/files/2016/09/NCR_10012005_RB.jpg), *RIVM rapport*, *550016003*, Bilthoven, 2005. ***Remarks:** There are two links: one to the report (RIVM) and one to a newspaper article related to the report*
 
-Dekkers, J.E.C., Grondprijzen, geschiktheidskaarten en instelling van parameters in het ruimtegebruiksimulatiemodel Ruimtescanner – Technisch achtergrondrapport bij het Project Ruimtelijke Beelden, [*MNP rapport*, *550016005*](/files/2016/09/550016005.pdf), Bilthoven, 2005.
+Dekkers, J.E.C., [Grondprijzen, geschiktheidskaarten en instelling van parameters in het ruimtegebruiksimulatiemodel Ruimtescanner – Technisch achtergrondrapport bij het Project Ruimtelijke Beelden](/files/2016/09/550016005.pdf), *MNP rapport*, *550016005*, Bilthoven, 2005.

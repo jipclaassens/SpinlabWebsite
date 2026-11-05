@@ -19,7 +19,7 @@ import yaml
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "data", "publications_latest.json")
-KEEP = 40
+PAGES = 12  # the portal gives 50 items per page
 HEADERS = {"User-Agent": "Mozilla/5.0 (spinlab.vu.nl site build)"}
 
 
@@ -38,21 +38,29 @@ def main():
     for person in people:
         if not person.get("feed") or not person.get("pure"):
             continue
-        url = f"https://research.vu.nl/en/persons/{person['pure']}/publications/?page=0&format=rss"
-        try:
-            with urllib.request.urlopen(urllib.request.Request(url, headers=HEADERS), timeout=60) as answer:
-                items = ET.fromstring(answer.read()).findall(".//item")
-        except Exception as error:
-            failed.append(f"{person['pure']}: {error}")
-            continue
-        for item in items:
-            link = (item.findtext("link") or "").split("?")[0]
-            date = item.findtext("{http://purl.org/dc/elements/1.1/}date") or ""
-            found[link] = {"title": re.sub(r"\s+", " ", item.findtext("title") or "").strip(), "url": link, "date": date[:10], "meta": meta_line(item.findtext("description"))}
+        for page in range(PAGES):
+            url = f"https://research.vu.nl/en/persons/{person['pure']}/publications/?page={page}&format=rss"
+            try:
+                with urllib.request.urlopen(urllib.request.Request(url, headers=HEADERS), timeout=60) as answer:
+                    items = ET.fromstring(answer.read()).findall(".//item")
+            except Exception as error:
+                failed.append(f"{person['pure']} page {page}: {error}")
+                break
+            before = len(found)
+            for item in items:
+                link = (item.findtext("link") or "").split("?")[0]
+                date = item.findtext("{http://purl.org/dc/elements/1.1/}date") or ""
+                found[link] = {"title": re.sub(r"\s+", " ", item.findtext("title") or "").strip(), "url": link, "date": date[:10], "meta": meta_line(item.findtext("description"))}
+            if not items or len(found) == before:
+                break
     if not found:
         print("nothing fetched, keeping the existing file:", failed)
         sys.exit(0)
-    items = sorted(found.values(), key=lambda i: i["date"], reverse=True)[:KEEP]
+    # the same publication can be in the portal twice, for instance as report and as article
+    unique = {}
+    for item in sorted(found.values(), key=lambda i: i["date"], reverse=True):
+        unique.setdefault(re.sub(r"[^a-z0-9]+", "", item["title"].lower()), item)
+    items = list(unique.values())
     with open(OUT, "w", encoding="utf-8", newline="\n") as fn:
         json.dump({"source": "research.vu.nl", "items": items}, fn, ensure_ascii=False, indent=1)
         fn.write("\n")

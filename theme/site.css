@@ -142,6 +142,8 @@ a:focus-visible, .menu-toggle:focus-visible + .menu-button { outline: 3px solid 
 .prose h2, .prose h3 { clear: both; }
 .prose blockquote { margin: 1rem 0; padding-left: 1rem; border-left: 3px solid var(--blue); color: var(--muted); }
 .prose .news-list img { margin: 0; }
+.prose img.page-banner { width: 100%; max-height: none; height: 5rem; object-fit: cover; image-rendering: pixelated; margin: 0 0 1.25rem; background: #EDF5FA; }
+.prose td img, .prose th img { margin: 0; }
 .caption { font-size: 0.9rem; color: var(--muted); }
 .archived { padding: 0.6rem 0.9rem; background: var(--warm); border-left: 3px solid var(--orange); font-size: 0.95rem; }
 .draft { padding: 0.6rem 0.9rem; background: #FFF4E8; border-left: 3px solid var(--orange); }
@@ -154,12 +156,14 @@ th { font-weight: 700; }
 .video iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
 .children { list-style: none; padding: 0; }
 
-.side { font-size: 0.95rem; border-left: 1px solid var(--line); padding-left: 1.1rem; align-self: start; position: sticky; top: 1rem; }
+.side { font-size: 0.95rem; border-left: 1px solid var(--line); padding-left: 1.1rem; align-self: start; }
 .side a { display: block; padding: 0.22rem 0; color: var(--muted); text-decoration: none; line-height: 1.35; }
 .side a:hover { color: var(--blue); }
 .side a.on { color: var(--ink); font-weight: 700; }
-.side-up { color: var(--blue) !important; font-weight: 700; margin-bottom: 0.35rem; }
-.side-sub { padding-left: 0.8rem !important; font-size: 0.9rem; }
+.side a.open { color: var(--ink); font-weight: 600; }
+.side-up { color: var(--blue) !important; font-weight: 700; margin-bottom: 0.25rem; }
+.side ul { list-style: none; margin: 0; padding: 0; }
+.side ul ul { margin: 0.1rem 0 0.25rem 0.35rem; padding-left: 0.65rem; border-left: 1px solid var(--line); font-size: 0.92rem; }
 
 /* people */
 .people { display: grid; grid-template-columns: repeat(auto-fill, minmax(17.5rem, 1fr)); gap: 1.1rem 1.5rem; margin-bottom: 1.5rem; }
@@ -168,6 +172,8 @@ th { font-weight: 700; }
 .person-pic img { width: 100%; height: 100%; object-fit: cover; margin: 0; }
 .initials { display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-weight: 700; font-size: 1.25rem; color: var(--blue-deep); }
 .person-name { font-weight: 700; line-height: 1.25; }
+.person-name a { color: var(--ink); text-decoration: none; }
+.person-name a:hover { color: var(--blue); text-decoration: underline; }
 .person-role { font-size: 0.92rem; color: var(--muted); line-height: 1.35; }
 .person-links { font-size: 0.86rem; margin-top: 0.15rem; }
 .person-links a { margin-right: 0.5rem; }

@@ -17,8 +17,6 @@ Further, it is generally believed that in downtown areas in large cities, due to
 
 **Publications related to Parking Policy**
 
-|  |  |
-| --- | --- |
-| [JUE](https://doi.org/10.1016/j.jue.2011.02.001) | van Ommeren, J., Wentink, D., Dekkers, J.E.C., The Real Price Of Parking Policy, *Journal of Urban Economics*, 70, pp.25-31, 2011. |
-| TI Discussion Paper | van Ommeren, J., Wentink, D., Dekkers, J.E.C., The Real Price Of Parking Policy, Tinbergen Institute Discussion Paper, Amsterdam, 2009. |
-|  | Wentink, D., *The real price of parking policy. The effect of parking policy on the housing market in Amsterdam*, Master thesis Spatial Economics, VU University Amsterdam, 2009.**Remarks:** Supervisor: van Ommeren, J. |
+- van Ommeren, J., Wentink, D., Dekkers, J.E.C., [The Real Price Of Parking Policy](https://doi.org/10.1016/j.jue.2011.02.001), *Journal of Urban Economics*, 70, pp.25-31, 2011.
+- van Ommeren, J., Wentink, D., Dekkers, J.E.C., The Real Price Of Parking Policy, Tinbergen Institute Discussion Paper, Amsterdam, 2009.
+- Wentink, D., *The real price of parking policy. The effect of parking policy on the housing market in Amsterdam*, Master thesis Spatial Economics, VU University Amsterdam, 2009.**Remarks:** Supervisor: van Ommeren, J.

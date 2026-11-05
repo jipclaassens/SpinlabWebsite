@@ -8,27 +8,27 @@ Here is a list of PhD publications that have been completed at the SPINlab. The 
 
 [Batista e Silva, F., *Geospatial data fusion for continental assessments of land use, activities and* *population* *distribution, Ph.D. Thesis,* Vrije Univesiteit, Amsterdam, 2022.](https://research.vu.nl/ws/portalfiles/portal/155813816/F++Batista+e+Silva+-+thesis.pdf)
 
-[Wilcke, W.X., *Machine Learning on Multinodal Knowledge Graphs: Opportunities, Challenges, and Methods for Learning on Real-World Heterogeneous and Spatially-Oriented Knowledge, Ph.D. Thesis,* Vrije Universiteit, Amsterdam, 2022.](https://research.vu.nl/ws/portalfiles/portal/152008227/WilckeWX_PhD_Thesis_FINAL.pdf)
+Wilcke, W.X., [Machine Learning on Multinodal Knowledge Graphs: Opportunities, Challenges, and Methods for Learning on Real-World Heterogeneous and Spatially-Oriented Knowledge, Ph.D. Thesis,](https://research.vu.nl/ws/portalfiles/portal/152008227/WilckeWX_PhD_Thesis_FINAL.pdf)Vrije Universiteit, Amsterdam, 2022.
 
-[Andree, B.P.J.A., *Theory and Application of Dynamic Spatial Time Series Models, Ph.D. Thesis,* Vrije Universiteit, Amsterdam, 2020.](https://research.vu.nl/ws/portalfiles/portal/123515821/TheoryandApplicationofDynamicSpatialTimeSeriesModels.pdf)
+Andree, B.P.J.A., [Theory and Application of Dynamic Spatial Time Series Models, Ph.D. Thesis,](https://research.vu.nl/ws/portalfiles/portal/123515821/TheoryandApplicationofDynamicSpatialTimeSeriesModels.pdf)Vrije Universiteit, Amsterdam, 2020.
 
-[Zhou, T., *Landscape service provisions and preferences on the urban-rural fringe, Ph.D. Thesis,* Vrije Universiteit, Amsterdam, 2020.](https://research.vu.nl/en/publications/landscape-service-provisions-and-preferences-on-the-urbanrural-fr)
+Zhou, T., [Landscape service provisions and preferences on the urban-rural fringe, Ph.D. Thesis,](https://research.vu.nl/en/publications/landscape-service-provisions-and-preferences-on-the-urbanrural-fr)Vrije Universiteit, Amsterdam, 2020.
 
-[Pinto Nunes Nogueira Diogo, V., *Agricultural land systems: Explaining and simulating agricultural land-use patterns, Ph.D. Thesis,* Vrije Universiteit, Amsterdam, 2018.](https://research.vu.nl/en/publications/agricultural-land-systems-explaining-and-simulating-agricultural-)
+Pinto Nunes Nogueira Diogo, V., [Agricultural land systems: Explaining and simulating agricultural land-use patterns, Ph.D. Thesis,](https://research.vu.nl/en/publications/agricultural-land-systems-explaining-and-simulating-agricultural-)Vrije Universiteit, Amsterdam, 2018.
 
-[Jacobs-Crisioni, C.G.W., *Spatial data analyses of urban land use and accessibility**, Ph.D. thesis*, Vrije Universiteit, Amsterdam, 2016.](https://research.vu.nl/en/publications/spatial-data-analyses-of-urban-land-use-and-accessibility)
+Jacobs-Crisioni, C.G.W., [Spatial data analyses of urban land use and accessibility](https://research.vu.nl/en/publications/spatial-data-analyses-of-urban-land-use-and-accessibility)*, Ph.D. thesis*, Vrije Universiteit, Amsterdam, 2016.
 
-[Sophronides, P., *Decision Support Systems for Participatory Flood Risk and Disaster Management**, Ph.D. thesis*, National Technical University, Athens, 2016.](https://doi.org/10.12681/eadd/39183)
+Sophronides, P., [Decision Support Systems for Participatory Flood Risk and Disaster Management](https://doi.org/10.12681/eadd/39183)*, Ph.D. thesis*, National Technical University, Athens, 2016.
 
-[Steenbruggen, J.G.M., *Road Traffic Incident Management and Situational Awareness*, *Ph.D. Thesis*, Vrije Universiteit, Amsterdam, 2013.](https://research.vu.nl/en/publications/road-traffic-incident-management-and-situational-awareness)
+Steenbruggen, J.G.M., [Road Traffic Incident Management and Situational Awareness](https://research.vu.nl/en/publications/road-traffic-incident-management-and-situational-awareness), *Ph.D. Thesis*, Vrije Universiteit, Amsterdam, 2013.
 
-[Dekkers, J.E.C., *Externalities, land use planning and urban expansion*, *Ph.D. thesis*, Vrije Universiteit, Amsterdam, 2010.](http://www.ubvu.vu.nl)
+Dekkers, J.E.C., [Externalities, land use planning and urban expansion](http://www.ubvu.vu.nl), *Ph.D. thesis*, Vrije Universiteit, Amsterdam, 2010.
 
-[Koomen, E., *Spatial analysis in support of physical planning*, *Ph.D. thesis*, Vrije Universiteit, Amsterdam, 2008. ***Remarks:** This dissertation was nominated for the VU Societal Impact Award 2008. See the*](https://research.vu.nl/en/publications/spatial-analysis-in-support-of-physical-planning/) *[Ad Valvas of 16 October 2008, p.9](https://research.vu.nl/en/publications/spatial-analysis-in-support-of-physical-planning/).*
+Koomen, E., [Spatial analysis in support of physical planning](https://research.vu.nl/en/publications/spatial-analysis-in-support-of-physical-planning/), *Ph.D. thesis*, Vrije Universiteit, Amsterdam, 2008. ***Remarks:** This dissertation was nominated for the VU Societal Impact Award 2008. See the* *Ad Valvas of 16 October 2008, p.9.*
 
-[Dias, E.S., *The added value of contextual information in natural areas: Measuring impacts of mobile environmental information*, Vrije Universiteit, Amsterdam, 2007.](/files/2016/09/ESDias_PhD_web.pdf)
+Dias, E.S., [The added value of contextual information in natural areas: Measuring impacts of mobile environmental information](/files/2016/09/ESDias_PhD_web.pdf), Vrije Universiteit, Amsterdam, 2007.
 
-[Buurman, J.J.G., *Rural land prices, a spatial explanatory model*, *RIVM report 718301001*, Vrije Universiteit, Bilthoven/Amsterdam, 2003.](http://www.rivm.nl/bibliotheek/rapporten/718301001.html)
+Buurman, J.J.G., [Rural land prices, a spatial explanatory model](http://www.rivm.nl/bibliotheek/rapporten/718301001.html), *RIVM report 718301001*, Vrije Universiteit, Bilthoven/Amsterdam, 2003.
 
 Boehner, C., *Urban Environmental Management*, Vrije Universiteit, Amsterdam, 2002.
 

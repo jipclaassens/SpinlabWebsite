@@ -52,7 +52,7 @@ NAV = [
     ("Research", "/research/", [
         ("Spatial analysis and modelling", "/research/spatial-analysis-modelling/"),
         ("Accessibility", "/research/accessibility/"),
-        ("Geodesign", "/research/geodesign/"),
+        ("Geodesign and digital twins", "/research/geodesign/"),
         ("Research archive", "/research/researcharchive/"),
     ]),
     ("Tools", "/support/tools/", [
@@ -92,8 +92,8 @@ THEMES = [
      "What location adds to the value of property, from open space to aircraft noise.", "location-value"),
     ("Accessibility", "/research/accessibility/",
      "Accessibility analysis on highly detailed spatial data, alongside transport economics.", "accessibility"),
-    ("Geodesign", "/research/geodesign/",
-     "Tools that combine models, maps and multi-criteria analysis in collaborative planning.", "geodesign"),
+    ("Geodesign and digital twins", "/research/geodesign/",
+     "Tools that combine models, maps and analysis to support decisions together with the people involved.", "geodesign"),
 ]
 
 # Labels for the themes a news item can carry in its front matter.
@@ -101,8 +101,20 @@ THEME_LABELS = {
     "accessibility": "Accessibility", "climate-adaptation": "Climate adaptation", "digital-humanities": "Digital humanities",
     "education": "Education", "geodesign": "Geodesign", "land-use-modelling": "Land use modelling", "phd": "PhD research",
     "rijkswaterstaat": "Rijkswaterstaat", "risk-management": "Risk management", "spatial-analysis": "Spatial analysis",
-    "spatial-planning": "Spatial planning", "support": "Support",
+    "spatial-planning": "Spatial planning", "support": "Support", "location-value": "Location value",
 }
+
+# Which publications from the research portal a theme page shows: those with one of these words in
+# the title. A rough rule that keeps the pages current without anyone maintaining a list.
+THEME_WORDS = {
+    "land-use-modelling": ("land use", "land-use", "landgebruik", "ruimtescanner", "urban expansion", "urban development", "urbanization", "urbanisation", "2up", "crisp", "built-up", "downscal"),
+    "spatial-planning": ("planning", "densification", "urban density", "verdichting", "woningbouw", "residential development", "compact", "open space", "devolution", "richtingen", "ruimte voor"),
+    "climate-adaptation": ("climate", "flood", "water", "adaptation", "delta", "heat", "subsidence", "klimaat", "drought", "overstrom", "bodemdaling"),
+    "location-value": ("hedonic", "house price", "housing price", "housing market", "land value", "land rent", "bid rent", "property", "real estate", "willingness to pay", "vintage", "financial feasibility"),
+    "accessibility": ("accessib", "15-minute", "15 minute", "mobility", "transport", "travel", "commut", "car depend", "cycling", "walking", "light rail", "bereikbaar", "reistijd"),
+    "geodesign": ("geodesign", "digital twin", "participat", "planning support", "minecraft", "stakeholder"),
+}
+THEME_PUBLICATIONS = 6
 
 MONTHS = ("January", "February", "March", "April", "May", "June",
           "July", "August", "September", "October", "November", "December")
@@ -197,27 +209,36 @@ def children_of(url, index):
     return sorted(found)
 
 
+def tree_html(url, current, index):
+    items = children_of(url, index)
+    if not items:
+        return ""
+    out = ["<ul>"]
+    for title, link in items:
+        state = "on" if link == current else "open" if current.startswith(link) else ""
+        out.append(f'<li><a class="{state}" href="{link}">{html.escape(str(title))}</a>')
+        if current.startswith(link):
+            out.append(tree_html(link, current, index))
+        out.append("</li>")
+    out.append("</ul>")
+    return "".join(out)
+
+
 def sidebar_html(page, index):
-    # the pages next to and below this one; WordPress kept this in a menu somebody had to maintain
+    # the whole section as a tree, opened along the path to this page, so the pages above it stay
+    # in view. It comes from the folders; WordPress kept this in a menu somebody had to maintain.
     url = page["url"]
     if url.startswith("/news/") or url.count("/") < 2:
         return ""
-    own = children_of(url, index)
-    parent_url = url.rsplit("/", 2)[0] + "/"
-    siblings = children_of(parent_url, index) if parent_url != "/" else []
-    if not own and not siblings:
+    root = "/" + url.strip("/").split("/")[0] + "/"
+    tree = tree_html(root, url, index)
+    if not tree:
         return ""
-    out = ['<aside class="side" aria-label="In this section">']
-    if parent_url in index and parent_url != "/":
-        out.append(f'<a class="side-up" href="{parent_url}">{html.escape(str(index[parent_url]["meta"].get("title", "")))}</a>')
-    for title, link in siblings or [(page["meta"].get("title", ""), url)]:
-        on = ' class="on"' if link == url else ""
-        out.append(f'<a{on} href="{link}">{html.escape(str(title))}</a>')
-        if link == url:
-            for child_title, child_link in own:
-                out.append(f'<a class="side-sub" href="{child_link}">{html.escape(str(child_title))}</a>')
-    out.append("</aside>")
-    return "".join(out)
+    top = ""
+    if root in index:
+        state = " on" if root == url else ""
+        top = f'<a class="side-up{state}" href="{root}">{html.escape(str(index[root]["meta"].get("title", "")))}</a>'
+    return f'<aside class="side" aria-label="In this section">{top}{tree}</aside>'
 
 
 def news_items(pages, theme=None):
@@ -280,6 +301,10 @@ def initials(name):
 
 def person_card(person):
     name = html.escape(person["name"])
+    # the name itself is a link: to the portal, which stays current, otherwise to a page on this site
+    target = f'https://research.vu.nl/en/persons/{person["pure"]}' if person.get("pure") else person.get("page", "")
+    if target:
+        name = f'<a href="{html.escape(target)}">{name}</a>'
     photo = (f'<img src="{html.escape(person["photo"])}" alt="" loading="lazy">' if person.get("photo")
              else f'<span class="initials">{html.escape(initials(person["name"]))}</span>')
     links = []
@@ -306,11 +331,14 @@ def people_html():
     return "".join(out)
 
 
-def publications_html(limit):
+def publications_html(limit, theme=None):
     path = f"{DATA_DIR}/publications_latest.json"
     if not os.path.exists(path):
         return ""
-    items = json.load(open(path, encoding="utf-8"))["items"][:limit]
+    items = json.load(open(path, encoding="utf-8"))["items"]
+    if theme:
+        items = [i for i in items if any(word in i["title"].lower() for word in THEME_WORDS.get(theme, ()))]
+    items = items[:limit]
     rows = "".join(
         f'<a class="pub" href="{html.escape(item["url"])}"><span class="pub-year">{html.escape(item["date"][:4])}</span>'
         f'<span class="pub-title">{html.escape(item["title"])}</span>'
@@ -452,7 +480,7 @@ def render_body(page, pages):
         if name == "people":
             return people_html()
         if name == "publications":
-            return publications_html(LIST_PUBLICATIONS)
+            return publications_html(THEME_PUBLICATIONS, argument) if argument else publications_html(LIST_PUBLICATIONS)
         if name == "theses":
             return theses_html()
         if name == "children":
@@ -492,7 +520,13 @@ def render(page, pages, css_name):
     side = sidebar_html(page, index)
     notice = ""
     if meta.get("archived"):
-        notice = '<p class="archived">This page describes earlier work and is no longer updated.</p>'
+        parent = page["url"].rsplit("/", 2)[0] + "/"
+        current = ""
+        if parent in index and parent != "/":
+            current = f' See <a href="{parent}">{html.escape(str(index[parent]["meta"].get("title", "")))}</a> for current work.'
+        notice = f'<p class="archived">This page describes earlier work and is no longer updated.{current}</p>'
+    if meta.get("banner"):
+        notice = f'<img class="page-banner" src="/assets/map/{html.escape(str(meta["banner"]))}.png" alt="">' + notice
     updated = ""
     if meta.get("updated") and not page["url"].startswith("/news/"):
         updated = f'<p class="updated">Last updated {html.escape(format_date(meta["updated"]))}</p>'

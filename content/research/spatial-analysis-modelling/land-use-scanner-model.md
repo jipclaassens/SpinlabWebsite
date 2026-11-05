@@ -4,6 +4,8 @@ description: The Land Use Scanner model – Applications, model development, dow
 updated: '2023-12-01'
 ---
 
+The Land Use Scanner continues as [RuimteScanner 2.0](https://www.pbl.nl/publicaties/ruimtescanner-20), which is [open source as RSopen](https://www.geodms.nl/rsopen/). Its [full reference list](https://www.geodms.nl/rsopen/docs/referenties.html) gives the literature behind the model. The text below describes the original model.
+
 **The Land Use Scanner model – Applications, model development, downloads & exercises**
 
 VU University Amsterdam has a long-standing experience in integrated land use modelling.![W_scenarios_midNL_550px](/files/2016/04/W_scenarios_midNL_550px.jpg){: .side } Research is done in both a [national](/publications/land-use-scanner-publications/#NL) and an [international](/publications/land-use-scanner-publications/#EU) context. Applications include studies into the future of agriculture in the Netherlands, deforestation in Surinam, climate impacts and adaptation measures. Most of this research was carried out for and with an operational land use model that integrates urban and non-urban types of land use, the Land Use Scanner.
@@ -28,13 +30,33 @@ The total of the additional demand and the present area for each land-use functi
 
 Some general, characteristic features of the Land Use Scanner are:
 
-|  |  |
-| --- | --- |
-| *Grid-based* | The model describes for all grids in a system the relative proportions of land to be used for a number of land use types. Model specification and software allow large numbers of grids. The present model version covering the Netherlands uses 100 by-100-meter grid cells. |
-| *Integrated* | The model provides an integration framework for sector-specific databases and policy proposals by confronting these inputs in a spatial-analytical context. |
-| *Exhaustive* | The model is exhaustive in the sense that all grids in a spatial unit (in most cases, a country) are considered. All types of land use are explicitly considered; thus, no remaining categories are left untreated. The model can be formulated in such a way that transfers of wet grids (sea, lakes) into land are allowed. |
-| *Dynamic* | The model deals with changes in land use, taking into account present land use patterns. The suitabilities of the grids for certain types of land use are not assumed constant but may change due to changes in land use over time. Recent applications distinguish up to three timesteps in the simulation. |
-| *Satellite structure* | The model is driven by forecasts at a national or regional level in terms of variables such as population, agricultural production, infrastructure, etc. |
-| *Policy-oriented* | Several types of sector-specific policies have strong spatial implications. Land Use Scanner makes these implications explicit. The model helps solve questions referring to the types of grids in which major policy conflicts can be expected to emerge. It can also be used to investigate the implications of sector-specific and macro policies for human settlement and land use patterns. |
+<table>
+<tbody>
+<tr>
+<td><i>Grid-based</i></td>
+<td>The model describes for all grids in a system the relative proportions of land to be used for a number of land use types. Model specification and software allow large numbers of grids. The present model version covering the Netherlands uses 100 by-100-meter grid cells.</td>
+</tr>
+<tr>
+<td><i>Integrated</i></td>
+<td>The model provides an integration framework for sector-specific databases and policy proposals by confronting these inputs in a spatial-analytical context.</td>
+</tr>
+<tr>
+<td><i>Exhaustive</i></td>
+<td>The model is exhaustive in the sense that all grids in a spatial unit (in most cases, a country) are considered. All types of land use are explicitly considered; thus, no remaining categories are left untreated. The model can be formulated in such a way that transfers of wet grids (sea, lakes) into land are allowed.</td>
+</tr>
+<tr>
+<td><i>Dynamic</i></td>
+<td>The model deals with changes in land use, taking into account present land use patterns. The suitabilities of the grids for certain types of land use are not assumed constant but may change due to changes in land use over time. Recent applications distinguish up to three timesteps in the simulation.</td>
+</tr>
+<tr>
+<td><i>Satellite structure</i></td>
+<td>The model is driven by forecasts at a national or regional level in terms of variables such as population, agricultural production, infrastructure, etc.</td>
+</tr>
+<tr>
+<td><i>Policy-oriented</i></td>
+<td>Several types of sector-specific policies have strong spatial implications. Land Use Scanner makes these implications explicit. The model helps solve questions referring to the types of grids in which major policy conflicts can be expected to emerge. It can also be used to investigate the implications of sector-specific and macro policies for human settlement and land use patterns.</td>
+</tr>
+</tbody>
+</table>
 
 The property of integration means that the Land Use Scanner can function as a tool to improve communication between analysts working in various fields of land use (for example, urban functions versus agriculture versus natural land use). The model also helps to improve consistency between projections made in these fields. Thus, a potential use of the Land Use Scanner is that is does not only function as a modelling tool but also as a communication tool between analysts in various policy fields.

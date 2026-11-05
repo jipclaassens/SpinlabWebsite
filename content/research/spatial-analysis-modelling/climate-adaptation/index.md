@@ -1,23 +1,25 @@
 ---
-title: Climate Adaptation
-description: Land-use change is one of the important factors in the climate change cycle and the relationship between the two is interdependent; changes in land use may affect the climate...
-updated: '2018-11-26'
+title: Climate adaptation
+description: How land use and climate change influence each other, and what that means for adaptation.
+banner: climate-adaptation
 ---
 
-Land-use change is one of the important factors in the climate change cycle and the relationship between the two is interdependent; changes in land use may affect the climate whilst climatic change will also influence future land-use. The figure below describes the intricate relation between land use and climate.
+Land use and climate influence each other: changes in land use may affect the climate, and climate change will influence future land use. Research at SPINlab focuses mainly on what climate change means for land-use patterns. We use land-use models to simulate the effects of socio-economic change, climate impacts and adaptation measures.
 
-![cc_large](/files/2016/07/cc_large-1.jpg)
+## Current work
 
-source: US CCSP, 2004
+- [Future land use for the water challenges ahead](/news/future-land-use-mapped-to-assess-upcoming-water-challenges/): the land-use scenarios behind the Delta Scenarios presented by Deltares, documented in [Actualisering landgebruik Deltascenario's 2023](https://hdl.handle.net/1871.1/4c610809-d295-446a-8627-1b257acad3dd).
+- [Future urban area and population exposure to floods and landslides](https://doi.org/10.1029/2025EF006132), modelled worldwide at high resolution (Earth's Future, 2026).
+- [Twinning for climate-resilient urban solutions](/news/twinning-for-climate-resilient-urban-solutions/): the potential of digital twins for climate-resilient urban development, with the University of Twente.
 
-At SPINlab research focuses mainly on the implications of climate change for land-use patterns. To analyse this we make use of land-use models that simulate potential spatial resulting from socio-economic changes, climate impacts and human-induced adaptation and mitigation measures. More specifically we focus on issues such as:
+## Recent publications
 
-- [adaptation in rural areas](../climate-adaptation/care/)
-- [linking hydrologic and land-use models](../climate-adaptation/linking-hydrology-and-land-use/)
-- [developing new tools for drafting adaptation strategies](../climate-adaptation/adaptation-tools/)
-- [flood risk assessments](../climate-adaptation/glowa-elbe-water-management/)
-- [water shortage](../climate-adaptation/water-shortage-study/)
+{{publications:climate-adaptation}}
 
 ## Updates
 
 {{news:climate-adaptation}}
+
+## Earlier projects
+
+{{children}}

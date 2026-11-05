@@ -18,12 +18,10 @@ Like all externalities, noise nuisance may be a reason for government interventi
 
 **Publications related to Externalities – noise**
 
-|  |  |
-| --- | --- |
-|  | Beerda, E., Locatie, locatie, locatie. Interview met econoom Jasper Dekkers, *Experiment NL Deel 3 – Wetenschap in Nederland*, 3, pp.36-37, 2010. |
-| [Transportation Research Part D](https://doi.org/10.1016/j.trd.2009.07.006) | Lijesen, M., van der Straaten, J.W., Dekkers, J.E.C., van Elk, R., Blokdijk, J., How much noise reduction at airports?, *Transportation Research Part D: Transport and Environment*, 15 (1), pp.51-59, 2010. |
-| SDU uitgevers | Lijesen, M., Dekkers, J.E.C., van der Straaten, W., Luchtvaart en geluid: naar een welvaartsoptimum. Hoofdstuk 12, in: Koetse, M.J., Rietveld, P. (eds.), *Economische waardering van omgevingskwaliteit; casestudies en toepassingen in de MKBA*, SDU uitgevers bv, Den Haag, 2010. |
-| [Ecological Economics](https://doi.org/10.1016/j.ecolecon.2009.06.002) | Dekkers, J.E.C., van der Straaten, J.W., Monetary valuation of aircraft noise; a hedonic analysis around Amsterdam airport Ecological Economics, *Ecological Economics*, 68 (11), pp.2850-2858, 2009. |
-| [EURONOISE 2009](http://www.euronoise2009.org.uk) | Dekkers, J.E.C., van der Straaten, J.W., A hedonic aircraft noise valuation study around Amsterdam airport, in: *Proceedings of EURONOISE 2009*, Edinburgh, Schotland, 26-28 October, 2009. |
-|  | Dekkers, J.E.C., van der Straaten, W., Monetary Valuation of Aircraft Noise; a hedonic analysis around Amsterdam Airport, Tinbergen Institute Discussion Paper, Amsterdam, 2008. |
-| CPB | Lijesen, M., van der Straaten, W., Dekkers, J.E.C., van Elk, R., Geluidsnormen voor Schiphol, een welvaartseconomische benadering, *CPB rapport*, *no. 116*, Den Haag, 2006. |
+- Beerda, E., Locatie, locatie, locatie. Interview met econoom Jasper Dekkers, *Experiment NL Deel 3 – Wetenschap in Nederland*, 3, pp.36-37, 2010.
+- Lijesen, M., van der Straaten, J.W., Dekkers, J.E.C., van Elk, R., Blokdijk, J., [How much noise reduction at airports?](https://doi.org/10.1016/j.trd.2009.07.006), *Transportation Research Part D: Transport and Environment*, 15 (1), pp.51-59, 2010.
+- Lijesen, M., Dekkers, J.E.C., van der Straaten, W., Luchtvaart en geluid: naar een welvaartsoptimum. Hoofdstuk 12, in: Koetse, M.J., Rietveld, P. (eds.), *Economische waardering van omgevingskwaliteit; casestudies en toepassingen in de MKBA*, SDU uitgevers bv, Den Haag, 2010.
+- Dekkers, J.E.C., van der Straaten, J.W., [Monetary valuation of aircraft noise; a hedonic analysis around Amsterdam airport Ecological Economics](https://doi.org/10.1016/j.ecolecon.2009.06.002), *Ecological Economics*, 68 (11), pp.2850-2858, 2009.
+- Dekkers, J.E.C., van der Straaten, J.W., [A hedonic aircraft noise valuation study around Amsterdam airport](http://www.euronoise2009.org.uk), in: *Proceedings of EURONOISE 2009*, Edinburgh, Schotland, 26-28 October, 2009.
+- Dekkers, J.E.C., van der Straaten, W., [Monetary Valuation of Aircraft Noise; a hedonic analysis around Amsterdam Airport, Tinbergen Institute Discussion Paper](/files/2016/09/08064.pdf), Amsterdam, 2008.
+- Lijesen, M., van der Straaten, W., Dekkers, J.E.C., van Elk, R., Geluidsnormen voor Schiphol, een welvaartseconomische benadering, *CPB rapport*, *no. 116*, Den Haag, 2006.
