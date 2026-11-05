@@ -10,7 +10,6 @@ The Department of Spatial Economics has a strong focus on transport economics. S
 
 - [ENHANCE](/news/understanding-the-barriers-for-15-minute-cities/) studies the barriers to 15-minute cities, to make urban travel more sustainable and equitable, also in outer metropolitan areas and small cities. See also the [project's meeting and prize winners](/news/enhance-meeting-and-prize-winners/) and [the 15-minute city beyond home](https://research.vu.nl/en/publications/the-15-minute-city-beyond-home-walking-and-cycling-across-home-an/).
 - [Modelling car dependence](https://research.vu.nl/en/publications/modelling-car-dependence-pathways-to-sustainable-urban-mobility/): pathways to sustainable urban mobility (Cities, 2026).
-- [NetworkModel PBL](https://www.geodms.nl/networkmodel_pbl/) calculates accessibility by car, bicycle, foot and public transport for the Netherlands. It is used in reports such as [Beter bereikbaar?](https://www.pbl.nl/publicaties/beter-bereikbaar) by PBL.
 - [Floating car data](/news/floating-car-data-reveals-travel-time-reliability/) to describe travel time reliability, and the [Urban Mobility Observatory](/news/urban-mobility-observatory/), a project of TU Delft that collects traffic, transport and mobility data for research.
 
 ## Recent publications

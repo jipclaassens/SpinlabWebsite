@@ -17,7 +17,7 @@ GIS and spatial data analysis in bachelor and master programmes, the national GI
 
 ### Tools and models
 
-The [Land Use Scanner](/research/spatial-analysis-modelling/land-use-scanner-model/), its [student edition](/support/tools/landusescanner/), and other tools we share. [See all tools](/support/tools/)
+The [Land Use Scanner](/tools/land-use-scanner/), its [student edition](/tools/land-use-scanner/student-edition/), and other tools we share. [See all tools](/tools/)
 
 </div>
 <div markdown="1">

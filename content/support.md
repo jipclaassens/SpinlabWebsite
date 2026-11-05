@@ -17,7 +17,7 @@ Most of our courses use [QGIS](https://www.qgis.org/). We recommend the latest s
 
 ## Tools and models
 
-We share a number of [tools and models](/support/tools/), including the Land Use Scanner.
+We share a number of [tools and models](/tools/), including the Land Use Scanner.
 
 ## Updates
 

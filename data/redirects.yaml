@@ -65,10 +65,40 @@ pages:
   /promotion-vasco-diogo/: /news/promotion-vasco-diogo/
   /relation-between-air-pollution-and-confirmed-covid-19-cases-researched/: /news/relation-between-air-pollution-and-confirmed-covid-19-cases-researched/
   /rens-de-hond-via-appia-project-wins-oikos-thesis-award/: /news/rens-de-hond-via-appia-project-wins-oikos-thesis-award/
-  /research/spatial-analysis-modelling/climate-adaptation/glowa-elbe-water-management/: /research/spatial-analysis-modelling/climate-adaptation/
-  /research/spatial-analysis-modelling/land-use-modelling/intelcities/: /research/spatial-analysis-modelling/land-use-modelling/
-  /research/spatial-analysis-modelling/spatial-planning/brep-spatial-economic-soil-management/: /research/spatial-analysis-modelling/spatial-planning/
-  /research/spatial-analysis-modelling/spatial-planning/gets/: /research/spatial-analysis-modelling/spatial-planning/
+  /research/spatial-analysis-modelling/: /research/
+  /research/spatial-analysis-modelling/climate-adaptation/: /research/climate-adaptation/
+  /research/spatial-analysis-modelling/climate-adaptation/adaptation-tools/: /research/climate-adaptation/adaptation-tools/
+  /research/spatial-analysis-modelling/climate-adaptation/care/: /research/climate-adaptation/care/
+  /research/spatial-analysis-modelling/climate-adaptation/climate-effect-guide/: /research/climate-adaptation/climate-effect-guide/
+  /research/spatial-analysis-modelling/climate-adaptation/glowa-elbe-water-management/: /research/climate-adaptation/
+  /research/spatial-analysis-modelling/climate-adaptation/lands-kvr/: /research/climate-adaptation/lands-kvr/
+  /research/spatial-analysis-modelling/climate-adaptation/linking-hydrology-and-land-use/: /research/climate-adaptation/linking-hydrology-and-land-use/
+  /research/spatial-analysis-modelling/climate-adaptation/safety-first-avv/: /research/climate-adaptation/safety-first-avv/
+  /research/spatial-analysis-modelling/climate-adaptation/water-shortage-study/: /research/climate-adaptation/water-shortage-study/
+  /research/spatial-analysis-modelling/land-use-modelling/: /research/land-use-modelling/
+  /research/spatial-analysis-modelling/land-use-modelling/accessibility-land-use/: /research/land-use-modelling/accessibility-land-use/
+  /research/spatial-analysis-modelling/land-use-modelling/future-of-agriculture/: /research/land-use-modelling/future-of-agriculture/
+  /research/spatial-analysis-modelling/land-use-modelling/iglo/: /research/land-use-modelling/iglo/
+  /research/spatial-analysis-modelling/land-use-modelling/intelcities/: /research/land-use-modelling/
+  /research/spatial-analysis-modelling/land-use-modelling/international-models/: /research/land-use-modelling/international-models/
+  /research/spatial-analysis-modelling/land-use-modelling/lumospro/: /research/land-use-modelling/lumospro/
+  /research/spatial-analysis-modelling/land-use-modelling/modellingchange/: /research/land-use-modelling/modellingchange/
+  /research/spatial-analysis-modelling/land-use-modelling/netherlands-2030/: /research/land-use-modelling/netherlands-2030/
+  /research/spatial-analysis-modelling/land-use-scanner-model/: /tools/land-use-scanner/
+  /research/spatial-analysis-modelling/location-value/: /research/location-value/
+  /research/spatial-analysis-modelling/location-value/aircraft-noise/: /research/location-value/aircraft-noise/
+  /research/spatial-analysis-modelling/location-value/land-rents/: /research/location-value/land-rents/
+  /research/spatial-analysis-modelling/location-value/parking-policy/: /research/location-value/parking-policy/
+  /research/spatial-analysis-modelling/spatial-planning/: /research/spatial-planning/
+  /research/spatial-analysis-modelling/spatial-planning/brep-spatial-economic-soil-management/: /research/spatial-planning/
+  /research/spatial-analysis-modelling/spatial-planning/euphids-eu-pesticide-dss/: /research/spatial-planning/euphids-eu-pesticide-dss/
+  /research/spatial-analysis-modelling/spatial-planning/gets/: /research/spatial-planning/
+  /research/spatial-analysis-modelling/spatial-planning/knowledge-workers/: /research/spatial-planning/knowledge-workers/
+  /research/spatial-analysis-modelling/spatial-planning/open-space-preservation/: /research/spatial-planning/open-space-preservation/
+  /research/spatial-analysis-modelling/spatial-planning/pspe/: /research/spatial-planning/pspe/
+  /research/spatial-analysis-modelling/spatial-planning/rural-vitality/: /research/spatial-planning/rural-vitality/
+  /research/spatial-analysis-modelling/spatial-planning/sustainable-urban-development/: /research/spatial-planning/sustainable-urban-development/
+  /research/spatial-analysis-modelling/spatial-planning/urban-intensification/: /research/spatial-planning/urban-intensification/
   /rws/: /research/researcharchive/rws/
   /rws/rws-3d-linked-data-viewer/: /research/researcharchive/rws/rws-3d-linked-data-viewer/
   /scientific-contribution-minecraft-smart-cities-civic-engagement/: /news/scientific-contribution-minecraft-smart-cities-civic-engagement/
@@ -94,6 +124,10 @@ pages:
   /stem-op-geofort/: /news/
   /strategische-verkenning-geodesign/: /news/strategische-verkenning-geodesign/
   /succesful-phd-defense-panayiotis-sophronides/: /news/succesful-phd-defense-panayiotis-sophronides/
+  /support/tools/: /tools/
+  /support/tools/definite-bosda/: /tools/definite/
+  /support/tools/geodms-bag-geocoder/: /tools/bag-toolkit/
+  /support/tools/landusescanner/: /tools/land-use-scanner/student-edition/
   /the-vu-is-the-first-university-in-the-netherlands-to-have-access-to-bridgis-populator-data-service/: /news/the-vu-is-the-first-university-in-the-netherlands-to-have-access-to-bridgis-populator-data-service/
   /theory-and-application-of-dynamic-spatial-time-series-models/: /news/theory-and-application-of-dynamic-spatial-time-series-models/
   /towards-the-dutch-archaeological-linked-open-data-cloud/: /news/towards-the-dutch-archaeological-linked-open-data-cloud/
@@ -124,7 +158,6 @@ pages:
   /where-to-build-our-houses/: /news/where-to-build-our-houses/
   /world-urbanization-prospects/: /news/world-urbanization-prospects/
   /you-can-now-register-for-another-interesting-unigis-amsterdam-expert-webinar-on-linked-data-location-intelligence/: /news/
-  /support/tools/geodms-bag-geocoder/: /support/tools/bag-toolkit/
 files:
   /wp-content/uploads/2013/12/Geoplaza_relaunch.png: /files/2013/12/Geoplaza_relaunch.jpg
   /wp-content/uploads/2015/01/kleine_kernen.jpg: /files/2015/01/kleine_kernen-1.jpg
@@ -428,9 +461,9 @@ files:
   /wp-content/uploads/2018/11/LandscapesOfTheThunderDragon_ThomasWarnaarMScThesis.pdf: /files/theses/LandscapesOfTheThunderDragon_ThomasWarnaarMScThesis.pdf
   ? /wp-content/uploads/2018/11/Operationalizing-Social-Inclusiveness-in-Infrastructure-Investment-Choices-in-the-Developing-World_Daniel-Lyons-Harrison.pdf
   : /files/theses/Operationalizing-Social-Inclusiveness-in-Infrastructure-Investment-Choices-in-the-Developing-World_Daniel-Lyons-Harrison.pdf
-  /wp-content/uploads/2016/09/Definite_setup.zip: /support/tools/definite-bosda/
-  /wp-content/uploads/2016/09/evaluationmethods.zip: /support/tools/definite-bosda/
-  /wp-content/uploads/2016/09/geocode_2016-09-16.zip: /support/tools/bag-toolkit/
-  /wp-content/uploads/2017/04/geocode_2017-04-07.zip: /support/tools/bag-toolkit/
-  /wp-content/uploads/2016/09/nvm_2015.zip: /support/tools/bag-toolkit/
-  /wp-content/uploads/2017/04/Manual_Geocoding-using-the-BAG_v08.pdf: /support/tools/bag-toolkit/
+  /wp-content/uploads/2016/09/Definite_setup.zip: /tools/definite/
+  /wp-content/uploads/2016/09/evaluationmethods.zip: /tools/definite/
+  /wp-content/uploads/2016/09/geocode_2016-09-16.zip: /tools/bag-toolkit/
+  /wp-content/uploads/2017/04/geocode_2017-04-07.zip: /tools/bag-toolkit/
+  /wp-content/uploads/2016/09/nvm_2015.zip: /tools/bag-toolkit/
+  /wp-content/uploads/2017/04/Manual_Geocoding-using-the-BAG_v08.pdf: /tools/bag-toolkit/

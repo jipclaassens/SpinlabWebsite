@@ -14,7 +14,7 @@ This integrated GIS-based land use model was first developed in close cooperatio
 
 The [GeoDMS framework](https://github.com/ObjectVision/GeoDMS) underlying *Land Use Scanner* is developed and maintained by the [Object Vision](https://www.objectvision.nl) company and also applied in other spatially explicit models. Examples include a land-use modelling framework for the European Commission that covers all member states of the European Union at a 100-metre resolution ([Lavalle et al., 2011](https://doi.org/10.1007/978-3-642-21928-3_5)) and the 2UP model that simulates urban development and population change around the globe ([Koomen et al., 2023](https://doi.org/10.1016/j.compenvurbsys.2022.101935)). A full account of the original *Land Use Scanner* is provided by [Hilferink and Rietveld (1999)](https://doi.org/10.1007/978-3-642-21928-3_5), whereas recent applications are documented in a book by [Koomen and Borsboom-van Beurden (2011)](https://doi.org/10.1007/978-94-007-1822-7).
 
-This website provides more information on the outline and characteristics of the model. A fully functional demonstration version of the model can be downloaded [here.](/support/tools/landusescanner/)
+This website provides more information on the outline and characteristics of the model. A fully functional demonstration version of the model can be downloaded [here.](/tools/land-use-scanner/student-edition/)
 
 **Model Outline**
 

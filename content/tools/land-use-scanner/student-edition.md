@@ -1,9 +1,9 @@
 ---
-title: Land Use Scanner, student edition
+title: Student edition
 description: A working land-use model with its data, to learn how land-use simulation works. Free, and it runs on your own computer.
 ---
 
-The student edition is a working version of the [Land Use Scanner](/research/spatial-analysis-modelling/land-use-scanner-model/) that simulates land use in the Netherlands. It comes with its data, so you can change the assumptions and see what happens on the map. It is a first introduction to the modelling environment that research institutes use to support spatial planning.
+The student edition is a working version of the [Land Use Scanner](/tools/land-use-scanner/) that simulates land use in the Netherlands. It comes with its data, so you can change the assumptions and see what happens on the map. It is a first introduction to the modelling environment that research institutes use to support spatial planning.
 
 ## Get started
 
@@ -14,8 +14,7 @@ The student edition is a working version of the [Land Use Scanner](/research/spa
 ## Learn with it
 
 - The [land-use allocation exercise in the GeoDMS Academy](https://github.com/ObjectVision/GeoDMS_Academy/wiki/Module-6%2C-Allocating-land-use) is the assignment and tutorial that goes with this model.
-- The [wiki page on the student edition](https://github.com/ObjectVision/LandUseModelling/wiki/Land-Use-Scanner---demo-version) describes how it is set up.
-- The [land use modelling wiki](https://github.com/ObjectVision/LandUseModelling/wiki) explains the methods, such as [discrete](https://github.com/ObjectVision/LandUseModelling/wiki/Discrete-Allocation) and [continuous allocation](https://github.com/ObjectVision/LandUseModelling/wiki/Continuous-Allocation).
+- The [documentation of the student edition](https://github.com/ObjectVision/LandUseModelling/wiki/Land-Use-Scanner---demo-version) describes how it is set up.
 
 ## Going further
 

@@ -18,6 +18,7 @@ import hashlib
 import html
 import json
 import os
+import posixpath
 import re
 import shutil
 import subprocess
@@ -50,15 +51,18 @@ HOME_THESES = 4
 # reachable through its parent page.
 NAV = [
     ("Research", "/research/", [
-        ("Spatial analysis and modelling", "/research/spatial-analysis-modelling/"),
+        ("Land use modelling", "/research/land-use-modelling/"),
+        ("Spatial planning", "/research/spatial-planning/"),
+        ("Climate adaptation", "/research/climate-adaptation/"),
+        ("Location value", "/research/location-value/"),
         ("Accessibility", "/research/accessibility/"),
         ("Geodesign and digital twins", "/research/geodesign/"),
         ("Research archive", "/research/researcharchive/"),
     ]),
-    ("Tools", "/support/tools/", [
-        ("Land Use Scanner", "/research/spatial-analysis-modelling/land-use-scanner-model/"),
-        ("Land Use Scanner, student edition", "/support/tools/landusescanner/"),
-        ("BAG toolkit", "/support/tools/bag-toolkit/"),
+    ("Tools", "/tools/", [
+        ("Land Use Scanner", "/tools/land-use-scanner/"),
+        ("Student edition", "/tools/land-use-scanner/student-edition/"),
+        ("BAG toolkit", "/tools/bag-toolkit/"),
     ]),
     ("Education", "/education/", [
         ("UNIGIS distance learning", "/unigis/"),
@@ -81,13 +85,13 @@ NAV = [
 # The research themes, as tiles on the home page. Kept here rather than parsed out of the
 # markdown, because their order is structure, not prose.
 THEMES = [
-    ("Land use modelling", "/research/spatial-analysis-modelling/land-use-modelling/",
+    ("Land use modelling", "/research/land-use-modelling/",
      "Analysing and simulating land-use change, with the Land Use Scanner as the main instrument.", "land-use-modelling"),
-    ("Spatial planning", "/research/spatial-analysis-modelling/spatial-planning/",
+    ("Spatial planning", "/research/spatial-planning/",
      "What planning policy does to cities and the countryside, and what it could do.", "spatial-planning"),
-    ("Climate adaptation", "/research/spatial-analysis-modelling/climate-adaptation/",
+    ("Climate adaptation", "/research/climate-adaptation/",
      "How land use and climate change influence each other, and what that means for adaptation.", "climate-adaptation"),
-    ("Location value", "/research/spatial-analysis-modelling/location-value/",
+    ("Location value", "/research/location-value/",
      "What location adds to the value of property, from open space to aircraft noise.", "location-value"),
     ("Accessibility", "/research/accessibility/",
      "Accessibility analysis on highly detailed spatial data, alongside transport economics.", "accessibility"),
@@ -153,6 +157,12 @@ def collect_pages():
             rel = os.path.relpath(full, CONTENT_DIR).replace("\\", "/")
             meta, body = read_page(full)
             pages[rel] = {"meta": meta, "body": body, "url": url_for(rel), "source": full}
+    # two files for one address would silently overwrite each other
+    seen = {}
+    for rel, page in pages.items():
+        if page["url"] in seen:
+            sys.exit(f"Two pages for {page['url']}: {seen[page['url']]} and {rel}")
+        seen[page["url"]] = rel
     return pages
 
 
@@ -738,6 +748,7 @@ def write_search_index(pages):
 
 
 REF_RE = re.compile(r'\b(?:href|src)="(/[^"#?]*)')
+RELATIVE_RE = re.compile(r'\b(?:href|src)="(?![a-z]+:|/|#|\{)([^"#?]+)')
 
 
 def check_links():
@@ -745,7 +756,9 @@ def check_links():
     broken = {}
     for path in glob.glob(f"{OUT_DIR}/**/*.html", recursive=True):
         text = open(path, encoding="utf-8").read()
-        for ref in set(REF_RE.findall(text)):
+        here = "/" + os.path.relpath(os.path.dirname(path), OUT_DIR).replace("\\", "/").strip("./") + "/"
+        relative = {posixpath.normpath(posixpath.join(BASE + here, ref)) for ref in RELATIVE_RE.findall(text)}
+        for ref in set(REF_RE.findall(text)) | relative:
             local = ref[len(BASE):] if BASE and ref.startswith(BASE + "/") else ref
             target = os.path.join(OUT_DIR, unquote(local).lstrip("/").replace("/", os.sep))
             if not (os.path.isfile(target) or os.path.isfile(os.path.join(target, "index.html"))):

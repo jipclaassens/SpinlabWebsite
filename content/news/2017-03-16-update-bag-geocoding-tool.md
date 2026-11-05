@@ -16,6 +16,6 @@ The following issues have been updated in this new release:
 - A new BAG-snapshot dating 1 January 2017 has been pre-created and added to the Easy Download zip-file;
 - The latest CBS administrative regions (Municipality, quarter and neighbourhoods, 2016) has been added.
 
-For more information and downloads, visit [https://spinlab.vu.nl/support/tools/bag-toolkit/](/support/tools/bag-toolkit/)
+For more information and downloads, visit [the BAG toolkit](/tools/bag-toolkit/)
 
 ![](/files/2017/03/upd_032017.jpg)
