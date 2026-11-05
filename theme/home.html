@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{title}}</title>
+<meta name="description" content="{{description}}">
+<link rel="canonical" href="{{canonical}}">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="SPINlab news" href="/feed.xml">
+<link rel="stylesheet" href="/assets/{{css}}">
+</head>
+<body class="home">
+<a class="skip" href="#main">Skip to content</a>
+<header class="top">
+  <div class="wrap top-row">
+    <a class="brand" href="/" aria-label="SPINlab home">
+      <img class="brand-vu" src="/assets/vu-logo.svg" alt="Vrije Universiteit Amsterdam" width="148" height="36">
+      <span class="brand-name">SPINlab<small>Spatial Information Laboratory</small></span>
+    </a>
+    <input class="menu-toggle" type="checkbox" id="menu-toggle" aria-label="Show the menu">
+    <label class="menu-button" for="menu-toggle">Menu</label>
+    {{nav}}
+  </div>
+</header>
+<main id="main">
+  <section class="hero">
+    <div class="wrap hero-text">
+      <h1>{{heading}}</h1>
+      <p class="lead">{{lead}}</p>
+      <p class="hero-links"><a class="btn btn-light" href="/research/">Our research</a><a class="btn btn-line" href="/education/">Study with us</a></p>
+    </div>
+    <img class="hero-map" src="/assets/map/hero.png" alt="" width="1280" height="520">
+    <p class="hero-credit">Land use around Amsterdam, after CBS Bestand Bodemgebruik 2022</p>
+  </section>
+  <section class="band">
+    <div class="wrap">
+      <h2 class="section-title">Research themes</h2>
+      {{tiles}}
+    </div>
+  </section>
+  <section class="band band-sand">
+    <div class="wrap two-col">
+      <div>
+        <h2 class="section-title">Latest news</h2>
+        {{homenews}}
+        <p class="more"><a href="/news/">All news</a></p>
+      </div>
+      <div>
+        <h2 class="section-title">Recent publications</h2>
+        {{homepubs}}
+        <p class="more"><a href="/publications/">All publications</a></p>
+      </div>
+    </div>
+  </section>
+  <section class="band">
+    <div class="wrap three-col prose-plain">
+      {{body}}
+    </div>
+  </section>
+</main>
+<footer class="foot">
+  <div class="wrap foot-grid">
+    <div>
+      <div class="foot-name">SPINlab</div>
+      <p>Spatial Information Laboratory<br>Department of Spatial Economics<br>School of Business and Economics<br>Vrije Universiteit Amsterdam</p>
+    </div>
+    <div>
+      <div class="foot-head">Visit</div>
+      <p>De Boelelaan 1105, main building<br>9th floor, A-wing<br>1081 HV Amsterdam</p>
+    </div>
+    <div>
+      <div class="foot-head">This site</div>
+      <p><a href="/contact/">Contact</a><br><a href="/news/">News</a> · <a href="/feed.xml">RSS</a><br><a href="/privacy/">Privacy</a> · <a href="https://vu.nl/en/about-vu/more-about/disclaimer">Disclaimer</a></p>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

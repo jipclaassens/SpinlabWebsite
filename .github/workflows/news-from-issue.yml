@@ -1,0 +1,54 @@
+# Turns a filled-in "News item" issue into a news page once somebody with write access adds the
+# label "publish". Adding a label takes write access, so nobody outside the team can publish.
+#
+# A push made with the workflow's own token does not start other workflows, so this one starts the
+# deploy itself.
+name: News from issue
+
+on:
+  issues:
+    types: [labeled]
+
+permissions:
+  contents: write
+  issues: write
+  actions: write
+
+jobs:
+  publish:
+    if: ${{ github.event.label.name == 'publish' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install PyYAML
+
+      # the issue text goes in through the environment, never into the shell command itself
+      - name: Write the news page
+        id: write
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          GH_TOKEN: ${{ github.token }}
+        run: python tools/issue_to_news.py
+
+      - name: Commit and publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE: ${{ github.event.issue.number }}
+          PAGE: ${{ steps.write.outputs.url }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/news static/files/news
+          git commit --cleanup=whitespace -m "News: $(sed -n 's/^title: //p' "${{ steps.write.outputs.file }}" | head -1)"
+          git push
+          gh workflow run build-and-deploy.yml --ref main
+          gh issue close "$ISSUE" --comment "Published. It will be at $PAGE within a few minutes."

@@ -1,0 +1,32 @@
+name: News item
+description: Write a news item for the site. It goes online once somebody adds the label "publish".
+title: "A short title for the news item"
+body:
+  - type: textarea
+    id: text
+    attributes:
+      label: Text
+      description: Write it as you would in an email. Drag a picture into this box to add it. The first sentence becomes the summary in the news list.
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Date
+      description: Leave empty for today. Otherwise as 2026-11-05.
+    validations:
+      required: false
+  - type: checkboxes
+    id: themes
+    attributes:
+      label: Themes
+      description: Optional. The item then also appears on those research pages.
+      options:
+        - label: Accessibility
+        - label: Climate adaptation
+        - label: Education
+        - label: Geodesign
+        - label: Land use modelling
+        - label: PhD research
+        - label: Spatial analysis
+        - label: Spatial planning
