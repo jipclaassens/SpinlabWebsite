@@ -29,7 +29,6 @@ people:
   photo: /files/people/eric-koomen.jpg
   pure: eric-koomen
   feed: true
-  page: /phd-research/eric-koomen/
   email: e.koomen@vu.nl
 - name: Jaap Boter
   role: Programme Director UNIGIS
@@ -41,7 +40,6 @@ people:
   group: staff
   photo: /files/people/eduardo-dias.jpg
   pure: eduardo-simao-da-graca-dias
-  page: /phd-research/eduardo-dias/
 - name: Jiakun Liu
   role: Postdoc researcher
   group: staff
@@ -54,7 +52,6 @@ people:
   photo: /files/people/jip-claassens.jpg
   pure: jip-claassens
   feed: true
-  page: /phd-research/jip-claassens/
 - name: Marcela Martinez Ibarra
   role: PhD Researcher
   group: phd
@@ -63,7 +60,6 @@ people:
   role: PhD Researcher
   group: phd
   photo: /files/people/sanne-hettinga.jpg
-  page: /phd-research/sanne-hettinga/
 - name: Apeksha Tare
   role: PhD Researcher
   group: phd
@@ -139,13 +135,11 @@ people:
   role: Affiliate Researcher
   group: affiliates
   photo: /files/people/bo-andree.jpg
-  page: /phd-research/bo-andree/
 - name: Maurice de Kleijn
   role: Affiliate Lecturer
   group: affiliates
   photo: /files/people/maurice-de-kleijn.jpg
   pure: mtm-de-kleijn
-  page: /phd-research/maurice-de-kleijn/
 - name: Henk Scholten
   role: Scientific Advisor
   group: affiliates
@@ -161,25 +155,3 @@ people:
   photo: /files/people/francisco-santos.jpg
   pure: francisco-mota-grilo-santos
   feed: true
-- name: Chris Jacobs-Crisioni
-  role: Former PhD researcher
-  group: former
-  page: /phd-research/chris-jacobs-crisioni/
-- name: Jasper Dekkers
-  role: Former researcher
-  group: former
-  page: /phd-research/jasper-dekkers/
-- name: John Steenbruggen
-  role: Former PhD researcher
-  group: former
-  page: /phd-research/john-steenbruggen/
-- name: Joost Buurman
-  role: Former PhD researcher
-  group: former
-  page: /phd-research/joost-buurman/
-- name: Xander Wilcke
-  role: Former PhD researcher
-  group: former
-  photo: /files/people/xander-wilcke.jpg
-  pure: xander-wilcke
-  page: /phd-research/xander-wilcke/

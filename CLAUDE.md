@@ -37,7 +37,7 @@ list by the words in `THEME_WORDS` in `build.py`. The side menu and the breadcru
 new page appears there without further work. The top menu is `NAV` in `build.py`.
 
 A page with `archived: true` in its front matter shows a notice that it is no longer updated, with a link to
-the page above it. `banner: name` puts a map from `assets/map/` on top of a page.
+the nearest page above it that is current. `banner: name` puts a map from `assets/map/` on top of a page.
 
 Research has its six themes side by side plus the archive, and Tools is a section of its own. Keep the tree that shallow: a page belongs under the section a visitor would look for it in, because the side menu and the breadcrumbs follow the folders.
 
