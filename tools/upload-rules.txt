@@ -1,0 +1,12 @@
+# What the upload of the site may delete on the server. The first rule that matches counts.
+#
+# The upload empties its target of everything that is not in the build, and the documents are not in
+# the build. So everything under /files/ is protected, except the pictures, which come from git: a
+# picture that is taken out of the repository also has to disappear from the site.
+R /files/**.jpg
+R /files/**.jpeg
+R /files/**.png
+R /files/**.gif
+R /files/**.webp
+R /files/**.svg
+P /files/***

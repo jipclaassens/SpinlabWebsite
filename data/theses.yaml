@@ -1,9 +1,10 @@
 # The theses on /supervised-theses/. This site is the only place where these theses are public: they
 # are handed in at the university but not published anywhere else, so this list matters.
 #
-# The easiest way to add one is the "Thesis" form under Issues. To do it by hand, upload the pdf to
-# static/files/theses/ and add a block under theses: below. The order does not matter, the site sorts
-# by date. Students give permission for publication when they hand in their thesis at the VU.
+# The way to add one is the "Thesis" form under Issues, which also puts the pdf on the web server: pdfs
+# do not go in this repository. Corrections to a thesis can be made in its block under theses: below.
+# The order does not matter, the site sorts by date. Students give permission for publication when
+# they hand in their thesis at the VU.
 #
 #   author      as it should appear
 #   title       the title

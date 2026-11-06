@@ -1,8 +1,9 @@
 """Adds a thesis from the text of a "Thesis" issue. Run by .github/workflows/thesis-from-issue.yml.
 
 Reads ISSUE_TITLE and ISSUE_BODY from the environment. The pdf dragged into the issue lives on GitHub;
-it is downloaded to static/files/theses/ so the thesis does not depend on the issue. The block goes
-into data/theses.yaml as text, so the instructions at the top of that file stay where they are.
+it is downloaded to static/files/theses/ and put on data/documents.yaml, and the workflow then uploads
+it to the web server, so the thesis does not depend on the issue. git ignores the pdf itself. The block
+goes into data/theses.yaml as text, so the instructions at the top of that file stay where they are.
 """
 import os
 import re
@@ -10,6 +11,8 @@ import unicodedata
 import urllib.request
 
 import yaml
+
+from documents import add_to_list
 
 THESES = "data/theses.yaml"
 PDF_RE = re.compile(r"https://github\.com/[^\s)\]]+|https://[a-z-]*user-[a-z]*\.?githubusercontent\.com/[^\s)\]]+")
@@ -61,13 +64,15 @@ def main():
         number += 1
         slug = f"{base}-{number}"
 
-    download(links[0], f"static/files/theses/{slug}.pdf", os.environ.get("GH_TOKEN"))
+    document = f"/files/theses/{slug}.pdf"
+    download(links[0], f"static{document}", os.environ.get("GH_TOKEN"))
+    add_to_list(document)
 
     entry = {"author": author, "title": title, "degree": answers.get("Degree", "").strip(), "programme": programme, "date": date, "year": int(date[:4])}
     supervisor = answers.get("Supervisor", "").strip()
     if supervisor and supervisor != "_No response_":
         entry["supervisor"] = supervisor
-    entry["file"] = f"/files/theses/{slug}.pdf"
+    entry["file"] = document
     entry["slug"] = slug
 
     block = yaml.safe_dump([entry], allow_unicode=True, sort_keys=False, width=1000)
@@ -80,7 +85,7 @@ def main():
     print("added", slug)
     if os.environ.get("GITHUB_OUTPUT"):
         with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as fn:
-            fn.write(f"url=https://spinlab.vu.nl/supervised-theses/{slug}/\n")
+            fn.write(f"url=https://spinlab.vu.nl/supervised-theses/{slug}/\ndocument={document}\n")
 
 
 if __name__ == "__main__":

@@ -2,6 +2,9 @@
 # "publish". Students give permission for publication when they hand in their thesis at the VU; the
 # form makes the sender confirm that, and the script checks the box again.
 #
+# The pdf goes to the web server, not into git. That comes before the commit, so a failed upload does
+# not leave a link to nothing. This workflow uses the same secrets and variables as build-and-deploy.yml.
+#
 # A push made with the workflow's own token does not start other workflows, so this one starts the
 # deploy itself.
 name: Thesis from issue
@@ -21,6 +24,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Stop when there is no server yet
+        if: ${{ vars.DEPLOY_ENABLED != 'true' }}
+        run: |
+          echo "::error::The web server is not set up yet, so there is no place for the pdf."
+          exit 1
+
       - uses: actions/checkout@v7
         with:
           fetch-depth: 1
@@ -40,6 +49,19 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: python tools/issue_to_thesis.py
 
+      - name: Upload the pdf to the webserver
+        env:
+          SSH_KEY: ${{ secrets.DEPLOY_SSH_KEY }}
+          KNOWN_HOSTS: ${{ secrets.DEPLOY_KNOWN_HOSTS }}
+          TARGET: ${{ vars.DEPLOY_USER }}@spinlab.vu.nl:${{ vars.DEPLOY_DIR }}
+          DOCUMENT: ${{ steps.write.outputs.document }}
+        run: |
+          install -m 700 -d ~/.ssh
+          printf '%s\n' "$SSH_KEY" > ~/.ssh/deploy_key
+          chmod 600 ~/.ssh/deploy_key
+          printf '%s\n' "$KNOWN_HOSTS" > ~/.ssh/known_hosts
+          python tools/documents.py upload "$TARGET" --only "$DOCUMENT" --key ~/.ssh/deploy_key
+
       - name: Commit and publish
         env:
           GH_TOKEN: ${{ github.token }}
@@ -48,7 +70,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/theses.yaml static/files/theses
+          git add data/theses.yaml data/documents.yaml
           git commit --cleanup=whitespace -m "Add a supervised thesis" -m "From the Thesis form, issue $ISSUE."
           git push
           gh workflow run build-and-deploy.yml --ref main

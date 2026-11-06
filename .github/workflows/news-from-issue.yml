@@ -47,7 +47,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add content/news static/files/news
+          git add content/news
+          if [ -d static/files/news ]; then git add static/files/news; fi
           git commit --cleanup=whitespace -m "News: $(sed -n 's/^title: //p' "${{ steps.write.outputs.file }}" | head -1)"
           git push
           gh workflow run build-and-deploy.yml --ref main

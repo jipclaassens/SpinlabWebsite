@@ -67,7 +67,7 @@ It appears in the side menu by itself.
 ## Good to know
 
 - **Publications** on the home page and the research pages come from the research portal by themselves. Add a publication to the portal and it appears here within a week.
-- **Documents:** link to a publication where it already lives, preferably its DOI or its page in the research portal. Upload a pdf only if it has no other home.
+- **Documents:** link to a publication where it already lives, preferably its DOI or its page in the research portal. Do not upload a pdf to this repository: documents live on the web server, because a file that is once in a repository cannot simply be removed again. A thesis goes through the form above. For any other document without a home, open an issue and somebody with access to the server will place it.
 - **Everything you commit is public** within minutes, so do not treat a commit as a draft. To try something out first, use an issue.
 - **Stuck?** Open an issue here and describe what you wanted to do.
 

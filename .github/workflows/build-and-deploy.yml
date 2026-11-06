@@ -11,7 +11,8 @@
 #                       DEPLOY_KNOWN_HOSTS (the line ssh-keyscan spinlab.vu.nl gives)
 # Repository variables: DEPLOY_ENABLED (true), DEPLOY_USER, DEPLOY_DIR (the folder the site lives in)
 #
-# rsync --delete empties the target of everything that is not in the site. Point DEPLOY_DIR at a
+# rsync --delete empties the target of everything that is not in the site, except what
+# tools/upload-rules.txt protects: the documents, which are only on the server. Point DEPLOY_DIR at a
 # folder of its own, never at a folder that still holds WordPress.
 name: Build and deploy
 
@@ -52,6 +53,26 @@ jobs:
       - name: Build and check internal links
         run: python build.py --check
 
+      # A pdf uploaded through github.com would stay in the history for good.
+      - name: Documents stay out of git
+        run: |
+          if git -c core.quotePath=off ls-files static | grep -viE '\.(jpg|jpeg|png|gif|webp|svg)$'; then
+            echo "::error::These files are documents. They belong on the web server, see Documents in CLAUDE.md."
+            exit 1
+          fi
+
+      # The server holds the only copy of the documents, so the upload is tried on a folder here first.
+      - name: The upload leaves the documents alone
+        run: |
+          mkdir -p /tmp/server/files/theses
+          touch /tmp/server/files/theses/document.pdf /tmp/server/files/theses/picture-taken-out.jpg /tmp/server/page-taken-out.html
+          rsync -rlz --delete --filter='merge tools/upload-rules.txt' _site/ /tmp/server/
+          test -f /tmp/server/files/theses/document.pdf
+          test -f /tmp/server/files/theses/index.html
+          test ! -e /tmp/server/files/theses/picture-taken-out.jpg
+          test ! -e /tmp/server/page-taken-out.html
+
+      # The check on the documents comes first: when one is missing, the old site stays up.
       - name: Upload to the webserver
         if: ${{ vars.DEPLOY_ENABLED == 'true' }}
         env:
@@ -63,4 +84,5 @@ jobs:
           printf '%s\n' "$SSH_KEY" > ~/.ssh/deploy_key
           chmod 600 ~/.ssh/deploy_key
           printf '%s\n' "$KNOWN_HOSTS" > ~/.ssh/known_hosts
-          rsync -rlz --delete --chmod=D755,F644 -e "ssh -i $HOME/.ssh/deploy_key -o BatchMode=yes" _site/ "$TARGET/"
+          python tools/documents.py status "$TARGET" --key ~/.ssh/deploy_key
+          rsync -rlz --delete --chmod=D775,F664 --filter='merge tools/upload-rules.txt' -e "ssh -i $HOME/.ssh/deploy_key -o BatchMode=yes" _site/ "$TARGET/"

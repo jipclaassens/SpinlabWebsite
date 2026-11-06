@@ -3,3 +3,13 @@ _preview/
 __pycache__/
 *.pyc
 .claude/
+
+# Documents are on the web server and listed in data/documents.yaml. Only pictures go in git.
+static/**
+!static/**/
+!static/**/*.jpg
+!static/**/*.jpeg
+!static/**/*.png
+!static/**/*.gif
+!static/**/*.webp
+!static/**/*.svg

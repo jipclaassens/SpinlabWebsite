@@ -29,16 +29,17 @@ from urllib.parse import unquote
 import markdown
 import yaml
 
+from tools.documents import IMAGE_EXTENSIONS, is_document, load_list
+
 SITE_URL = "https://spinlab.vu.nl"
 SITE_NAME = "SPINlab"
 CONTENT_DIR = "content"
 ASSETS_DIR = "assets"
-STATIC_DIR = "static"  # copied to the site root unchanged; the documents live in static/files
+STATIC_DIR = "static"  # copied to the site root unchanged. In git it only holds pictures; the documents are on the server
 DATA_DIR = "data"
 OUT_DIR = "_site"
 BASE = ""  # the subfolder of a preview, for example /spinlab; empty for the real site
 CURRENT_SITE_UPLOADS = "https://spinlab.vu.nl/wp-content/uploads/"
-IMAGE_EXTENSIONS = (".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg")
 PREVIEW_NOTE = ('<div class="preview-note">Preview of the new SPINlab website. The current site is still at '
                 '<a href="https://spinlab.vu.nl/">spinlab.vu.nl</a>, and documents open from there.</div>')
 
@@ -428,7 +429,7 @@ def thesis_body(thesis, programmes):
     rows = [("Author", thesis.get("author")), ("Degree", thesis.get("degree")), ("Programme", programmes.get(thesis["programme"])),
             ("Graded" if thesis.get("date") else "Year", thesis_when(thesis)), ("Supervisor", thesis.get("supervisor"))]
     facts = "".join(f"<dt>{name}</dt><dd>{html.escape(str(value))}</dd>" for name, value in rows if value)
-    size = os.path.getsize(STATIC_DIR + thesis["file"]) / 1e6 if os.path.exists(STATIC_DIR + thesis["file"]) else 0
+    size = DOCUMENTS[thesis["file"]]["bytes"] / 1e6 if thesis["file"] in DOCUMENTS else 0
     institution = thesis_institution(thesis)
     degree = str(thesis.get("degree", ""))
     place = degree if institution in degree else f"{degree}, {institution}"
@@ -584,6 +585,7 @@ def old_document_addresses():
 
 
 OLD_DOCUMENTS = {}
+DOCUMENTS = load_list()
 
 
 def stays_in_preview(path):
@@ -714,7 +716,11 @@ def write_redirects(pages):
 
 def close_folders():
     # A folder without an index.html can be listed by the webserver, which the VU security team
-    # flagged on the old site. This closes them whatever the server is set to.
+    # flagged on the old site. This closes them whatever the server is set to. A folder that holds
+    # only documents is not in the build, so it is made here to get its index.html on the server.
+    if not BASE:
+        for path in DOCUMENTS:
+            os.makedirs(OUT_DIR + posixpath.dirname(path), exist_ok=True)
     for dir_path, _, file_names in os.walk(f"{OUT_DIR}/files"):
         if "index.html" not in file_names:
             open(os.path.join(dir_path, "index.html"), "w", encoding="utf-8").write(
@@ -769,6 +775,16 @@ REF_RE = re.compile(r'\b(?:href|src)="(/[^"#?]*)')
 RELATIVE_RE = re.compile(r'\b(?:href|src)="(?![a-z]+:|/|#|\{)([^"#?]+)')
 
 
+def link_works(local):
+    # a document is on the server and not in the build, so here it counts when it is on the list.
+    # That goes for a machine that has the file as well, so a build here and on GitHub agree.
+    path = unquote(local)
+    if is_document(path):
+        return path in DOCUMENTS
+    target = os.path.join(OUT_DIR, path.lstrip("/").replace("/", os.sep))
+    return os.path.isfile(target) or os.path.isfile(os.path.join(target, "index.html"))
+
+
 def check_links():
     # The failure this generator has: a link to a page or file that does not exist.
     broken = {}
@@ -778,8 +794,7 @@ def check_links():
         relative = {posixpath.normpath(posixpath.join(BASE + here, ref)) for ref in RELATIVE_RE.findall(text)}
         for ref in set(REF_RE.findall(text)) | relative:
             local = ref[len(BASE):] if BASE and ref.startswith(BASE + "/") else ref
-            target = os.path.join(OUT_DIR, unquote(local).lstrip("/").replace("/", os.sep))
-            if not (os.path.isfile(target) or os.path.isfile(os.path.join(target, "index.html"))):
+            if not link_works(local):
                 broken.setdefault(ref, []).append(os.path.relpath(path, OUT_DIR))
     for ref, sources in sorted(broken.items()):
         print(f"BROKEN {ref}  (on {sources[0]}{' and more' if len(sources) > 1 else ''})")
