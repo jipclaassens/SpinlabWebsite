@@ -15,6 +15,9 @@ import yaml
 from documents import add_to_list
 
 THESES = "data/theses.yaml"
+PARTICLES = {"van", "de", "der", "den", "het", "'t", "t", "ter", "te", "ten", "el", "von", "la", "le", "di", "da", "du", "dos", "del"}
+LOOSE_WORDS = {"a", "an", "the", "of", "in", "on", "and", "for", "to", "with", "at", "by", "from", "de", "het", "een", "van", "en", "op", "voor", "met", "naar", "der", "te", "bij", "aan", "als", "om", "or", "as", "under", "using", "s", "t"}
+TITLE_LENGTH = 55
 PDF_RE = re.compile(r"https://github\.com/[^\s)\]]+|https://[a-z-]*user-[a-z]*\.?githubusercontent\.com/[^\s)\]]+")
 
 
@@ -24,9 +27,44 @@ def sections(body):
     return {parts[i].strip(): parts[i + 1].strip() for i in range(1, len(parts) - 1, 2)}
 
 
-def slug_of(author, title):
-    text = unicodedata.normalize("NFKD", f"{author} {title}").encode("ascii", "ignore").decode().lower()
-    return re.sub(r"[^a-z0-9]+", "-", text).strip("-")[:70].rstrip("-")
+def plain(text):
+    text = re.sub("['’‘]", "", text.replace("ø", "o").replace("Ø", "O").replace("ß", "ss"))
+    text = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode().lower()
+    return re.sub(r"[^a-z0-9]+", "-", text).strip("-")
+
+
+def surname_of(author):
+    author = re.sub("[’‘]", "'", author.strip())
+    if "," in author:
+        parts = [p.strip() for p in author.split(",")]
+        if len(parts) >= 3 and parts[1] and parts[1].lower().split()[0] in PARTICLES:   # Bruggen, van, E.
+            return f"{parts[1]} {parts[0]}"
+        words = parts[0].split()
+        n = len(words)
+        while n > 1 and words[n - 1].lower() in PARTICLES:                              # Egmond van, P.
+            n -= 1
+        return " ".join(words[n:] + words[:n])
+    words = author.split()
+    for i in range(1, len(words)):                                                      # Anne van Kempen
+        if words[i].lower() in PARTICLES:
+            return " ".join(words[i:])
+    return words[-1]
+
+
+def name_of(author, year, title):
+    # author-year-title, for the page and the pdf alike; of the title only the part before a colon, as far as it fits
+    for mark in (":", ";", "?", " – ", " - ", ". "):
+        part = title.split(mark)[0]
+        if part != title and len(part.split()) >= 2:
+            title = part
+    words = []
+    for word in plain(title).split("-"):
+        if words and len("-".join(words + [word])) > TITLE_LENGTH:
+            break
+        words.append(word)
+    while len(words) > 1 and words[-1] in LOOSE_WORDS:
+        words.pop()
+    return f"{plain(surname_of(author))}-{year}-{'-'.join(words)}"
 
 
 def download(url, path, token):
@@ -57,7 +95,7 @@ def main():
     if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", date):
         raise SystemExit(f"The date should look like 2026-08-20, not {date}")
 
-    slug = slug_of(author, title)
+    slug = name_of(author, date[:4], title)
     taken = {t.get("slug") for t in data["theses"]}
     base, number = slug, 1
     while slug in taken:

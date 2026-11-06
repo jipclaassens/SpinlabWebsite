@@ -16,7 +16,7 @@ On this research topic we often work closely together with colleagues for the [D
 **Some of our publications related to Accessibility & land use**
 
 - Jacobs-Crisioni, C.G.W., Rietveld P., Koomen, E., Tranos, E., [Evaluating the impact of land-use density and mix on spatiotemporal urban activity patterns: an exploratory study using mobile phone data](https://doi.org/10.1068/a130309p), *Environment and Planning A*, 46 (11), pp.2769–2785, 2014.
-- Jacobs-Crisioni, C.G.W., [De drijvende kracht van mobiliteit, Spinlab Research Memorandum SL-09](/files/2016/09/SL-09_DrijvendeKrachten_mobiliteit_def_v2.pdf), Vrije Universiteit, Amsterdam, 2011.
+- Jacobs-Crisioni, C.G.W., [De drijvende kracht van mobiliteit, Spinlab Research Memorandum SL-09](/files/publications/jacobs-crisioni-2011-de-drijvende-kracht-van-mobiliteit.pdf), Vrije Universiteit, Amsterdam, 2011.
 - Jacobs-Crisioni, C.G.W., [Integration of present and future accessibility levels as spatially continuous utility factors in Land Use Scanner, Spinlab Research Memorandum SL-10](https://doi.org/10.1068/b34126), Vrije Universiteit, Amsterdam, 2011.
 - Borzachiello, M.T., Nijkamp, P., Koomen, E., [Accessibility and urban development: a grid-based comparative statistical analysis of Dutch cities](https://web.archive.org/web/20101214190158/http://envplan.com/abstract.cgi?id=b34126), *Environment and Planning B: Planning and Design*, 37 (1), pp.148-169, 2010.
 - Borzachiello, M.T., Nijkamp, P., Scholten, H.J., [A logistic regression model for explaining urban development on the basis of accessibility: a case study of Naples](http://www.inderscience.com/browse/index.php?action=articles&journalID=10), *Int. J. Environment and Sustainable Development*, 8 (3/4), pp.300-313, 2009.

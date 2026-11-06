@@ -13,9 +13,9 @@
 #   date        the date it was graded, as 2026-08-20; or year: 2016 if only the year is known
 #   supervisor  optional
 #   note        optional, for example that only the introduction is public
-#   file        the pdf, as /files/theses/name.pdf; leave out if there is no public copy
+#   file        the pdf, as /files/theses/author-year-title.pdf; leave out if there is no public copy
 #   attachments optional, further documents such as a data annex, each with a label and a file
-#   slug        the last part of its web address; do not change it once it is online
+#   slug        the last part of its web address, the same author-year-title; do not change it once it is online
 
 programmes:
   streem: Master programme Spatial Economics (STREEM)
@@ -32,136 +32,136 @@ theses:
   programme: streem
   date: '2026-08-20'
   year: 2026
-  file: /files/theses/Evaluating-the-impact-of-land-deregulation-on-Mediterranean-olive-groves-in-Jaen_compressed.pdf
-  slug: gianlorenzo-gual-suarez-evaluating-the-impact-of-land-deregulation-on
+  file: /files/theses/gual-suarez-2026-evaluating-the-impact-of-land-deregulation.pdf
+  slug: gual-suarez-2026-evaluating-the-impact-of-land-deregulation
 - author: Samantha van Leeuwen
   title: 'Urban densification and housing values in transforming neighborhoods: a comparative analysis of Amsterdam and Eindhoven'
   degree: MSc thesis STREEM
   programme: streem
   date: '2026-07-01'
   year: 2026
-  file: /files/theses/Urban-densification-and-housing-values-in-transforming-neighborhoods.pdf
-  slug: samantha-van-leeuwen-urban-densification-and-housing-values-in-transfo
+  file: /files/theses/van-leeuwen-2026-urban-densification-and-housing-values-in-transforming.pdf
+  slug: van-leeuwen-2026-urban-densification-and-housing-values-in-transforming
 - author: Sjoerd Oldenburger
   title: 'Agglomeration effects on Dutch industrial sites: to what extent does proximity to economic centres explain variation in the intensity of space use on industrial estates across Dutch municipalities?'
   degree: MSc thesis STREEM
   programme: streem
   date: '2026-01-28'
   year: 2026
-  file: /files/theses/Agglomeration-effects-on-Dutch-industrial-sites.pdf
-  slug: sjoerd-oldenburger-agglomeration-effects-on-dutch-industrial-sites-to
+  file: /files/theses/oldenburger-2026-agglomeration-effects-on-dutch-industrial-sites.pdf
+  slug: oldenburger-2026-agglomeration-effects-on-dutch-industrial-sites
 - author: Martien Kraakman
   title: Staying for the Scenery? The Impact of Nature on Migration in Bulgaria
   degree: MSc thesis STREEM
   programme: streem
   date: '2025-07-16'
   year: 2025
-  file: /files/theses/Staying-for-the-Scenery-compressed.pdf
-  slug: martien-kraakman-staying-for-the-scenery-the-impact-of-nature-on-migra
+  file: /files/theses/kraakman-2025-staying-for-the-scenery.pdf
+  slug: kraakman-2025-staying-for-the-scenery
 - author: Aron Uidam
   title: 'Tracking vegetation change in urban gardens using NDVI data: socioeconomic and built environment characteristics. The determinants of garden greening'
   degree: MSc thesis STREEM
   programme: streem
   date: '2025-07-16'
   year: 2025
-  file: /files/theses/Tracking-vegetation-change-in-urban-gardens-using-NDVI-data-compressed.pdf
-  slug: aron-uidam-tracking-vegetation-change-in-urban-gardens-using-ndvi-data
+  file: /files/theses/uidam-2025-tracking-vegetation-change-in-urban-gardens-using-ndvi.pdf
+  slug: uidam-2025-tracking-vegetation-change-in-urban-gardens-using-ndvi
 - author: Rob Stahlie
   title: The effect of landscape regeneration on housing prices
   degree: MSc thesis STREEM
   programme: streem
   date: '2025-07-16'
   year: 2025
-  file: /files/theses/The-Effect-of-Landscape-Regeneration-on-Housing-Prices-compressed.pdf
-  slug: rob-stahlie-the-effect-of-landscape-regeneration-on-housing-prices
+  file: /files/theses/stahlie-2025-the-effect-of-landscape-regeneration-on-housing-prices.pdf
+  slug: stahlie-2025-the-effect-of-landscape-regeneration-on-housing-prices
 - author: Sosha Zuiderduin
   title: The impact of income and service density on travel sustainable mode choice for non-commuting daily trips
   degree: MSc thesis STREEM
   programme: streem
   date: '2024-08-16'
   year: 2024
-  file: /files/theses/The-impact-of-income-and-service-density-on-travel-sustainable-mode-choice-for-non-commuting-daily-trips.pdf
-  slug: sosha-zuiderduin-the-impact-of-income-and-service-density-on-travel-su
+  file: /files/theses/zuiderduin-2024-the-impact-of-income-and-service-density-on-travel.pdf
+  slug: zuiderduin-2024-the-impact-of-income-and-service-density-on-travel
 - author: Renée van der Knaap
   title: 'Towards improved multi-hazard risk assessment: challenges and applications for Java, Indonesia'
   degree: MSc thesis STREEM
   programme: streem
   date: '2024-07-26'
   year: 2024
-  file: /files/theses/Towards-improved-multi-hazard-risk-assessment_Thesis_STREEM_Renee_vd_Knaap_2617069.pdf
-  slug: renee-van-der-knaap-towards-improved-multi-hazard-risk-assessment-chal
+  file: /files/theses/van-der-knaap-2024-towards-improved-multi-hazard-risk-assessment.pdf
+  slug: van-der-knaap-2024-towards-improved-multi-hazard-risk-assessment
 - author: Tanja Brouwer
   title: Challenges and opportunities for food security amidst land-use changes in Bangladesh
   degree: MSc thesis STREEM
   programme: streem
   date: '2024-07-07'
   year: 2024
-  file: /files/theses/Challenges-and-opportunities-for-food-security-amidst-land-use-changes-in-Bangladesh.pdf
-  slug: tanja-brouwer-challenges-and-opportunities-for-food-security-amidst-la
+  file: /files/theses/brouwer-2024-challenges-and-opportunities-for-food-security-amidst.pdf
+  slug: brouwer-2024-challenges-and-opportunities-for-food-security-amidst
 - author: Ashila Ghitha
   title: Does flooding lower property values? Empirical evidence from Jakarta, Indonesia
   degree: MSc thesis STREEM
   programme: streem
   date: '2023-07-09'
   year: 2023
-  file: /files/theses/Does-Flooding-Lower-Property-Values.pdf
-  slug: ashila-ghitha-does-flooding-lower-property-values-empirical-evidence-f
+  file: /files/theses/ghitha-2023-does-flooding-lower-property-values.pdf
+  slug: ghitha-2023-does-flooding-lower-property-values
 - author: Nefertari Pramudhita
   title: Explaining urbanization and airport connectivity in spatial context
   degree: MSc thesis STREEM
   programme: streem
   date: '2022-08-16'
   year: 2022
-  file: /files/theses/Explaining-urbanization-and-airport-connectivity-min.pdf
-  slug: nefertari-pramudhita-explaining-urbanization-and-airport-connectivity
+  file: /files/theses/pramudhita-2022-explaining-urbanization-and-airport-connectivity.pdf
+  slug: pramudhita-2022-explaining-urbanization-and-airport-connectivity
 - author: Mark Kelleher
   title: 'Building out or Building up: densification and expansion in Irish cities 1996-2021'
   degree: MSc thesis STREEM
   programme: streem
   date: '2021-07-21'
   year: 2021
-  file: /files/theses/Kelleher-Building-out-or-Building-up-Densification-and-Expansion-in-Irish-Cities_2.pdf
-  slug: mark-kelleher-building-out-or-building-up-densification-and-expansion
+  file: /files/theses/kelleher-2021-building-out-or-building-up.pdf
+  slug: kelleher-2021-building-out-or-building-up
 - author: Yujing Ma
   title: 'Revealing the value of urban parks for nearby residents: a hedonic pricing study in Beijing'
   degree: MSc thesis STREEM
   programme: streem
   date: '2021-08-20'
   year: 2021
-  file: /files/theses/Ma_Revealing-the-value-of-urban-parks-for-nearby-residents-a-hedonic-pricing-study-in-Beijing_2.pdf
-  slug: yujing-ma-revealing-the-value-of-urban-parks-for-nearby-residents-a-he
+  file: /files/theses/ma-2021-revealing-the-value-of-urban-parks-for-nearby-residents.pdf
+  slug: ma-2021-revealing-the-value-of-urban-parks-for-nearby-residents
 - author: Krasniqi, A.
   title: Does densification lead to gentrification?
   degree: MSc thesis STREEM
   programme: streem
   date: '2021-07-21'
   year: 2021
-  file: /files/theses/Krasniqi_Does-densification-lead-to-gentrification.pdf
-  slug: krasniqi-does-densification-lead-to-gentrification
+  file: /files/theses/krasniqi-2021-does-densification-lead-to-gentrification.pdf
+  slug: krasniqi-2021-does-densification-lead-to-gentrification
 - author: Kollaard, M.
   title: The impact of retail diversity on Dutch inner cities
   degree: MSc thesis STREEM
   programme: streem
   date: '2021-07-21'
   year: 2021
-  file: /files/theses/Kollaard_The-impact-of-retail-diversity-on-Dutch-inner-cities.pdf
-  slug: kollaard-the-impact-of-retail-diversity-on-dutch-inner-cities
+  file: /files/theses/kollaard-2021-the-impact-of-retail-diversity-on-dutch-inner-cities.pdf
+  slug: kollaard-2021-the-impact-of-retail-diversity-on-dutch-inner-cities
 - author: Verbeek, R.
   title: The value of public trees in the Amsterdam housing market
   degree: MSc thesis STREEM
   programme: streem
   date: '2021-07-21'
   year: 2021
-  file: /files/theses/Verbeek_The-Value-of-Public-Trees-in-the-Amsterdam-Housing-Market-1-1.pdf
-  slug: verbeek-the-value-of-public-trees-in-the-amsterdam-housing-market
+  file: /files/theses/verbeek-2021-the-value-of-public-trees-in-the-amsterdam-housing.pdf
+  slug: verbeek-2021-the-value-of-public-trees-in-the-amsterdam-housing
 - author: Steudel, J.
   title: The spatial impact of information and communication technologies
   degree: MSc thesis STREEM
   programme: streem
   date: '2021-07-07'
   year: 2021
-  file: /files/theses/Steudel_The-spatial-impact-of-information-and-communication-1-1.pdf
-  slug: steudel-the-spatial-impact-of-information-and-communication-technologi
+  file: /files/theses/steudel-2021-the-spatial-impact-of-information-and-communication.pdf
+  slug: steudel-2021-the-spatial-impact-of-information-and-communication
 - author: Ferdinand, P.
   title: Forecasting patterns of urban expansion; A statistical analysis of forces determining locational urban growth and their regional differences
   degree: MSc thesis STREEM
@@ -169,8 +169,8 @@ theses:
   date: '2020-08-24'
   year: 2020
   supervisor: Koomen, E
-  file: /files/theses/PendulaFerdinand_Forecasting-patterns-of-urban-expansion.pdf
-  slug: ferdinand-forecasting-patterns-of-urban-expansion-a-statistical-analys
+  file: /files/theses/ferdinand-2020-forecasting-patterns-of-urban-expansion.pdf
+  slug: ferdinand-2020-forecasting-patterns-of-urban-expansion
 - author: Zwijgers, H.
   title: 'Adapting to a changing environment in the Mekong Delta: Analysis of socio-economic farm and commune characteristics'
   degree: MSc thesis STREEM
@@ -178,8 +178,8 @@ theses:
   date: '2020-08-23'
   year: 2020
   supervisor: Koomen, E
-  file: /files/theses/HarmenZwijgers_Adapting-to-a-changing-environment-in-the-Mekong-Delta.pdf
-  slug: zwijgers-adapting-to-a-changing-environment-in-the-mekong-delta-analys
+  file: /files/theses/zwijgers-2020-adapting-to-a-changing-environment-in-the-mekong-delta.pdf
+  slug: zwijgers-2020-adapting-to-a-changing-environment-in-the-mekong-delta
 - author: Åsbrink, E.
   title: The likelihood of migration; Changes in the likelihood of sending out a household member for migration after a prolonged drought in the Mekong Delta, Vietnam
   degree: MSc thesis STREEM
@@ -187,8 +187,8 @@ theses:
   date: '2020-08-23'
   year: 2020
   supervisor: Koomen, E
-  file: /files/theses/Emelie--sbrink-The-likelihood-of-migration.pdf
-  slug: asbrink-the-likelihood-of-migration-changes-in-the-likelihood-of-sendi
+  file: /files/theses/asbrink-2020-the-likelihood-of-migration.pdf
+  slug: asbrink-2020-the-likelihood-of-migration
 - author: Bruggen, van, E.
   title: 'Domestic and Cross-Border Accessibility Spurring Agglomeration Economies in Regional Employment: The Case of European Transport Policy'
   degree: MSc thesis STREEM
@@ -196,8 +196,8 @@ theses:
   date: '2019-08-30'
   year: 2019
   supervisor: Koomen, E
-  file: /files/theses/Domestic-and-Cross-Border-Accessibility-Spurring-Agglomeration_ElineVan-Bruggen.pdf
-  slug: bruggen-domestic-and-cross-border-accessibility-spurring-agglomeration
+  file: /files/theses/van-bruggen-2019-domestic-and-cross-border-accessibility-spurring.pdf
+  slug: van-bruggen-2019-domestic-and-cross-border-accessibility-spurring
 - author: Pratama, A. P.
   title: Highway access and urban development in the Jakarta metropolitan area
   degree: MSc thesis STREEM
@@ -205,16 +205,16 @@ theses:
   date: '2019-08-06'
   year: 2019
   supervisor: Koomen, E
-  file: /files/theses/Highway-Access-and-Urban-Development_Andhika_Pratama.pdf
-  slug: pratama-highway-access-and-urban-development-in-the-jakarta-metropolit
+  file: /files/theses/pratama-2019-highway-access-and-urban-development-in-the-jakarta.pdf
+  slug: pratama-2019-highway-access-and-urban-development-in-the-jakarta
 - author: Ma, F.
   title: Driving forces of urban land-use change in Taiyuan, China
   degree: MSc thesis STREEM
   programme: streem
   year: 2019
   supervisor: Dias, E
-  file: /files/theses/Driving-forces-of-urban-land-use-change-in-Taiyuan-China.pdf
-  slug: ma-driving-forces-of-urban-land-use-change-in-taiyuan-china
+  file: /files/theses/ma-2019-driving-forces-of-urban-land-use-change-in-taiyuan.pdf
+  slug: ma-2019-driving-forces-of-urban-land-use-change-in-taiyuan
 - author: Murillo, G.
   title: The spatial-economic dimensions of commuting in Santiago, Chile
   degree: MSc thesis STREEM
@@ -222,24 +222,24 @@ theses:
   date: '2018-08-24'
   year: 2018
   supervisor: Koomen, E
-  file: /files/theses/The-spatial-economic-dimensions-of-commuting-in-Santiago-Chile.pdf
-  slug: murillo-the-spatial-economic-dimensions-of-commuting-in-santiago-chile
+  file: /files/theses/murillo-2018-the-spatial-economic-dimensions-of-commuting.pdf
+  slug: murillo-2018-the-spatial-economic-dimensions-of-commuting
 - author: Engelfriet, L.
   title: The impact of urban form on commuting in Chinese megacities
   degree: MSc thesis STREEM
   programme: streem
   date: '2016-03-21'
   year: 2016
-  file: /files/theses/MSc_thesis_Lara_Engelfriet_17mar2016_summary.pdf
-  slug: engelfriet-the-impact-of-urban-form-on-commuting-in-chinese-megacities
+  file: /files/theses/engelfriet-2016-the-impact-of-urban-form-on-commuting-in-chinese.pdf
+  slug: engelfriet-2016-the-impact-of-urban-form-on-commuting-in-chinese
 - author: Andree, B.
   title: Evaluating Spatial Heterogeneity and Temporal Movements in Cross-sectional Dependence Structures
   degree: Master thesis Spatial Economics
   programme: streem
   date: '2015-07-02'
   year: 2015
-  file: /files/theses/Eval_Spatial_Heterogeneity_and_Temporal_Movements_in_Cross-sectional_Dependence_Structures_abs.pdf
-  slug: andree-evaluating-spatial-heterogeneity-and-temporal-movements-in-cros
+  file: /files/theses/andree-2015-evaluating-spatial-heterogeneity-and-temporal-movements.pdf
+  slug: andree-2015-evaluating-spatial-heterogeneity-and-temporal-movements
 - author: Engelfriet, L.
   title: The impact of urban density on car dependency and related energy consumption
   degree: Research project report MSc STREEM
@@ -247,8 +247,8 @@ theses:
   date: '2015-02-19'
   year: 2015
   supervisor: Koomen, E
-  file: /files/theses/Research_Project_Lara_Engelfriet.pdf
-  slug: engelfriet-the-impact-of-urban-density-on-car-dependency-and-related-e
+  file: /files/theses/engelfriet-2015-the-impact-of-urban-density-on-car-dependency.pdf
+  slug: engelfriet-2015-the-impact-of-urban-density-on-car-dependency
 - author: Hoogeveen,R.
   title: Een verkennend onderzoek naar de economische impact van de recreatietoervaart op een regionale economie
   degree: Research project report MSc Earth and Economics
@@ -256,69 +256,69 @@ theses:
   date: '2015-01-09'
   year: 2015
   supervisor: Koomen, E
-  file: /files/theses/Onderzoek_economische_impact_recreatietoervaart_Def_VU_Romy_Hoogeveen.pdf
-  slug: hoogeveen-een-verkennend-onderzoek-naar-de-economische-impact-van-de-r
+  file: /files/theses/hoogeveen-2015-een-verkennend-onderzoek-naar-de-economische-impact.pdf
+  slug: hoogeveen-2015-een-verkennend-onderzoek-naar-de-economische-impact
 - author: Gatto, M.
   title: Locational Choice and Preferences with Costly Relocation
   degree: Masters thesis Spatial Economics
   programme: streem
   year: 2013
   supervisor: van Duijn, M
-  file: /files/theses/MG_MasterScriptie_2013.pdf
-  slug: gatto-locational-choice-and-preferences-with-costly-relocation
+  file: /files/theses/gatto-2013-locational-choice-and-preferences-with-costly.pdf
+  slug: gatto-2013-locational-choice-and-preferences-with-costly
 - author: Turcanu, Laura
   title: Rural Vitality in the Netherlands
   degree: Master thesis Spatial Economics, VU University, Amsterdam
   programme: streem
   year: 2012
   supervisor: Koomen, E
-  file: /files/theses/Rural_Vitality_in_the_Netherlands.pdf
-  slug: turcanu-rural-vitality-in-the-netherlands
+  file: /files/theses/turcanu-2012-rural-vitality-in-the-netherlands.pdf
+  slug: turcanu-2012-rural-vitality-in-the-netherlands
 - author: Jansen Venneboer, B.
   title: Een nieuw instrument voor winkelplanning, Definiering en operationalisering van Scoping
   degree: Master thesis Economics
   programme: streem
   year: 2005
   supervisor: Dekkers, J.E.C
-  slug: jansen-venneboer-een-nieuw-instrument-voor-winkelplanning-definiering
+  slug: jansen-venneboer-2005-een-nieuw-instrument-voor-winkelplanning-definiering
 - author: Meijster, Y.
   title: M-Tourism, An Exploration of mobile Internet in the Market of Tourism
   degree: Master thesis Economics
   programme: streem
   year: 2003
   supervisor: Dekkers, J.E.C
-  slug: meijster-m-tourism-an-exploration-of-mobile-internet-in-the-market-of
+  slug: meijster-2003-m-tourism-an-exploration-of-mobile-internet
 - author: de Reus, N.O.
   title: AquaMobile, Prototyping for a wireless location based information service
   degree: Master thesis Economics
   programme: streem
   year: 2002
   supervisor: Dekkers, J.E.C
-  slug: de-reus-aquamobile-prototyping-for-a-wireless-location-based-informati
+  slug: de-reus-2002-aquamobile-prototyping-for-a-wireless-location-based
 - author: Dekkers, J.E.C., Reinders, M.J.
   title: What About Wireless…? An Analysis of The Mobile Market and Location-Based Services
   degree: Masters thesis Spatial Economics
   programme: streem
   year: 2001
   supervisor: Scholten, H.J.
-  file: /files/theses/Dekkers_Reinders_What_About_Wireless.pdf
-  slug: dekkers-what-about-wireless-an-analysis-of-the-mobile-market-and-locat
+  file: /files/theses/dekkers-2001-what-about-wireless.pdf
+  slug: dekkers-2001-what-about-wireless
 - author: Abdenour El Baghdadi
   title: Accessibility of elderly in the region Alkmaar related to the 15-minute city concept
   degree: MSc thesis TSCM
   programme: tscm
   date: '2024-07-30'
   year: 2024
-  file: /files/theses/Accessibility-of-elderly-in-the-region-Alkmaar-related-to-the-15-minute-city-concept.pdf
-  slug: abdenour-el-baghdadi-accessibility-of-elderly-in-the-region-alkmaar-re
+  file: /files/theses/el-baghdadi-2024-accessibility-of-elderly-in-the-region-alkmaar-related.pdf
+  slug: el-baghdadi-2024-accessibility-of-elderly-in-the-region-alkmaar-related
 - author: Hung-Chih (William) Chiu
   title: Commuting and living pattern changes before and during COVID-19 in the Netherlands
   degree: MSc thesis Transport & Supply Chain Management (TSCM)
   programme: tscm
   date: '2022-07-05'
   year: 2022
-  file: /files/theses/WilliamChiu_MScTSCM.pdf
-  slug: hung-chih-william-chiu-commuting-and-living-pattern-changes-before-and
+  file: /files/theses/chiu-2022-commuting-and-living-pattern-changes-before-and-during.pdf
+  slug: chiu-2022-commuting-and-living-pattern-changes-before-and-during
 - author: Starzl, K.
   title: GIS-based Multi-Criteria Decision Analysis for Third-party Logistics Provider Selection
   degree: MSc thesis Business Administration – specialization Transport & Supply Chain Management (TSCM)
@@ -326,8 +326,8 @@ theses:
   date: '2017-08-25'
   year: 2017
   supervisor: Koomen, E
-  file: /files/theses/GISbasedMCDA3PLSelection_KatjaStarzl.pdf
-  slug: starzl-gis-based-multi-criteria-decision-analysis-for-third-party-logi
+  file: /files/theses/starzl-2017-gis-based-multi-criteria-decision-analysis-for-third.pdf
+  slug: starzl-2017-gis-based-multi-criteria-decision-analysis-for-third
 - author: Mekenkamp, F.
   title: The relation between spatial accessibility and urban development in the Netherlands
   degree: Master thesis Transport & Supply Chain Management
@@ -335,7 +335,7 @@ theses:
   date: '2016-08-29'
   year: 2016
   supervisor: Dekkers, J.E.C
-  slug: mekenkamp-the-relation-between-spatial-accessibility-and-urban-develop
+  slug: mekenkamp-2016-the-relation-between-spatial-accessibility-and-urban
 - author: Vrenken, M.
   title: Are Ede’s rural roads more dangerous compared to other municipalities? – A Dutch rural road safety analysis
   degree: Master thesis Transport & Supply Chain Management
@@ -343,7 +343,7 @@ theses:
   date: '2016-08-12'
   year: 2016
   supervisor: Dekkers, J.E.C
-  slug: vrenken-are-edes-rural-roads-more-dangerous-compared-to-other-municipa
+  slug: vrenken-2016-are-edes-rural-roads-more-dangerous-compared-to-other
 - author: Burgers, M.
   title: Behavioural intention of sharing location data from mobile phones for non-motorized route-optimization in urban areas
   degree: Master thesis Transport & Supply Chain Management
@@ -351,7 +351,7 @@ theses:
   date: '2014-05-02'
   year: 2014
   supervisor: Dekkers, J.E.C
-  slug: burgers-behavioural-intention-of-sharing-location-data-from-mobile-pho
+  slug: burgers-2014-behavioural-intention-of-sharing-location-data
 - author: Katar Abed
   title: Ancient land-use modelling. Continuity versus emergent locations in central Zakynthos
   degree: MSc thesis Earth Sciences
@@ -359,24 +359,24 @@ theses:
   date: '2022-05-17'
   year: 2022
   note: Introduction only, for full thesis please contact author or supervisor
-  file: /files/theses/K.R.Abed_Thesis_MSc_ES_intro.pdf
-  slug: katar-abed-ancient-land-use-modelling-continuity-versus-emergent-locat
+  file: /files/theses/abed-2022-ancient-land-use-modelling.pdf
+  slug: abed-2022-ancient-land-use-modelling
 - author: Lennart Hatenboer
   title: 'Global development of densities: A study in the urban development of countries using the stages of development model and density changes in cores, suburbs and rural areas on a global scale'
   degree: MSc thesis Earth Sciences
   programme: earth-msc
   date: '2022-05-20'
   year: 2022
-  file: /files/theses/L.J.Hatenboer_Thesis_ES.pdf
-  slug: lennart-hatenboer-global-development-of-densities-a-study-in-the-urban
+  file: /files/theses/hatenboer-2022-global-development-of-densities.pdf
+  slug: hatenboer-2022-global-development-of-densities
 - author: van Dijk, B.C.
   title: An exploration of sustainable agriculture options for the West-Australian wheat belt; environmentally, socially and economically sustainable agriculture for the future
   degree: MSc thesis Earth science and Economics
   programme: earth-msc
   date: '2017-03-02'
   year: 2017
-  file: /files/theses/An_exploration_of_sustainable_agriculture_options_for_the_West-Australian_Wheatbelt_BCvanDijk.pdf
-  slug: van-dijk-an-exploration-of-sustainable-agriculture-options-for-the-wes
+  file: /files/theses/van-dijk-2017-an-exploration-of-sustainable-agriculture-options.pdf
+  slug: van-dijk-2017-an-exploration-of-sustainable-agriculture-options
 - author: Claassens, J.
   title: 'Future developments in Bangladesh: urbanization scenarios to assess flood risk'
   degree: MSc thesis Earth and Economics
@@ -384,8 +384,8 @@ theses:
   date: '2016-07-08'
   year: 2016
   supervisor: Koomen, E
-  file: /files/theses/JipClaassens_MScThesis_Bangladesh.pdf
-  slug: claassens-future-developments-in-bangladesh-urbanization-scenarios-to
+  file: /files/theses/claassens-2016-future-developments-in-bangladesh.pdf
+  slug: claassens-2016-future-developments-in-bangladesh
 - author: Plukaard, A.
   title: Sustainable spatial planning; An analysis of the costs and benefits of water-robust spatial
   degree: MSc thesis Earth and Economics
@@ -393,16 +393,16 @@ theses:
   date: '2016-03-21'
   year: 2016
   supervisor: Koomen, E
-  file: /files/theses/Sustainable_spatial_planning_Plukaard_21mar2016.pdf
-  slug: plukaard-sustainable-spatial-planning-an-analysis-of-the-costs-and-ben
+  file: /files/theses/plukaard-2016-sustainable-spatial-planning.pdf
+  slug: plukaard-2016-sustainable-spatial-planning
 - author: Koes, J.
   title: Economic feasibility of the Balance Island concept in Vietnam & Bangladesh; Determining suitable locations based on the economic benefits of the reduction in river salinity intrusion
   degree: MSc thesis Earth and Economics
   programme: earth-msc
   date: '2015-08-19'
   year: 2015
-  file: /files/theses/Economic_feasibility_of_the_Balance_Island_concept_in_Vietnam__Bangladesh_abstract.pdf
-  slug: koes-economic-feasibility-of-the-balance-island-concept-in-vietnam-ban
+  file: /files/theses/koes-2015-economic-feasibility-of-the-balance-island-concept.pdf
+  slug: koes-2015-economic-feasibility-of-the-balance-island-concept
 - author: Last, J.
   title: Identifying the impact of tree volume on house prices; A hedonic price method approach in Amsterdam
   degree: Research project report MSc Earth and Economics
@@ -410,7 +410,7 @@ theses:
   date: '2015-01-14'
   year: 2015
   supervisor: Koomen, E
-  slug: last-identifying-the-impact-of-tree-volume-on-house-prices-a-hedonic-p
+  slug: last-2015-identifying-the-impact-of-tree-volume-on-house-prices
 - author: Paardekooper, M.
   title: Economic Feasibility of Solar Panels in Amsterdam; Assessing and validating the potential of roof top solar panels in the city of Amsterdam
   degree: MSc thesis Earth and Economics
@@ -418,8 +418,8 @@ theses:
   date: '2015-09-06'
   year: 2015
   supervisor: Koomen, E
-  file: /files/theses/Economic_Feasibility_of_roof_top_solar_panels_in_Amsterdam-Michel_Paardekooper.pdf
-  slug: paardekooper-economic-feasibility-of-solar-panels-in-amsterdam-assessi
+  file: /files/theses/paardekooper-2015-economic-feasibility-of-solar-panels-in-amsterdam.pdf
+  slug: paardekooper-2015-economic-feasibility-of-solar-panels-in-amsterdam
 - author: Paardekooper, M.
   title: Feasibility of onshore wind energy in the province of North-Holland
   degree: Research project report MSc Earth and Economics
@@ -427,228 +427,225 @@ theses:
   date: '2015-02-12'
   year: 2015
   supervisor: Diogo, V
-  file: /files/theses/Michel-Paardekooper_Feasibility-of-onshore-wind-energy.pdf
-  slug: paardekooper-feasibility-of-onshore-wind-energy-in-the-province-of-nor
+  file: /files/theses/paardekooper-2015-feasibility-of-onshore-wind-energy-in-the-province.pdf
+  slug: paardekooper-2015-feasibility-of-onshore-wind-energy-in-the-province
 - author: Belinfante, T.
   title: The Added Value of Geospatial Information in Disaster and Risk Management
   degree: Master thesis Earth & Economics
   programme: earth-msc
   year: 2012
   supervisor: van Manen, N
-  slug: belinfante-the-added-value-of-geospatial-information-in-disaster-and-r
+  slug: belinfante-2012-the-added-value-of-geospatial-information-in-disaster
 - author: Mea Nootebos
   title: 'Accessible amenities: impact on the share of sustainable travel within the PC4 regions of North Holland'
   degree: BSc thesis Earth science, Economics and Sustainability
   programme: earth-bsc
   date: '2026-07-27'
   year: 2026
-  file: /files/theses/Accessible-amenities.pdf
-  slug: mea-nootebos-accessible-amenities-impact-on-the-share-of-sustainable-t
+  file: /files/theses/nootebos-2026-accessible-amenities.pdf
+  slug: nootebos-2026-accessible-amenities
 - author: Laas Schölvinck
   title: 'Relatieve bodemdaling van veenterpen in Waterland: De invloed van lokale bodemopbouw en waterhuishouding'
   degree: BSc thesis Earth science, Economics and Sustainability
   programme: earth-bsc
   date: '2026-07-02'
   year: 2026
-  file: /files/theses/Relatieve-bodemdaling-van-veenterpen_Hoofdtekst.pdf
+  file: /files/theses/scholvinck-2026-relatieve-bodemdaling-van-veenterpen-in-waterland.pdf
   attachments:
   - label: Version with annexes
-    file: /files/theses/Relatieve-bodemdaling-van-veenterpen_bijlagen.pdf
-  slug: laas-scholvinck-relatieve-bodemdaling-van-veenterpen-in-waterland-de-i
+    file: /files/theses/scholvinck-2026-relatieve-bodemdaling-van-veenterpen-in-waterland-with-annexes.pdf
+  slug: scholvinck-2026-relatieve-bodemdaling-van-veenterpen-in-waterland
 - author: Leon de Vries
   title: 'One size does not fit all: Demographic inequalities in cycling accessibility within the 15-Minute City framework in the Northern Netherlands'
   degree: BSc thesis Earth science, Economics and Sustainability
   programme: earth-bsc
   date: '2026-07-02'
   year: 2026
-  file: /files/theses/One-size-does-not-fit-all.pdf
+  file: /files/theses/de-vries-2026-one-size-does-not-fit-all.pdf
   attachments:
   - label: This report describes the separate data collection extension to the thesis
-    file: /files/theses/One-size-does-not-fit-all_data-extension-thesis.pdf
-  slug: leon-de-vries-one-size-does-not-fit-all-demographic-inequalities-in-cy
+    file: /files/theses/de-vries-2026-one-size-does-not-fit-all-data-extension.pdf
+  slug: de-vries-2026-one-size-does-not-fit-all
 - author: Matthias van Ingen
   title: Ongelijkheid in blootstelling aan natuurlijke gevaren in Colombia
   degree: BSc thesis Earth science, Economics and Sustainability
   programme: earth-bsc
   date: '2026-07-02'
   year: 2026
-  file: /files/theses/Ongelijkheid-in-blootstelling-aan-natuurlijke-gevaren_compressed.pdf
-  slug: matthias-van-ingen-ongelijkheid-in-blootstelling-aan-natuurlijke-gevar
+  file: /files/theses/van-ingen-2026-ongelijkheid-in-blootstelling-aan-natuurlijke-gevaren.pdf
+  slug: van-ingen-2026-ongelijkheid-in-blootstelling-aan-natuurlijke-gevaren
 - author: Steyn Bosch
   title: 'Tegen de grenzen van het stroomnet: ruimtelijke drijfveren en de impact van netcongestie op recente uitbreidingen van grote logistieke centra in Nederland (2020 2024)'
   degree: BSc thesis Earth science, Economics and Sustainability
   programme: earth-bsc
   date: '2026-07-02'
   year: 2026
-  file: /files/theses/Tegen-de-grenzen-van-het-stroomnet_compressed.pdf
+  file: /files/theses/bosch-2026-tegen-de-grenzen-van-het-stroomnet.pdf
   attachments:
   - label: This report describes the separate data collection extension to the thesis
-    file: /files/theses/Tegen-de-grenzen-van-het-stroomnet_data-uitbreiding-scriptie.pdf
-  slug: steyn-bosch-tegen-de-grenzen-van-het-stroomnet-ruimtelijke-drijfveren
+    file: /files/theses/bosch-2026-tegen-de-grenzen-van-het-stroomnet-data-extension.pdf
+  slug: bosch-2026-tegen-de-grenzen-van-het-stroomnet
 - author: Pepijn Herbermann
   title: 'Exploring the relationship between land surface temperature and air temperature in Amsterdam, Netherlands: a basis for the continuous spatial estimation of air temperature'
   degree: BSc thesis Earth science and Economics
   programme: earth-bsc
   date: '2025-07-15'
   year: 2025
-  file: /files/theses/Exploring-the-relationship-between-land-surface-temperature-and-air-temperature-in-Amsterdam.pdf
+  file: /files/theses/herbermann-2025-exploring-the-relationship-between-land-surface.pdf
   attachments:
   - label: This report describes the separate data collection extension to the thesis
-    file: /files/theses/Mapping-Land-Surface-Temperature-Combined-with-Air-Temperature-in-Amsterdam-Netherlands_thesis-extension-report.pdf
-  slug: pepijn-herbermann-exploring-the-relationship-between-land-surface-temp
-- author: Nicky de Theye
+    file: /files/theses/herbermann-2025-exploring-the-relationship-between-land-surface-data-extension.pdf
+  slug: herbermann-2025-exploring-the-relationship-between-land-surface
+- author: Nicky de Theije
   title: Evaluating the real-world feasibility of the 15-minute city concept through mobility data analysis
   degree: BSc thesis Earth science and Economics
   programme: earth-bsc
   date: '2025-07-15'
   year: 2025
-  file: /files/theses/Evaluating-the-real-world-feasibility-of-the-15-minute-city-concept-through-mobility-data-analysis.pdf
+  file: /files/theses/de-theije-2025-evaluating-the-real-world-feasibility-of-the-15-minute.pdf
   attachments:
   - label: This report describes the separate data collection extension to the thesis
-    file: /files/theses/Data-Preparation-and-Spatial-Processing-for-Accessibility-Analysis_Thesis-Extension-report.pdf
-  slug: nicky-de-theye-evaluating-the-real-world-feasibility-of-the-15-minute
+    file: /files/theses/de-theije-2025-evaluating-the-real-world-feasibility-of-the-15-minute-data-extension.pdf
+  slug: de-theije-2025-evaluating-the-real-world-feasibility-of-the-15-minute
 - author: Biko Sintenie
   title: Ruimtelijke ongelijkheid in blootstelling aan stedelijke hitte en luchtvervuiling in Amsterdam
   degree: BSc thesis Earth science and Economics
   programme: earth-bsc
   date: '2025-07-15'
   year: 2025
-  file: /files/theses/Ruimtelijke-ongelijkheid-in-blootstelling-aan-stedelijke-hitte-en-luchtvervuiling-in-Amsterdam.pdf
-  slug: biko-sintenie-ruimtelijke-ongelijkheid-in-blootstelling-aan-stedelijke
+  file: /files/theses/sintenie-2025-ruimtelijke-ongelijkheid-in-blootstelling.pdf
+  slug: sintenie-2025-ruimtelijke-ongelijkheid-in-blootstelling
 - author: Auke van Soest
   title: 'Ruimtebeslag in Nederland 2000-2018: een data-gedreven analyse'
   degree: BSc thesis Earth science and Economics
   programme: earth-bsc
   date: '2025-07-15'
   year: 2025
-  file: /files/theses/Ruimtebeslag-in-Nederland-2000-2018.pdf
-  slug: auke-van-soest-ruimtebeslag-in-nederland-2000-2018-een-data-gedreven-a
+  file: /files/theses/van-soest-2025-ruimtebeslag-in-nederland-2000-2018.pdf
+  slug: van-soest-2025-ruimtebeslag-in-nederland-2000-2018
 - author: Anne van Kempen
   title: Stedelijke verdichting tussen 2018-2023 van Nederland
   degree: BSc thesis Earth science and Economics
   programme: earth-bsc
   date: '2025-07-15'
   year: 2025
-  file: /files/theses/Stedelijke-verdichting-2018-2023-van-Nederland-Anne-van-Kempen.pdf
-  slug: anne-van-kempen-stedelijke-verdichting-tussen-2018-2023-van-nederland
+  file: /files/theses/van-kempen-2025-stedelijke-verdichting-tussen-2018-2023-van-nederland.pdf
+  slug: van-kempen-2025-stedelijke-verdichting-tussen-2018-2023-van-nederland
 - author: Floris de Wagt
   title: 'Evaluating the 15-Minute city: A comparative analysis of travel behaviours, urban accessibility and sustainability within the Netherlands'
   degree: BSc thesis Earth science, Economics and Sustainability
   programme: earth-bsc
   date: '2024-07-09'
   year: 2024
-  file: /files/theses/Evaluating-the-15-Minute-city.pdf
-  slug: floris-de-wagt-evaluating-the-15-minute-city-a-comparative-analysis-of
+  file: /files/theses/de-wagt-2024-evaluating-the-15-minute-city.pdf
+  slug: de-wagt-2024-evaluating-the-15-minute-city
 - author: Samantha van Leeuwen
   title: Differences in the influence of income on transportation mode choice in Amsterdam and Alkmaar and the environmental impact of travel behavior
   degree: BSc thesis Earth science, Economics and Sustainability
   programme: earth-bsc
   date: '2024-07-09'
   year: 2024
-  file: /files/theses/Differences-in-the-influence-of-income-on-transportation-mode-choice-in-Amsterdam-and-Alkmaar-and-the-environmental-impact-of-travel-behavior.pdf
-  slug: samantha-van-leeuwen-differences-in-the-influence-of-income-on-transpo
+  file: /files/theses/van-leeuwen-2024-differences-in-the-influence-of-income.pdf
+  slug: van-leeuwen-2024-differences-in-the-influence-of-income
 - author: Tim Weijers
   title: What are the effects of highway tunnelling and green space development on house prices? A case study of the Gaasperdammertunnel and Brasapark project
   degree: BSc thesis Earth science, Economics and Sustainability
   programme: earth-bsc
   date: '2024-07-04'
   year: 2024
-  file: /files/theses/What-are-the-effects-of-highway-tunnelling-and-green-space-development-on-house-prices.pdf
-  slug: tim-weijers-what-are-the-effects-of-highway-tunnelling-and-green-space
+  file: /files/theses/weijers-2024-what-are-the-effects-of-highway-tunnelling-and-green.pdf
+  slug: weijers-2024-what-are-the-effects-of-highway-tunnelling-and-green
 - author: Milan Rijsenbrij
   title: Impacts of welfare loss on flood risk assessments
   degree: BSc thesis Earth science and Economics
   programme: earth-bsc
   date: '2023-07-07'
   year: 2023
-  file: /files/theses/Impacts-of-welfare-loss-on-flood-risk-assessments.pdf
-  slug: milan-rijsenbrij-impacts-of-welfare-loss-on-flood-risk-assessments
+  file: /files/theses/rijsenbrij-2023-impacts-of-welfare-loss-on-flood-risk-assessments.pdf
+  slug: rijsenbrij-2023-impacts-of-welfare-loss-on-flood-risk-assessments
 - author: Jan Albertsboer
   title: 'Assessing drought exposure in South Africa: spatial patterns, temporal trends, and future projections'
   degree: BSc thesis Earth science and Economics
   programme: earth-bsc
   date: '2023-07-07'
   year: 2023
-  file: /files/theses/Assessing-drought-exposure-in-South-Africa-min.pdf
-  slug: jan-albertsboer-assessing-drought-exposure-in-south-africa-spatial-pat
+  file: /files/theses/albertsboer-2023-assessing-drought-exposure-in-south-africa.pdf
+  slug: albertsboer-2023-assessing-drought-exposure-in-south-africa
 - author: Mandy Bakker
   title: 'Built up area growth in Kenya: patterns, magnitude and drivers between 1990 and 2015'
   degree: BSc thesis Earth science and Economics
   programme: earth-bsc
   date: '2023-07-07'
   year: 2023
-  file: /files/theses/Built-up-area-growth-in-Kenya.pdf
-  slug: mandy-bakker-built-up-area-growth-in-kenya-patterns-magnitude-and-driv
+  file: /files/theses/bakker-2023-built-up-area-growth-in-kenya.pdf
+  slug: bakker-2023-built-up-area-growth-in-kenya
 - author: Marijn van ‘t Hof
   title: Driving forces behind deforestation in Upper West Ghana
   degree: BSc thesis Earth science and Economics
   programme: earth-bsc
   date: '2023-07-07'
   year: 2023
-  file: /files/theses/Driving-forces-behind-deforestation-in-Upper-West-Ghana.pdf
+  file: /files/theses/van-t-hof-2023-driving-forces-behind-deforestation-in-upper-west-ghana.pdf
   attachments:
   - label: Annex
-    file: /files/theses/Modellingforestcover_NorthernGhana.pdf
-  slug: marijn-van-t-hof-driving-forces-behind-deforestation-in-upper-west-gha
+    file: /files/theses/van-t-hof-2023-driving-forces-behind-deforestation-in-upper-west-ghana-annex.pdf
+  slug: van-t-hof-2023-driving-forces-behind-deforestation-in-upper-west-ghana
 - author: Luuk Verdonk
   title: Analysing the location choice of solar fields in the Netherlands
   degree: BSc thesis Earth science and Economics
   programme: earth-bsc
   date: '2023-07-07'
   year: 2023
-  file: /files/theses/Analysing-the-location-choice-of-solar-fields-in-the-Netherlands.pdf
-  slug: luuk-verdonk-analysing-the-location-choice-of-solar-fields-in-the-neth
+  file: /files/theses/verdonk-2023-analysing-the-location-choice-of-solar-fields.pdf
+  slug: verdonk-2023-analysing-the-location-choice-of-solar-fields
 - author: Fleur Weijer
   title: Luchtverontreiniging in stedelijke megaregio’s
   degree: BSc thesis Earth science and Economics
   programme: earth-bsc
   date: '2022-07-02'
   year: 2022
-  file: /files/theses/Fleur-Weijer_Thesis_BSc_ESE_2.pdf
-  slug: fleur-weijer-luchtverontreiniging-in-stedelijke-megaregios
+  file: /files/theses/weijer-2022-luchtverontreiniging-in-stedelijke-megaregios.pdf
+  slug: weijer-2022-luchtverontreiniging-in-stedelijke-megaregios
 - author: Niels Tuinman
   title: An Iberian Peninsula analysis of variation in forest area development
   degree: BSc thesis Earth science and Economics
   programme: earth-bsc
   date: '2022-07-02'
   year: 2022
-  file: /files/theses/NielsTuinman_Thesis_BSc_ESE.pdf
-  slug: niels-tuinman-an-iberian-peninsula-analysis-of-variation-in-forest-are
+  file: /files/theses/tuinman-2022-an-iberian-peninsula-analysis-of-variation-in-forest.pdf
+  slug: tuinman-2022-an-iberian-peninsula-analysis-of-variation-in-forest
 - author: Gabriela Riebeek
   title: Urbanization trends in North- and South-Brabant between 2000 and 2015 using the Global Human Settlement Layer dataset
   degree: BSc thesis Earth science and Economics
   programme: earth-bsc
   date: '2022-07-02'
   year: 2022
-  file: /files/theses/GabrielaRiebeek_Thesis_BSC_ESE.pdf
-  slug: gabriela-riebeek-urbanization-trends-in-north-and-south-brabant-betwee
+  file: /files/theses/riebeek-2022-urbanization-trends-in-north-and-south-brabant-between.pdf
+  slug: riebeek-2022-urbanization-trends-in-north-and-south-brabant-between
 - author: Bente Janssens
   title: Effectiviteit van de milieuzonering in Amsterdam. Een onderzoek naar het effect van de milieuzone op het NO2-gehalte in de lucht bij Amsterdam
   degree: BSc thesis Earth science and Economics
   programme: earth-bsc
   date: '2022-07-02'
   year: 2022
-  file: /files/theses/BenteJanssens_Thesis_BSc_ESE.pdf
-  slug: bente-janssens-effectiviteit-van-de-milieuzonering-in-amsterdam-een-on
+  file: /files/theses/janssens-2022-effectiviteit-van-de-milieuzonering-in-amsterdam.pdf
+  slug: janssens-2022-effectiviteit-van-de-milieuzonering-in-amsterdam
 - author: Waardenburg, P.
   title: Rijst en ravages? De toekomst van de Mekongdelta, Vietnam
   degree: BSc thesis Earth science and Economics
   programme: earth-bsc
   date: '2021-06-28'
   year: 2021
-  file: /files/theses/Waardenburg_ToekomstMekongdelta.pdf
-  attachments:
-  - label: Annex
-    file: /files/theses/BenteJanssens_Thesis_BSc_ESE.pdf
-  slug: waardenburg-rijst-en-ravages-de-toekomst-van-de-mekongdelta-vietnam
-- author: Harman, J.
+  file: /files/theses/waardenburg-2021-rijst-en-ravages.pdf
+  slug: waardenburg-2021-rijst-en-ravages
+- author: Hartman, J.
   title: Land cover changes in European shrinking urban regions
   degree: BSc thesis Earth science and Economics
   programme: earth-bsc
   date: '2021-06-28'
   year: 2021
-  file: /files/theses/HartmanLand-cover-changes-in-European-shrinking-urban-regions.pdf
-  slug: harman-land-cover-changes-in-european-shrinking-urban-regions
+  file: /files/theses/hartman-2021-land-cover-changes-in-european-shrinking-urban-regions.pdf
+  slug: hartman-2021-land-cover-changes-in-european-shrinking-urban-regions
 - author: Stol, I.
   title: Land Use Change analysis of wildfires in Portugal. Relation between land-use change processes and occurrence of wildfires in Portugal between 2012 and 2018
   degree: Bachelor thesis Earth and Economics
@@ -656,8 +653,8 @@ theses:
   date: '2020-07-10'
   year: 2020
   supervisor: Koomen, E
-  file: /files/theses/Stol_Ivar_ThesisFinal_BscThesis_LUCWildfiresPortugal.pdf
-  slug: stol-land-use-change-analysis-of-wildfires-in-portugal-relation-betwee
+  file: /files/theses/stol-2020-land-use-change-analysis-of-wildfires-in-portugal.pdf
+  slug: stol-2020-land-use-change-analysis-of-wildfires-in-portugal
 - author: Ben, van der, S.
   title: Gevolgen bedrijvigheid na transformatie
   degree: BSc thesis Earth science and Economics
@@ -665,8 +662,8 @@ theses:
   date: '2020-07-08'
   year: 2020
   supervisor: Koomen, E
-  file: /files/theses/vanderben_2623547Scriptie.pdf
-  slug: ben-gevolgen-bedrijvigheid-na-transformatie
+  file: /files/theses/van-der-ben-2020-gevolgen-bedrijvigheid-na-transformatie.pdf
+  slug: van-der-ben-2020-gevolgen-bedrijvigheid-na-transformatie
 - author: Kollaard, M.
   title: Yuppen in de grote stad; Veranderingen preferenties of voorzieningen
   degree: BSc thesis Earth science and Economics
@@ -674,8 +671,8 @@ theses:
   date: '2019-07-10'
   year: 2019
   supervisor: Koomen, E
-  file: /files/theses/Yuppen-in-de-grote-stad_MatthijsKollaard.pdf
-  slug: kollaard-yuppen-in-de-grote-stad-veranderingen-preferenties-of-voorzie
+  file: /files/theses/kollaard-2019-yuppen-in-de-grote-stad.pdf
+  slug: kollaard-2019-yuppen-in-de-grote-stad
 - author: Egmond van, P. H. D.
   title: Scoping for detail. A review of global indicators to assess social vulnerability to water scarcity on a local level
   degree: BSc thesis Earth science and Economics
@@ -683,8 +680,8 @@ theses:
   date: '2018-07-13'
   year: 2018
   supervisor: Koomen, E
-  file: /files/theses/Scoping_for_Detail_DaanVanEgmond.pdf
-  slug: egmond-van-scoping-for-detail-a-review-of-global-indicators-to-assess
+  file: /files/theses/van-egmond-2018-scoping-for-detail.pdf
+  slug: van-egmond-2018-scoping-for-detail
 - author: Zoer, T.
   title: Ex‐post evaluatie van veertig jaar ruimtelijk ordeningsbeleid in Nederland naar gevolgen voor potentiële overstromingsschade
   degree: BSc thesis Earth science and Economics
@@ -692,8 +689,8 @@ theses:
   date: '2018-07-12'
   year: 2018
   supervisor: Koomen, E
-  file: /files/theses/Ex-post-evaluatie-van-veertig-jaar-ruimtelijk-ordeningsbeleid-in-Nederland-naar-gevolgen-voor-potentiele-overstromingsschade_TeunZoer_2579452.pdf
-  slug: zoer-expost-evaluatie-van-veertig-jaar-ruimtelijk-ordeningsbeleid-in-n
+  file: /files/theses/zoer-2018-expost-evaluatie-van-veertig-jaar-ruimtelijk.pdf
+  slug: zoer-2018-expost-evaluatie-van-veertig-jaar-ruimtelijk
 - author: De Rijke, C.
   title: Stedelijke transformatie in Den Haag
   degree: Bachelor thesis Earth and Economics
@@ -701,8 +698,8 @@ theses:
   date: '2015-06-29'
   year: 2015
   supervisor: Koomen, E
-  file: /files/theses/Stedelijke_transformatieprocessen_in_Den_Haag.pdf
-  slug: de-rijke-stedelijke-transformatie-in-den-haag
+  file: /files/theses/de-rijke-2015-stedelijke-transformatie-in-den-haag.pdf
+  slug: de-rijke-2015-stedelijke-transformatie-in-den-haag
 - author: Petri, D.
   title: 'Using light at night data as a proxy for economic activity: a case study for Papua New Guinea'
   degree: Bachelor thesis Earth and Economics
@@ -710,8 +707,8 @@ theses:
   date: '2015-06-29'
   year: 2015
   supervisor: Koomen, E
-  file: /files/theses/Using_LAN_data_as_proxy_for_economic_activity.pdf
-  slug: petri-using-light-at-night-data-as-a-proxy-for-economic-activity-a-cas
+  file: /files/theses/petri-2015-using-light-at-night-data-as-a-proxy-for-economic.pdf
+  slug: petri-2015-using-light-at-night-data-as-a-proxy-for-economic
 - author: Smulders, J.
   title: Analysing land-use density
   degree: Research project report BSc Earth and Economics
@@ -719,8 +716,8 @@ theses:
   date: '2015-01-14'
   year: 2015
   supervisor: Koomen, E
-  file: /files/theses/Analysing-land-use-and-residential-density-change_Juan-Smulders.pdf
-  slug: smulders-analysing-land-use-density
+  file: /files/theses/smulders-2015-analysing-land-use-density.pdf
+  slug: smulders-2015-analysing-land-use-density
 - author: Berg, T.
   title: 14% duurzame energie in 2020; Een rapport over de haalbaarheid en de invulling van deze doelstelling
   degree: Bachelor thesis Earth and Economics
@@ -728,8 +725,8 @@ theses:
   date: '2014-07-03'
   year: 2014
   supervisor: Koomen, E
-  file: /files/theses/Bachelorscriptie_Aarde_en_Economie_TomBerg_02_07_2014.pdf
-  slug: berg-14-duurzame-energie-in-2020-een-rapport-over-de-haalbaarheid-en-d
+  file: /files/theses/berg-2014-14-duurzame-energie-in-2020.pdf
+  slug: berg-2014-14-duurzame-energie-in-2020
 - author: Hu, M.
   title: Naar een aardbevingsbestendig sloopbeleid
   degree: Bachelor thesis Earth & Economics
@@ -737,7 +734,7 @@ theses:
   date: '2014-07-21'
   year: 2014
   supervisor: Dekkers, J.E.C
-  slug: hu-naar-een-aardbevingsbestendig-sloopbeleid
+  slug: hu-2014-naar-een-aardbevingsbestendig-sloopbeleid
 - author: Kennedy, E.
   title: "Comparing valuation methods for ecosystem services in Amstelland; Applying ecosystem service valuation methods to evaluate land\x81-use changes"
   degree: Bachelor thesis Earth and Economics
@@ -745,8 +742,8 @@ theses:
   date: '2014-07-01'
   year: 2014
   supervisor: Koomen, E
-  file: /files/theses/Comparing_valuation_methods_for_ecosystem_services_in_Amstelland_BSCThesis_Eric_Kennedy_thesis.pdf
-  slug: kennedy-comparing-valuation-methods-for-ecosystem-services-in-amstella
+  file: /files/theses/kennedy-2014-comparing-valuation-methods-for-ecosystem-services.pdf
+  slug: kennedy-2014-comparing-valuation-methods-for-ecosystem-services
 - author: Robertson, S.
   title: 'Monetarisering van ecosysteemdienten: een case studie voor de Roggebotstaete'
   degree: Bachelor thesis Earth and Economics
@@ -754,8 +751,8 @@ theses:
   date: '2014-07-01'
   year: 2014
   supervisor: Koomen, E
-  file: /files/theses/Bachelorthesis_Robertson_2079216.pdf
-  slug: robertson-monetarisering-van-ecosysteemdienten-een-case-studie-voor-de
+  file: /files/theses/robertson-2014-monetarisering-van-ecosysteemdienten.pdf
+  slug: robertson-2014-monetarisering-van-ecosysteemdienten
 - author: Slaakweg, A.
   title: Vitaliteit van het Nederlandse platteland; Een Kwantitatieve analyse van de verandering in vitaliteit op het Platteland tussen 2000 en 2010
   degree: Bachelor thesis Earth and Economics
@@ -763,8 +760,8 @@ theses:
   date: '2014-07-01'
   year: 2014
   supervisor: Koomen, E
-  file: /files/theses/Bachelorthesis_ArjanSlaakweg_Vitaliteit_van_het_Platteland.pdf
-  slug: slaakweg-vitaliteit-van-het-nederlandse-platteland-een-kwantitatieve-a
+  file: /files/theses/slaakweg-2014-vitaliteit-van-het-nederlandse-platteland.pdf
+  slug: slaakweg-2014-vitaliteit-van-het-nederlandse-platteland
 - author: Joling, R.J.
   title: Adding more detail to Potential Flood Damage Assessment
   degree: Bachelor thesis Earth and Economics
@@ -772,15 +769,16 @@ theses:
   date: '2013-08-29'
   year: 2013
   supervisor: Koomen, E
-  slug: joling-adding-more-detail-to-potential-flood-damage-assessment
+  file: /files/theses/joling-2013-adding-more-detail-to-potential-flood-damage-assessment.pdf
+  slug: joling-2013-adding-more-detail-to-potential-flood-damage-assessment
 - author: van Riemsdijk, M.
   title: Natuurbranden in Nederland. Een aanzet tot dieper onderzoek naar natuurbrandrisico in Nederland
   degree: Bachelor Thesis Earth & Economics
   programme: earth-bsc
   year: 2013
   supervisor: van Manen, N
-  file: /files/theses/Bsc_Thesis_Final_MauritsvanRiemsdijk.pdf
-  slug: van-riemsdijk-natuurbranden-in-nederland-een-aanzet-tot-dieper-onderzo
+  file: /files/theses/van-riemsdijk-2013-natuurbranden-in-nederland.pdf
+  slug: van-riemsdijk-2013-natuurbranden-in-nederland
 - author: Andrée, B.
   title: Subsidizing Miscanthus and Minimum Ethanol Fuel Share Standards for 2020
   degree: Bachelor thesis Earth and Economics
@@ -788,8 +786,8 @@ theses:
   date: '2013-07-01'
   year: 2013
   supervisor: Koomen, E
-  file: /files/theses/Subsidizing-Miscanthus-and-Minimum-Ethanol-Fuel-Share-Standards-for-2020-final.pdf
-  slug: andree-subsidizing-miscanthus-and-minimum-ethanol-fuel-share-standards
+  file: /files/theses/andree-2013-subsidizing-miscanthus-and-minimum-ethanol-fuel-share.pdf
+  slug: andree-2013-subsidizing-miscanthus-and-minimum-ethanol-fuel-share
 - author: Olijve, I.
   title: Ruimtelijke veranderingen in de glastuinbouw
   degree: Bachelor thesis Earth and Economics
@@ -797,8 +795,8 @@ theses:
   date: '2013-06-28'
   year: 2013
   supervisor: Koomen, E
-  file: /files/theses/Eindversie_Inge_Olijve.pdf
-  slug: olijve-ruimtelijke-veranderingen-in-de-glastuinbouw
+  file: /files/theses/olijve-2013-ruimtelijke-veranderingen-in-de-glastuinbouw.pdf
+  slug: olijve-2013-ruimtelijke-veranderingen-in-de-glastuinbouw
 - author: Butijn, A.
   title: Toekomst van de Nederlandse glastuinbouw
   degree: Bachelor Thesis Earth & Economics
@@ -806,145 +804,145 @@ theses:
   date: '2013-05-16'
   year: 2013
   supervisor: Dekkers, J.E.C
-  file: /files/theses/scriptiefinaal-AardeEconomie-AstridButijn.pdf
-  slug: butijn-toekomst-van-de-nederlandse-glastuinbouw
+  file: /files/theses/butijn-2013-toekomst-van-de-nederlandse-glastuinbouw.pdf
+  slug: butijn-2013-toekomst-van-de-nederlandse-glastuinbouw
 - author: Mulder, M.
   title: Analysis of settlements. Driving forces behind the location of settlements in Sylhet, Bangladesh
   degree: Bachelor thesis Earth and Economics
   programme: earth-bsc
   year: 2012
   supervisor: Koomen, E
-  file: /files/theses/Bachelorthesis_Marleen_Mulder_def.pdf
-  slug: mulder-analysis-of-settlements-driving-forces-behind-the-location-of-s
+  file: /files/theses/mulder-2012-analysis-of-settlements.pdf
+  slug: mulder-2012-analysis-of-settlements
 - author: van Kouwen, M.
   title: Nationale landschappen op de schop. Vernieuwing of achteruitgang?
   degree: Bachelor thesis Earth and Economics, VU University, Amsterdam
   programme: earth-bsc
   year: 2012
   supervisor: Koomen, E
-  file: /files/theses/Bachelorscriptie_Mandy_van_Kouwen.pdf
-  slug: van-kouwen-nationale-landschappen-op-de-schop-vernieuwing-of-achteruit
+  file: /files/theses/van-kouwen-2012-nationale-landschappen-op-de-schop.pdf
+  slug: van-kouwen-2012-nationale-landschappen-op-de-schop
 - author: van Oosterhout, F.
   title: The impact of restrictive spatial policy in the Dutch Randstad area A spatial analysis of regional differences in land-use change
   degree: Bachelor thesis Earth & Economics, VU University, Amsterdam
   programme: earth-bsc
   year: 2011
   supervisor: Koomen, E
-  file: /files/theses/Bachelorthesis_FrankvOosterhout.pdf
-  slug: van-oosterhout-the-impact-of-restrictive-spatial-policy-in-the-dutch-r
+  file: /files/theses/van-oosterhout-2011-the-impact-of-restrictive-spatial-policy-in-the-dutch.pdf
+  slug: van-oosterhout-2011-the-impact-of-restrictive-spatial-policy-in-the-dutch
 - author: Walda, H.
   title: De invloed van ruimtelijke factoren op krimpregio’s
   degree: Bachelor thesis Earth & Economics, VU University, Amsterdam
   programme: earth-bsc
   year: 2011
   supervisor: Koomen, E
-  file: /files/theses/Bachelorscriptie_Hidde_Walda.pdf
-  slug: walda-de-invloed-van-ruimtelijke-factoren-op-krimpregios
+  file: /files/theses/walda-2011-de-invloed-van-ruimtelijke-factoren-op-krimpregios.pdf
+  slug: walda-2011-de-invloed-van-ruimtelijke-factoren-op-krimpregios
 - author: Pegels, M.
   title: Een decennium aan veranderingen in het Verenigd Koninkrijk; onderzoek naar de ruimtegebruiksveranderingen in het Verenigd Koninkrijk tussen 1990 en 2000
   degree: Bachelor thesis Earth and Economics
   programme: earth-bsc
   year: 2010
   supervisor: Koomen, E
-  file: /files/theses/Ruimtegebruiksveranderingen_UK_1990_2000_M_Pegels_scriptie.pdf
-  slug: pegels-een-decennium-aan-veranderingen-in-het-verenigd-koninkrijk-onde
+  file: /files/theses/pegels-2010-een-decennium-aan-veranderingen-in-het-verenigd.pdf
+  slug: pegels-2010-een-decennium-aan-veranderingen-in-het-verenigd
 - author: Snelder, M.
   title: Land use modelling of Austria with the EuClueScanner; Calibration and validation of explanatory factors
   degree: Bachelor thesis Earth and Economics
   programme: earth-bsc
   year: 2010
   supervisor: Koomen, E
-  file: /files/theses/Snelder_Martijn_Land_use_modelling_Austria.pdf
-  slug: snelder-land-use-modelling-of-austria-with-the-eucluescanner-calibrati
+  file: /files/theses/snelder-2010-land-use-modelling-of-austria-with-the-eucluescanner.pdf
+  slug: snelder-2010-land-use-modelling-of-austria-with-the-eucluescanner
 - author: van Hussen, K.
   title: Wateroverlast in stedelijk gebied ten gevolge van extreme neerslag; een quickscan voor de intrinsieke gevoeligheid voor wateroverlast
   degree: Bachelor thesis Earth and Economics
   programme: earth-bsc
   year: 2010
   supervisor: Koomen, E
-  file: /files/theses/BSc_thesis_Karel_van_Hussen.pdf
-  slug: van-hussen-wateroverlast-in-stedelijk-gebied-ten-gevolge-van-extreme-n
+  file: /files/theses/van-hussen-2010-wateroverlast-in-stedelijk-gebied-ten-gevolge.pdf
+  slug: van-hussen-2010-wateroverlast-in-stedelijk-gebied-ten-gevolge
 - author: Beatrice Galetti
   title: 'Mapping and modelling the urban heat island in northern Nairobi: a spatial regression analysis of environmental and morphological drivers'
   degree: BSc capstone Amsterdam University College
   programme: auc
   date: '2026-06-11'
   year: 2026
-  file: /files/theses/Mapping-and-modelling-the-urban-heat-island-in-northern-Nairobi_compressed.pdf
-  slug: beatrice-galetti-mapping-and-modelling-the-urban-heat-island-in-northe
+  file: /files/theses/galetti-2026-mapping-and-modelling-the-urban-heat-island-in-northern.pdf
+  slug: galetti-2026-mapping-and-modelling-the-urban-heat-island-in-northern
 - author: Dorian Hirai-Keogh
   title: 'Explaining housing under-delivery: a municipal-level spatial analysis of constraints in the Netherlands'
   degree: BSc capstone Amsterdam University College
   programme: auc
   date: '2026-06-11'
   year: 2026
-  file: /files/theses/Explaining-Housing-Under-Delivery.pdf
-  slug: dorian-hirai-keogh-explaining-housing-under-delivery-a-municipal-level
+  file: /files/theses/hirai-keogh-2026-explaining-housing-under-delivery.pdf
+  slug: hirai-keogh-2026-explaining-housing-under-delivery
 - author: Lola Mihok
   title: 'To walk, or not to walk? – That is the question: Assessing the influence of objective measures of walkability on sustainable travel behavior of Dutch residents'
   degree: BSc capstone Amsterdam University College
   programme: auc
   date: '2026-01-13'
   year: 2026
-  file: /files/theses/To-walk-or-not-to-walk.pdf
-  slug: lola-mihok-to-walk-or-not-to-walk-that-is-the-question-assessing-the-i
+  file: /files/theses/mihok-2026-to-walk-or-not-to-walk.pdf
+  slug: mihok-2026-to-walk-or-not-to-walk
 - author: Elvire Coppoolse
   title: Investigating the impact of mangrove loss on fishery in Indonesia
   degree: BSc capstone Amsterdam University College
   programme: auc
   date: '2025-06-18'
   year: 2025
-  file: /files/theses/Investigating-the-impact-of-mangrove-loss-on-fishery-in-Indonesia.pdf
-  slug: elvire-coppoolse-investigating-the-impact-of-mangrove-loss-on-fishery
+  file: /files/theses/coppoolse-2025-investigating-the-impact-of-mangrove-loss-on-fishery.pdf
+  slug: coppoolse-2025-investigating-the-impact-of-mangrove-loss-on-fishery
 - author: Gresa Isufi
   title: 'Urban expansion and land transformations in Kosovo: insights from GIS analysis'
   degree: BSc Capstone Amsterdam University College
   programme: auc
   date: '2024-05-22'
   year: 2024
-  file: /files/theses/Urban-expansion-and-land-use-transformation-in-Kosovo.-Insights-from-GIS-analysis.pdf
-  slug: gresa-isufi-urban-expansion-and-land-transformations-in-kosovo-insight
+  file: /files/theses/isufi-2024-urban-expansion-and-land-transformations-in-kosovo.pdf
+  slug: isufi-2024-urban-expansion-and-land-transformations-in-kosovo
 - author: Sterre Blok
   title: 'Monitoring the consequences of conflicting land use policies: an enhanced NDVI analysis of Amsterdam'
   degree: BSc Capstone Amsterdam University College
   programme: auc
   date: '2023-06-20'
   year: 2023
-  file: /files/theses/Monitoring-the-consequences-of-conflicting-land-use-policies-min.pdf
-  slug: sterre-blok-monitoring-the-consequences-of-conflicting-land-use-polici
+  file: /files/theses/blok-2023-monitoring-the-consequences-of-conflicting-land-use.pdf
+  slug: blok-2023-monitoring-the-consequences-of-conflicting-land-use
 - author: Victor Lombard
   title: Understanding the shifts of plant-soil feedback in response to drought
   degree: BSc Capstone Amsterdam University College
   programme: auc
   date: '2022-06-14'
   year: 2022
-  file: /files/theses/VictorLombard_CapstoneAUC.pdf
-  slug: victor-lombard-understanding-the-shifts-of-plant-soil-feedback-in-resp
+  file: /files/theses/lombard-2022-understanding-the-shifts-of-plant-soil-feedback.pdf
+  slug: lombard-2022-understanding-the-shifts-of-plant-soil-feedback
 - author: Feingold, A.
   title: 'Local currencies: working towards Amsterdam’s circular ambitions'
   degree: BSc Capstone Amsterdam University College
   programme: auc
   date: '2021-06-30'
   year: 2021
-  file: /files/theses/Feingold_Local-currencies-Working-towards-Amsterdams-circular-ambitions.pdf
-  slug: feingold-local-currencies-working-towards-amsterdams-circular-ambition
+  file: /files/theses/feingold-2021-local-currencies.pdf
+  slug: feingold-2021-local-currencies
 - author: König, Y.
   title: Enabling an efficient lockdown by assessing proximity to essential amenities in Amsterdam, the Netherlands
   degree: BSc Capstone Amsterdam University College
   programme: auc
   date: '2021-06-28'
   year: 2021
-  file: /files/theses/Konig_Enabling-an-Efficient-Lockdown-by-Assessing-Proximity-to-Essential-Amenities-in-Amsterdam.pdf
-  slug: konig-enabling-an-efficient-lockdown-by-assessing-proximity-to-essenti
+  file: /files/theses/konig-2021-enabling-an-efficient-lockdown-by-assessing-proximity.pdf
+  slug: konig-2021-enabling-an-efficient-lockdown-by-assessing-proximity
 - author: Trip, S.
-  title: T he influence of land use practices on wildfire occurrence; A case study of the 2019/20 bushfire crisis in New South Wales
+  title: The influence of land use practices on wildfire occurrence; A case study of the 2019/20 bushfire crisis in New South Wales
   degree: BSc Capstone Amsterdam University College
   programme: auc
   date: '2020-06-16'
   year: 2020
   supervisor: Koomen, E
-  file: /files/theses/The-influence-of-land-use-practices-on-wildfire-occurence_SeskaTrip.pdf
-  slug: trip-t-he-influence-of-land-use-practices-on-wildfire-occurrence-a-cas
+  file: /files/theses/trip-2020-the-influence-of-land-use-practices-on-wildfire.pdf
+  slug: trip-2020-the-influence-of-land-use-practices-on-wildfire
 - author: Plate, Y.
   title: An Analysis of Dutch Environmental Inequalities in Air Pollution Exposure
   degree: BSc Capstone Amsterdam University College
@@ -952,8 +950,8 @@ theses:
   date: '2020-06-10'
   year: 2020
   supervisor: Koomen, E
-  file: /files/theses/An-Analysis-of-Dutch-Environmental-Inequalities-in-Air-Pollution-Exposure_Yvonne_Plate.pdf
-  slug: plate-an-analysis-of-dutch-environmental-inequalities-in-air-pollution
+  file: /files/theses/plate-2020-an-analysis-of-dutch-environmental-inequalities-in-air.pdf
+  slug: plate-2020-an-analysis-of-dutch-environmental-inequalities-in-air
 - author: Rozema, M.
   title: 'Made in the Shade: a GIS-based Multicriteria-Analysis on Shaded Coffee Certification in Ethiopia'
   degree: BSc Capstone Amsterdam University College
@@ -961,8 +959,8 @@ theses:
   date: '2019-08-13'
   year: 2019
   supervisor: Janssen, R
-  file: /files/theses/Made-in-the-Shade_MaaikeRozema.pdf
-  slug: rozema-made-in-the-shade-a-gis-based-multicriteria-analysis-on-shaded
+  file: /files/theses/rozema-2019-made-in-the-shade.pdf
+  slug: rozema-2019-made-in-the-shade
 - author: Loods, M.
   title: 'Measuring complexity: Biodiversity in the western Dutch peat meadow area'
   degree: BSc Capstone Amsterdam University College
@@ -970,8 +968,8 @@ theses:
   date: '2019-07-09'
   year: 2019
   supervisor: Koomen, E
-  file: /files/theses/Measuring-comlexity_Marron_Loods.pdf
-  slug: loods-measuring-complexity-biodiversity-in-the-western-dutch-peat-mead
+  file: /files/theses/loods-2019-measuring-complexity.pdf
+  slug: loods-2019-measuring-complexity
 - author: Kouwenhoven, L.
   title: Poverty distribution mapping using a random forest algorithm a case study of the Mekong river delta
   degree: BSc Capstone Amsterdam University College
@@ -979,26 +977,26 @@ theses:
   date: '2019-06-17'
   year: 2019
   supervisor: Koomen, E
-  file: /files/theses/Kouwenhoven_L.pdf
-  slug: kouwenhoven-poverty-distribution-mapping-using-a-random-forest-algorit
-- author: Gutierrez, J. G.
+  file: /files/theses/kouwenhoven-2019-poverty-distribution-mapping-using-a-random-forest.pdf
+  slug: kouwenhoven-2019-poverty-distribution-mapping-using-a-random-forest
+- author: Garcia Gutierrez, J.
   title: 'Inclusive Green Growth: The Sustainable Livelihood of the Mekong Delta in Vietnam'
   degree: BSc Capstone Amsterdam University College
   programme: auc
   date: '2019-06-17'
   year: 2019
   supervisor: Koomen, E
-  file: /files/theses/Garcia-Gutierrez_J.pdf
-  slug: gutierrez-inclusive-green-growth-the-sustainable-livelihood-of-the-mek
+  file: /files/theses/garcia-gutierrez-2019-inclusive-green-growth.pdf
+  slug: garcia-gutierrez-2019-inclusive-green-growth
 - author: Sonnenschein, J.
-  title: P lanning Sustainable Drainage Systems in existing cities in tropical climates
+  title: Planning Sustainable Drainage Systems in existing cities in tropical climates
   degree: BSc Capstone Amsterdam University College
   programme: auc
   date: '2019-01-15'
   year: 2019
   supervisor: Koomen, E
-  file: /files/theses/Capstone-final-Sonnenschein_J.pdf
-  slug: sonnenschein-p-lanning-sustainable-drainage-systems-in-existing-cities
+  file: /files/theses/sonnenschein-2019-planning-sustainable-drainage-systems-in-existing.pdf
+  slug: sonnenschein-2019-planning-sustainable-drainage-systems-in-existing
 - author: Carpaij, S.
   title: Fighting the Paradox of the Compact City An examination of the externalities involved with urban densification projects and a case study of Haven-Stad
   degree: BSc Capstone Amsterdam University College
@@ -1006,16 +1004,16 @@ theses:
   date: '2018-06-13'
   year: 2018
   supervisor: Koomen, E
-  file: /files/theses/Fighting-the-Paradox-of-the-Compact-City_SofieCarpaij.pdf
-  slug: carpaij-fighting-the-paradox-of-the-compact-city-an-examination-of-the
+  file: /files/theses/carpaij-2018-fighting-the-paradox-of-the-compact-city-an-examination.pdf
+  slug: carpaij-2018-fighting-the-paradox-of-the-compact-city-an-examination
 - author: Laubinger, F.
   title: A bottom-up analysis of household energy consumption in Amsterdam. Resolving policy barriers in the residential building sector
   degree: BSc Capstone Amsterdam University College
   programme: auc
   date: '2015-06-09'
   year: 2015
-  file: /files/theses/Thesis_2015_FLaubinger.pdf
-  slug: laubinger-a-bottom-up-analysis-of-household-energy-consumption-in-amst
+  file: /files/theses/laubinger-2015-a-bottom-up-analysis-of-household-energy-consumption.pdf
+  slug: laubinger-2015-a-bottom-up-analysis-of-household-energy-consumption
 - author: van Dissel, D.
   title: Analysing evidence-based policy measures to combat air pollution in Amsterdam; Towards compliance with EU standards in 2015
   degree: Bachelor thesis Amsterdam University College
@@ -1023,8 +1021,8 @@ theses:
   date: '2014-06-10'
   year: 2014
   supervisor: Koomen, E
-  file: /files/theses/Capstone-Dico-van-Dissel.pdf
-  slug: van-dissel-analysing-evidence-based-policy-measures-to-combat-air-poll
+  file: /files/theses/van-dissel-2014-analysing-evidence-based-policy-measures-to-combat-air.pdf
+  slug: van-dissel-2014-analysing-evidence-based-policy-measures-to-combat-air
 - author: de Vries, R.
   title: A method for determining the Socio Economic Status distribution for the case of Colombo, Sri Lanka
   degree: GI-minor research assignment
@@ -1032,7 +1030,7 @@ theses:
   date: '2019-02-07'
   year: 2019
   supervisor: Koomen, E
-  slug: de-vries-a-method-for-determining-the-socio-economic-status-distributi
+  slug: de-vries-2019-a-method-for-determining-the-socio-economic-status
 - author: Dees, N.
   title: An object based approach for classifying the Vietnamese Mekong Delta with the random forest algorithm
   degree: GI-minor research assignment
@@ -1040,7 +1038,7 @@ theses:
   date: '2019-01-10'
   year: 2019
   supervisor: Koomen, E
-  slug: dees-an-object-based-approach-for-classifying-the-vietnamese-mekong-de
+  slug: dees-2019-an-object-based-approach-for-classifying-the-vietnamese
 - author: Mosch, G.
   title: 'Informatieplicht Activiteitenbesluit Gebouwen: Meer data, minder kosten en meer verduurzaming?'
   degree: GI-minor research assignment
@@ -1048,8 +1046,8 @@ theses:
   date: '2019-01-10'
   year: 2019
   supervisor: Koomen, E
-  file: /files/theses/Informatieplicht-activiteitenbesluit-gebouwen-meer-data-minder-kosten-en-meer-verduurzaming_GuidoMosch.pdf
-  slug: mosch-informatieplicht-activiteitenbesluit-gebouwen-meer-data-minder-k
+  file: /files/theses/mosch-2019-informatieplicht-activiteitenbesluit-gebouwen.pdf
+  slug: mosch-2019-informatieplicht-activiteitenbesluit-gebouwen
 - author: Meijering, B.
   title: Onderzoek naar stedelijke verdichting in de Zuidvleugel Kunnen er wel 230.000 extra woningen worden gebouwd in de Zuidvleugel?
   degree: GI-minor research assignment
@@ -1057,8 +1055,8 @@ theses:
   date: '2018-01-23'
   year: 2018
   supervisor: Koomen, E
-  file: /files/theses/Onderzoek-naar-stedelijke-verdichting-in-de-Zuidvleugel_Blom-Meijering.pdf
-  slug: meijering-onderzoek-naar-stedelijke-verdichting-in-de-zuidvleugel-kunn
+  file: /files/theses/meijering-2018-onderzoek-naar-stedelijke-verdichting-in-de-zuidvleugel.pdf
+  slug: meijering-2018-onderzoek-naar-stedelijke-verdichting-in-de-zuidvleugel
 - author: Blum, J.
   title: Transit Oriented Development
   degree: GI-minor research assignment
@@ -1066,8 +1064,8 @@ theses:
   date: '2018-01-23'
   year: 2018
   supervisor: Koomen, E
-  file: /files/theses/TransitOrientedDevelopment_JuliaBlum.pdf
-  slug: blum-transit-oriented-development
+  file: /files/theses/blum-2018-transit-oriented-development.pdf
+  slug: blum-2018-transit-oriented-development
 - author: Lyons-Harrison, D.
   title: Accounting for Social Vulnerability in Flood Risk Assessment in Colombo, Sri Lanka
   degree: GI-minor research assignment
@@ -1075,30 +1073,30 @@ theses:
   date: '2017-04-20'
   year: 2017
   supervisor: Koomen, E
-  file: /files/theses/Accounting-for-Social-Vulnerability-in-Flood-Risk-Assessment-in-Colombo_Daniel-Lyons-Harrison.pdf
-  slug: lyons-harrison-accounting-for-social-vulnerability-in-flood-risk-asses
+  file: /files/theses/lyons-harrison-2017-accounting-for-social-vulnerability-in-flood-risk.pdf
+  slug: lyons-harrison-2017-accounting-for-social-vulnerability-in-flood-risk
 - author: van der Meulen, E.
   title: Where people vote what; Creating a model that predicts voting behaviour per neighbourhood
   degree: GI-minor research assignment
   programme: gi-minor
   date: '2017-02-23'
   year: 2017
-  file: /files/theses/Where-people-vote-what-eva-van-der-meulen.pdf
+  file: /files/theses/van-der-meulen-2017-where-people-vote-what.pdf
   attachments:
   - label: popular science article
-    file: /files/theses/GIS-en-de-politieke-partij-vd-Meulen.pdf
-  slug: van-der-meulen-where-people-vote-what-creating-a-model-that-predicts-v
+    file: /files/theses/van-der-meulen-2017-where-people-vote-what-popular-science-article.pdf
+  slug: van-der-meulen-2017-where-people-vote-what
 - author: Mulder, A.
   title: Social vulnerability to drought risk barometer 2016
   degree: GI-minor research assignment
   programme: gi-minor
   date: '2017-02-14'
   year: 2017
-  file: /files/theses/Amber-Mulder-Product-Internship-Deltares-Social-Vulnerability-to-Drought-Risk-Barometer.pdf
+  file: /files/theses/mulder-2017-social-vulnerability-to-drought-risk-barometer-2016.pdf
   attachments:
   - label: popular science article
-    file: /files/theses/Amber-Mulder-Popular-Science-Article.pdf
-  slug: mulder-social-vulnerability-to-drought-risk-barometer-2016
+    file: /files/theses/mulder-2017-social-vulnerability-to-drought-risk-barometer-2016-popular-science-article.pdf
+  slug: mulder-2017-social-vulnerability-to-drought-risk-barometer-2016
 - author: Imhoff, R.
   title: Analyzing future flood risks in Cambodia; A quantitative approach using Delft-FIAT, National
   degree: GI-minor research assignment
@@ -1106,8 +1104,8 @@ theses:
   date: '2016-02-23'
   year: 2016
   supervisor: Koomen, E
-  file: /files/theses/Analyzing-future-flood-risks-in-Cambodia_FinalVersion2.pdf
-  slug: imhoff-analyzing-future-flood-risks-in-cambodia-a-quantitative-approac
+  file: /files/theses/imhoff-2016-analyzing-future-flood-risks-in-cambodia.pdf
+  slug: imhoff-2016-analyzing-future-flood-risks-in-cambodia
 - author: Statema, M.
   title: Mapping immigration views in California, National
   degree: GI-minor research assignment
@@ -1115,8 +1113,8 @@ theses:
   date: '2016-02-15'
   year: 2016
   supervisor: Koomen, E
-  file: /files/theses/Map_immigration_views_in_California_popart_Statema_14mar2016.pdf
-  slug: statema-mapping-immigration-views-in-california-national
+  file: /files/theses/statema-2016-mapping-immigration-views-in-california-national.pdf
+  slug: statema-2016-mapping-immigration-views-in-california-national
 - author: Wagenaar, D.
   title: Using detailed elevation data for mapping hidden natural landscape features in the Amstelland region, National
   degree: GI-minor research assignment
@@ -1124,16 +1122,16 @@ theses:
   date: '2016-02-07'
   year: 2016
   supervisor: Koomen, E
-  file: /files/theses/Using-detailed-elevation-data-for-mapping-hidden-natural-landscape-features-in-the-Amstelland-region_Wagenaar.pdf
-  slug: wagenaar-using-detailed-elevation-data-for-mapping-hidden-natural-land
+  file: /files/theses/wagenaar-2016-using-detailed-elevation-data-for-mapping-hidden.pdf
+  slug: wagenaar-2016-using-detailed-elevation-data-for-mapping-hidden
 - author: Felix Nahrstedt
   title: Automated labelling of Sentinel-2 images with the help of OpenStreetMap
   degree: MSc research project Computer Sciences
   programme: other
   date: '2024-01-23'
   year: 2024
-  file: /files/theses/Automated-labelling-of-Sentinel-2-images-FelixNahrstedt_ResearchProject_ComputerScience.pdf
-  slug: felix-nahrstedt-automated-labelling-of-sentinel-2-images-with-the-help
+  file: /files/theses/nahrstedt-2024-automated-labelling-of-sentinel-2-images-with-the-help.pdf
+  slug: nahrstedt-2024-automated-labelling-of-sentinel-2-images-with-the-help
 - author: Max Celant
   title: 'The impact of density on residential property values: evidence from Dutch ‘VINEX’ locations'
   degree: MSc thesis Economics
@@ -1141,8 +1139,8 @@ theses:
   date: '2023-07-11'
   year: 2023
   supervisor: Koomen, E
-  file: /files/theses/The-Impact-of-Density-on-Residential-Property-Values.pdf
-  slug: max-celant-the-impact-of-density-on-residential-property-values-eviden
+  file: /files/theses/celant-2023-the-impact-of-density-on-residential-property-values.pdf
+  slug: celant-2023-the-impact-of-density-on-residential-property-values
 - author: Warnaar, T. D.
   title: Landscapes of the thunder dragon. Creating a typology of Bhutanese landscapes as a tool for policy-makers and researchers
   degree: MSc thesis Earth sciences
@@ -1150,8 +1148,8 @@ theses:
   date: '2018-07-10'
   year: 2018
   supervisor: Koomen, E
-  file: /files/theses/LandscapesOfTheThunderDragon_ThomasWarnaarMScThesis.pdf
-  slug: warnaar-landscapes-of-the-thunder-dragon-creating-a-typology-of-bhutan
+  file: /files/theses/warnaar-2018-landscapes-of-the-thunder-dragon.pdf
+  slug: warnaar-2018-landscapes-of-the-thunder-dragon
 - author: Lyons-Harrison, D.
   title: Operationalizing Social Inclusiveness in Infrastructure Investment Choices in the Developing World
   degree: BSc capstone University College Utrecht
@@ -1159,8 +1157,8 @@ theses:
   date: '2017-06-20'
   year: 2017
   supervisor: Koomen, E
-  file: /files/theses/Operationalizing-Social-Inclusiveness-in-Infrastructure-Investment-Choices-in-the-Developing-World_Daniel-Lyons-Harrison.pdf
-  slug: lyons-harrison-operationalizing-social-inclusiveness-in-infrastructure
+  file: /files/theses/lyons-harrison-2017-operationalizing-social-inclusiveness-in-infrastructure.pdf
+  slug: lyons-harrison-2017-operationalizing-social-inclusiveness-in-infrastructure
 - author: Nieuwboer, M.
   title: 'The Offline Influence on Search Engine Advertising: The effect of distance to stores, preference minority, and offline retail size on the online retailers’ search engine advertising effectiveness'
   degree: Master thesis Marketing
@@ -1168,7 +1166,7 @@ theses:
   date: '2016-10-14'
   year: 2016
   supervisor: Dekkers, J.E.C
-  slug: nieuwboer-the-offline-influence-on-search-engine-advertising-the-effec
+  slug: nieuwboer-2016-the-offline-influence-on-search-engine-advertising
 - author: Dinçsoy, S.
   title: A research about important determinants of spatial patterns in adoption of high involvement environmentally friendly innovations; the case of full electric vehicles
   degree: Master thesis Marketing
@@ -1176,7 +1174,7 @@ theses:
   date: '2016-08-19'
   year: 2016
   supervisor: Dekkers, J.E.C
-  slug: dincsoy-a-research-about-important-determinants-of-spatial-patterns-in
+  slug: dincsoy-2016-a-research-about-important-determinants-of-spatial
 - author: Reijnders, R.
   title: Proximity Breeds Credibility. An Online Consumer Review Perspective
   degree: Master thesis Marketing
@@ -1184,7 +1182,7 @@ theses:
   date: '2016-08-12'
   year: 2016
   supervisor: Dekkers, J.E.C
-  slug: reijnders-proximity-breeds-credibility-an-online-consumer-review-persp
+  slug: reijnders-2016-proximity-breeds-credibility
 - author: Ammerlaan, K.
   title: Shopping behavior in specialty grocery stores. How household and store characteristics influence the shopping behabior of consumers
   degree: Master thesis Marketing
@@ -1192,7 +1190,7 @@ theses:
   date: '2016-07-12'
   year: 2016
   supervisor: Dekkers, J.E.C
-  slug: ammerlaan-shopping-behavior-in-specialty-grocery-stores-how-household
+  slug: ammerlaan-2016-shopping-behavior-in-specialty-grocery-stores
 - author: Bakker, J.
   title: 'I am what I share: the effect of Snapchat geofilters on sharing likeliness and brand perception'
   degree: Master thesis Marketing
@@ -1200,20 +1198,49 @@ theses:
   date: '2016-07-08'
   year: 2016
   supervisor: Dekkers, J.E.C
-  slug: bakker-i-am-what-i-share-the-effect-of-snapchat-geofilters-on-sharing
+  slug: bakker-2016-i-am-what-i-share
 - author: Claassens, J.
   title: 'Rare Earth Export Restrictions in China: A difference-in-differences analysis'
   degree: MSc thesis STREEM
   programme: streem
   year: 2016
   supervisor: Poelhekke, S
-  file: /files/theses/claassens-msc-streem-rare-earths.pdf
-  slug: claassens-rare-earth-export-restrictions-in-china-a-difference-in-diff
+  file: /files/theses/claassens-2016-rare-earth-export-restrictions-in-china.pdf
+  slug: claassens-2016-rare-earth-export-restrictions-in-china
 - author: Claassens, J.
   title: Huizenprijsdaling in Noord-Nederland door aardgaswinning?
   degree: Bachelor thesis Earth and Economics
   programme: earth-bsc
   year: 2013
   supervisor: Mulder, P
-  file: /files/theses/claassens-bsc-huizenprijsdaling-aardgaswinning.pdf
-  slug: claassens-huizenprijsdaling-in-noord-nederland-door-aardgaswinning
+  file: /files/theses/claassens-2013-huizenprijsdaling-in-noord-nederland-door.pdf
+  slug: claassens-2013-huizenprijsdaling-in-noord-nederland-door
+- author: van Dijk, B.C.
+  title: Erop of erover; Introductie op het nieuwe waterveiligheidsbeleid
+  degree: Bachelor thesis Earth and Economics
+  programme: earth-bsc
+  year: 2014
+  file: /files/theses/van-dijk-2014-erop-of-erover.pdf
+  slug: van-dijk-2014-erop-of-erover
+- author: Jolly, C.A.G.
+  title: Ruimtegebruiksmodellen. Een studie naar de impact van wegen in relatie tot verandering in de ruimte in Suriname
+  degree: Bachelor thesis Earth and Economics
+  programme: earth-bsc
+  year: 2010
+  file: /files/theses/jolly-2010-ruimtegebruiksmodellen-een-studie-naar-de-impact.pdf
+  slug: jolly-2010-ruimtegebruiksmodellen-een-studie-naar-de-impact
+- author: Kaufholz, R.
+  title: Building Densities; A physical volume approach
+  degree: MSc thesis
+  programme: other
+  year: 2004
+  file: /files/theses/kaufholz-2004-building-densities.pdf
+  slug: kaufholz-2004-building-densities
+- author: Verhagen, S.
+  title: De optimale huisvestingslocatie van Nederland. Wanneer agglomeratievoordelen en overstromingsrisico’s tegen elkaar worden afgewogen.
+  degree: Bachelor thesis Earth and Economics
+  programme: earth-bsc
+  year: 2010
+  supervisor: Mulder, P
+  file: /files/theses/verhagen-2010-de-optimale-huisvestingslocatie-van-nederland.pdf
+  slug: verhagen-2010-de-optimale-huisvestingslocatie-van-nederland

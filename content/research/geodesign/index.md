@@ -20,7 +20,7 @@ User-friendly interfaces allow multiple users to provide input and generate real
 
 Geodesign combines the knowledge of local stakeholders (the people of the place) with contributions design professionals, Information technology and geographic sciences.
 
-Some examples (in dutch) can be found [here](/files/2021/03/Geodesign_Voorbeelden.pdf). Another nice and simple example of geodesign is shown in the movie below.
+Some examples (in dutch) can be found [here](/files/projects/geodesign-voorbeelden-2021-03-16.pdf). Another nice and simple example of geodesign is shown in the movie below.
 
 The task is to locate recycling containers in part of Amsterdam in such a way that the walking distances to these containers are minimized. The colours indicate the distance to the nearest container. The movie shows how the local expert finds the best location for five containers by moving these containers around on a touch screen.
 

@@ -26,7 +26,7 @@ Dekkers, J.E.C., [Externalities, land use planning and urban expansion](http://w
 
 Koomen, E., [Spatial analysis in support of physical planning](https://research.vu.nl/en/publications/spatial-analysis-in-support-of-physical-planning/), *Ph.D. thesis*, Vrije Universiteit, Amsterdam, 2008. ***Remarks:** This dissertation was nominated for the VU Societal Impact Award 2008. See the* *Ad Valvas of 16 October 2008, p.9.*
 
-Dias, E.S., [The added value of contextual information in natural areas: Measuring impacts of mobile environmental information](/files/2016/09/ESDias_PhD_web.pdf), Vrije Universiteit, Amsterdam, 2007.
+Dias, E.S., [The added value of contextual information in natural areas: Measuring impacts of mobile environmental information](/files/publications/dias-2007-the-added-value-of-contextual-information-in-natural.pdf), Vrije Universiteit, Amsterdam, 2007.
 
 Buurman, J.J.G., [Rural land prices, a spatial explanatory model](http://www.rivm.nl/bibliotheek/rapporten/718301001.html), *RIVM report 718301001*, Vrije Universiteit, Bilthoven/Amsterdam, 2003.
 

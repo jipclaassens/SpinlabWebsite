@@ -12,30 +12,30 @@ Practical exercises and demonstration versions of several land-use models
 
 ## Land-use change analysis
 
-<table><thead><tr><th>Exercise</th><th>Description</th><th>Downloads</th><th>Requirements</th></tr></thead><tbody><tr><td>Monitoring land-use change</td><td>This exercise makes you familiar with different datasets that can be used to assess land use change.</td><td><a href="/files/2016/09/ExerciseMonitoring.pdf">Exercise</a>
-<p><a href="/files/2016/09/DataMonitoring.zip">Data</a></p></td><td>Web browser<br/>
-Additionally you can use IDRISI (not essential)</td></tr><tr><td>Von Thunen model</td><td>This exercise explains land use patterns using the model of Von Thunen.</td><td><a href="/files/2016/09/ExerciseVonThunen.pdf">Exercise</a>
-<p><a href="/files/2016/09/THUNEN.zip">Software</a><br/>
-<a href="/files/2016/09/DataVonThunen.zip">Data</a></p></td><td>Software provided</td></tr></tbody></table>
+<table><thead><tr><th>Exercise</th><th>Description</th><th>Downloads</th><th>Requirements</th></tr></thead><tbody><tr><td>Monitoring land-use change</td><td>This exercise makes you familiar with different datasets that can be used to assess land use change.</td><td><a href="/files/teaching/modelling-land-use-change/exercise-monitoring-land-use-change-2006-12-18.pdf">Exercise</a>
+<p><a href="/files/teaching/modelling-land-use-change/data-monitoring-land-use-change-2005-03-10.zip">Data</a></p></td><td>Web browser<br/>
+Additionally you can use IDRISI (not essential)</td></tr><tr><td>Von Thunen model</td><td>This exercise explains land use patterns using the model of Von Thunen.</td><td><a href="/files/teaching/modelling-land-use-change/exercise-von-thunen-2006-11-27.pdf">Exercise</a>
+<p><a href="/files/teaching/modelling-land-use-change/software-von-thunen-2006-11-27.zip">Software</a><br/>
+<a href="/files/teaching/modelling-land-use-change/data-von-thunen-2005-04-07.zip">Data</a></p></td><td>Software provided</td></tr></tbody></table>
 
 ## Modelling traditions
 
 <table><thead><tr><th>Exercise</th><th>Description</th><th>Downloads</th><th>Requirements</th></tr></thead><tbody><tr><td>Cellular Automata:<br/>
-Game of Life</td><td>This is the most famous Cellular Automata model known in the world called Conway’s Game of Life.</td><td><a href="/files/2016/09/ExerciseConway.pdf">Exercise</a>
-<p><a href="/files/2016/09/SoftwareGameOfLife.zip">Software</a></p></td><td>Software provided</td></tr><tr><td>Multi-agent approach:<br/>
+Game of Life</td><td>This is the most famous Cellular Automata model known in the world called Conway’s Game of Life.</td><td><a href="/files/teaching/modelling-land-use-change/exercise-game-of-life-2006-12-01.pdf">Exercise</a>
+<p><a href="/files/teaching/modelling-land-use-change/software-game-of-life-2006-12-01.zip">Software</a></p></td><td>Software provided</td></tr><tr><td>Multi-agent approach:<br/>
 Starlogo</td><td>is a multi-agent simulation program.<br/>
-On the websites the newest versions of <a href="https://education.mit.edu/project/starlogo-tng/">Starlogo</a> and <a href="http://ccl.northwestern.edu/netlogo/">Netlogo</a> can be found.</td><td><a href="/files/2016/09/ExerciseStarlogo.pdf">Exercise</a>
-<p><a href="/files/2016/09/SoftwareStarlogo.zip">Software</a></p>
-<p><a href="/files/2016/09/TutorialStarlogo.htm">Tutorial</a></p></td><td>Software provided</td></tr></tbody></table>
+On the websites the newest versions of <a href="https://education.mit.edu/project/starlogo-tng/">Starlogo</a> and <a href="http://ccl.northwestern.edu/netlogo/">Netlogo</a> can be found.</td><td><a href="/files/teaching/modelling-land-use-change/exercise-starlogo-2006-02-11.pdf">Exercise</a>
+<p><a href="/files/teaching/modelling-land-use-change/software-starlogo-2006-06-07.zip">Software</a></p>
+<p><a href="/files/teaching/modelling-land-use-change/tutorial-starlogo-2006-02-11.htm">Tutorial</a></p></td><td>Software provided</td></tr></tbody></table>
 
 ## Land-use models
 
 <table><thead><tr><th>Exercise</th><th>Description</th><th>Downloads</th><th>Requirements</th></tr></thead><tbody><tr><td>CLUE-s Randstad</td><td>This application of the CLUE-s model deals with the Randstad area in the Netherlands.<br/>
-An extensive set of exercises is available dealing with, amongst others: the user interface, testing model options, Spatial policies, Conversion elasticity and sequences, validation and creating new applications and scenarios.</td><td><a href="/files/2016/09/ExerciseClueRandstad.pdf">Exercise</a>
-<p><a href="/files/2016/09/SoftwareClueRandstad.zip">Software</a></p></td><td><p>CLUE-s software provided.<br/>
+An extensive set of exercises is available dealing with, amongst others: the user interface, testing model options, Spatial policies, Conversion elasticity and sequences, validation and creating new applications and scenarios.</td><td><a href="/files/teaching/modelling-land-use-change/exercise-clue-randstad-2006-08-07.pdf">Exercise</a>
+<p><a href="/files/teaching/modelling-land-use-change/software-clue-randstad-2006-08-07.zip">Software</a></p></td><td><p>CLUE-s software provided.<br/>
 Additionally you can use: Arcview + Spatial Analyst Extension + SPSS </p></td></tr><tr><td>CLUE-s demo</td><td>A demonstration version of the CLUE-s model can be downloaded from: <a href="http://www.ivm.vu.nl/en/Organisation/departments/spatial-analysis-decision-support/Clue/">the Institute for Environmental Studies of VU University (IVM)</a>. The CD includes the 2006 version of the model and several exercises that help you get familiar with the interface, simulate your own scenario, define spatial policies and help you with doing the necessary statistical analysis.<br/>
-Updates and additional information are available on the CLUE website.</td><td><a href="/files/2016/09/ExerciseClues.pdf">Exercise</a>
-<p><a href="/files/2016/09/SoftwareClues.zip">Software</a></p></td><td><p>CLUE-s software provided.<br/>
+Updates and additional information are available on the CLUE website.</td><td><a href="/files/teaching/modelling-land-use-change/exercise-clue-s-2004-09-08.pdf">Exercise</a>
+<p><a href="/files/teaching/modelling-land-use-change/software-clue-s-2004-09-14.zip">Software</a></p></td><td><p>CLUE-s software provided.<br/>
 Additionally you can use: Arcview + Spatial Analyst Extension + SPSS</p></td></tr><tr><td>Land Use Scanner</td><td>The Land Use Scanner exercise contains a short description of the model, an introduction<br/>
 to its main functions and an assignment that asks you to simulate future land<br/>
 use in the Netherlands according to scenario conditions.<br/>
@@ -43,13 +43,13 @@ Before you start with the exercise, first unzip the attached file and install th
 Subsequently, start the installed GeoDMS software. A message box with the text: <i>file not found</i> is presented.<br/>
 Browse to the cfg subfolder of the unzipped configuration and then select the demo.dms file and click Open. The Student Edition configuration is now loaded.<br/>
 If you would like to have more information about the GeoDMS software and the Land Use Scanner model, please visit the <a href="http://www.objectvision.nl/geodms">website of the developers</a> for installation notes,<br/>
-a GeoDMS user guide and presentations of results.</td><td><a href="/files/2016/09/LUS_assignment_19April2016.pdf">Exercise</a>
-<p><a href="/files/2016/09/LUS_500m_June2016.zip">Software, Data and Configuration</a></p></td><td>Software provided
+a GeoDMS user guide and presentations of results.</td><td><a href="/files/teaching/modelling-land-use-change/exercise-land-use-scanner-2016-04-19.pdf">Exercise</a>
+<p><a href="/files/teaching/modelling-land-use-change/land-use-scanner-500m-software-data-configuration-2016-06-09.zip">Software, Data and Configuration</a></p></td><td>Software provided
 <p>The model developers kindly ask you to<br/>
 <a href="https://web.archive.org/web/20180315231513/http://www.objectvision.nl:80/demos/download-page">register</a></p>
 <p>before using the software</p></td></tr><tr><td>SimLucia</td><td>The SimLucia Policy Support System is developed with the METRONAMICA framework and similar to the Environment Explorer and the MOLAND and Murbandy models. It uses a Cellular Automata approach for simulating land-use changes.<br/>
 The latest version of the software and manuals can be downloaded from the developers’ website: <a href="http://www.riks.nl/projects/SimLucia">www.riks.nl/projects/simlucia</a>.<br/>
-More information about the latest models developed with the METRONAMICA framework can be found on <a href="https://web.archive.org/web/20171022195630/http://www.riks.nl:80/products/Metronamica">www.riks.nl/products/etronamica</a>.</td><td><a href="/files/2016/09/ExerciseSimLucia.pdf">Exercise</a>
+More information about the latest models developed with the METRONAMICA framework can be found on <a href="https://web.archive.org/web/20171022195630/http://www.riks.nl:80/products/Metronamica">www.riks.nl/products/etronamica</a>.</td><td><a href="/files/teaching/modelling-land-use-change/exercise-simlucia-2004-01-30.pdf">Exercise</a>
 <p><a href="http://www.riks.nl/projects/SimLucia">Software</a></p></td><td>Software provided
 <p>The model developers kindly ask you to <a href="https://web.archive.org/web/20100128020145/http://www.riks.nl:80/download/aHR0cDovL3d3dy5yaWtzLm5sL1Jpa3NHZW8vcHJvamVjdHMvU2ltTHVjaWEvU2ltbHVjaWEuemlw">register</a><br/>
 before using the software</p></td></tr></tbody></table>

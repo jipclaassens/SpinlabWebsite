@@ -7,7 +7,7 @@ archived: true
 
 Reports are published on a wide variety of topics. They are often related to research projects in which SPINLab employees participate, but can also be short technical publications on, for instance, new tools that SPINLab has released. This page contains a list of all SPINlab reports **until 2016**. Newer output for individual authors can be found at <https://research.vu.nl/>
 
-Dekkers, J.E.C. and Van der Beek, M., [Geocoding with the GeoDMS using BAG data. Making Snapshots from and Geocoding against the Dutch Basic Administration of Addresses and Buildings (BAG)](/files/2016/09/Manual_Geocoding-using-the-BAG_v05.pdf), Vrije Universiteit/Object Vision B.V., Amsterdam, 2016.
+Dekkers, J.E.C. and Van der Beek, M., [Geocoding with the GeoDMS using BAG data. Making Snapshots from and Geocoding against the Dutch Basic Administration of Addresses and Buildings (BAG)](/files/publications/dekkers-2016-geocoding-with-the-geodms-using-bag-data.pdf), Vrije Universiteit/Object Vision B.V., Amsterdam, 2016.
 
 Sposito, V., Diogo, V., Faggian, R., Romijn, H., Planning for blue-green infrastructure development at the regional level: A case study in the Gippsland Region, Victoria, Australia, *Internal report. University of Melbourne, VU Amsterdam, Gippsland Local Government Network*, Melbourne, Australia, 2014.
 
@@ -81,7 +81,7 @@ van den Bergh, D., Berendsen, R., Gerritsen, M., Mes, R., van Nistelrooij, H., K
 
 van Leeuwen, E.S., Koetse, M., Koomen, E., Rietveld, P., [Spatial economic research on climate change and adaptation; Literature review for ‘Knowledge for Climate’](https://research.vu.nl/en/publications/spatial-economic-research-on-climate-change-and-adaptation-litera/), *KfC report number KfC 002/09*, Vrije Universiteit, Amsterdam, 2009.
 
-Aerts, J., Sprong, T., Bannink, B., Bessembinder, J., Koomen, E., Jacobs-Crisioni, C.G.W., van der Hoeven, E.M.M.M., Huitema, D., [van ’t Klooster, S., Veraart, J., Walraven, A., Jonkman, S.N., Maaskant, B., Bouwer, L.M., De Bruijn, K., Oosterveld, E., Schuurman, H., Peters, K., Ottevanger, W., Immerzeel, W., Droogers, P., Kwadijk, J., Kind, J., Voogt, L., Van der Klis, H., Dellink, R., Affolter, F., Bubeck, Ph., van der Meulen, M., de Lange, G., Bregman, B., van den Brink, H., Buiteveld, H., Drijfhout, S., Feijt, A., Hazeleger, W., van den Hurk, B., Katsman, C., Kattenberg, A., Lenderink, G., Meijgaard, E., Siegmund, P., de Wit, M., Naples, M., Aandacht voor Veiligheid, Leven met Water, Klimaat voor Ruimte, DG Water](/files/2016/09/Aandacht_Voor_Veiligheid_rapport_010908.pdf), *Rapportnummer: 009/2008*, 2008.
+Aerts, J., Sprong, T., Bannink, B., Bessembinder, J., Koomen, E., Jacobs-Crisioni, C.G.W., van der Hoeven, E.M.M.M., Huitema, D., [van ’t Klooster, S., Veraart, J., Walraven, A., Jonkman, S.N., Maaskant, B., Bouwer, L.M., De Bruijn, K., Oosterveld, E., Schuurman, H., Peters, K., Ottevanger, W., Immerzeel, W., Droogers, P., Kwadijk, J., Kind, J., Voogt, L., Van der Klis, H., Dellink, R., Affolter, F., Bubeck, Ph., van der Meulen, M., de Lange, G., Bregman, B., van den Brink, H., Buiteveld, H., Drijfhout, S., Feijt, A., Hazeleger, W., van den Hurk, B., Katsman, C., Kattenberg, A., Lenderink, G., Meijgaard, E., Siegmund, P., de Wit, M., Naples, M., Aandacht voor Veiligheid, Leven met Water, Klimaat voor Ruimte, DG Water](/files/publications/aerts-2008-aandacht-voor-veiligheid.pdf), *Rapportnummer: 009/2008*, 2008.
 
 Jacobs-Crisioni, C.G.W., Koomen, E., [Globale ruimtelijke evaluatie van veiligheidsstrategieën](https://research.vu.nl/en/publications/globale-ruimtelijke-evaluatie-van-veiligheidsstrategieen-achtergr/). Achtergrond rapport voor de studie Aandacht voor Veiligheid, Vrije Universiteit, Amsterdam, 2008.
 
@@ -97,7 +97,7 @@ Riedijk, A., Brooijmans, P., Jacobs-Crisioni, C.G.W., Lassche, M.R., Verzandvoor
 
 Riedijk, A., Scholten, H.J., Lassche, M.R., Jacobs-Crisioni, C.G.W., GEO-INFORMATIE: IN LIJN DER VERWACHTING, Een evaluatie van gekoppelde processen, informatie en netwerken in de rampenoefening Warroom, Rijkswaterstaat, Amsterdam, 2008.
 
-van der Hoeven, E.M.M.M., Koomen, E., Jacobs-Crisioni, C.G.W., [Beknopte beschrijving van sociaaleconomische scenario’s voor het jaar 2100](/files/2016/09/VdHoeven_Koomen_Jacobs_Storylines_2100.pdf), *Studie in het kader van het project Aandacht voor Veiligheid*, Vrije Universiteit, Amsterdam, 2008.
+van der Hoeven, E.M.M.M., Koomen, E., Jacobs-Crisioni, C.G.W., [Beknopte beschrijving van sociaaleconomische scenario’s voor het jaar 2100](/files/publications/van-der-hoeven-2008-beknopte-beschrijving-van-sociaaleconomische-scenarios.pdf), *Studie in het kader van het project Aandacht voor Veiligheid*, Vrije Universiteit, Amsterdam, 2008.
 
 Arezza, A., Paskaleva, K., Wolf, E., Riganti, P., Koomen, E., Mitsche, N., [Report on ISAAC user requirements for e-services and architecture](https://research.vu.nl/en/publications/report-on-isaac-user-requirements-for-e-services-and-architecture/), *ISAAC project report, Deliverable 2.1*, 2007.
 
@@ -133,7 +133,7 @@ Wentzel, P., Gommer, L., Molendijk, M.A., de Bruin, S., van der Grint, L., van L
 
 Borsboom-van Beurden, J.A.M., Boersma, W.T., Bouwman, A.A., Crommentuijn, L.E.M., Dekkers, J.E.C., Koomen, E., [Ruimtelijke Beelden – Visualisatie van een veranderd Nederland in 2030](/files/2016/09/NCR_10012005_RB.jpg), *RIVM rapport*, *550016003*, Bilthoven, 2005.***Remarks:*** *There are two links: one to the report (RIVM) and one to a newspaper article related to the report (the pdf-link)*
 
-Dekkers, J.E.C., [Grondprijzen, geschiktheidskaarten en instelling van parameters in het ruimtegebruiksimulatiemodel Ruimtescanner – Technisch achtergrondrapport bij het Project Ruimtelijke Beelden](/files/2016/09/550016005.pdf), *MNP rapport*, *550016005*, Bilthoven, 2005.
+Dekkers, J.E.C., [Grondprijzen, geschiktheidskaarten en instelling van parameters in het ruimtegebruiksimulatiemodel Ruimtescanner – Technisch achtergrondrapport bij het Project Ruimtelijke Beelden](/files/publications/dekkers-2005-grondprijzen-geschiktheidskaarten-en-instelling.pdf), *MNP rapport*, *550016005*, Bilthoven, 2005.
 
 Lammers, G.W., van Hinsberg, A., Loonen, W., Reijnen, M.J.S.M., Sanders, M.E., Optimalisatie Ecologische Hoofdstructuur, *RIVM rapport*, *408768003*, Bilthoven, 2005.
 
@@ -169,7 +169,7 @@ Vullings, W., Nieuwenhuis, G., van de Velde, R.J., Toekomstverkenning geo-inform
 
 Dekkers, J.E.C., Onderzoeksrapport voor AquaMobile – Het ontsluiten van locatiegebonden informatie op mobiele apparaten voor de watersport (pleziervaart), *Vrije Universiteit*, Amsterdam, 2001.
 
-Schotten, C.G.J., Heunks, C., Wagtendonk, A.J., Buurman, J.J.G., de Zeeuw, C.J., Kramer, H., Boersma, W.T., [Simulating Europe in the 21th century](/files/2016/09/FINAL_SIMRAP_BCRS.pdf), *NRSP-2 report 00-22*, Delft, 2001.
+Schotten, C.G.J., Heunks, C., Wagtendonk, A.J., Buurman, J.J.G., de Zeeuw, C.J., Kramer, H., Boersma, W.T., [Simulating Europe in the 21th century](/files/publications/schotten-2001-simulating-europe-in-the-21th-century.pdf), *NRSP-2 report 00-22*, Delft, 2001.
 
 Koomen, E., Neijsen, G.W., Nederland driedimensionaal. Inventarisatie van behoefte en beschikbaarheid van geografische gegevens van onder en boven het maaiveld, *Rijkswaterstaat Meetkundige Dienst*, 2000.
 
@@ -183,11 +183,11 @@ Hoogland, T., van de Velde, R.J., Kamphuis, H.W., Duurzaam ruimtegebruik in het 
 
 Koomen, E., Appelman, K., Gosse, J., van Ingen, W., GIS voor planstudies, handreiking voor het (laten) toepassen van Geografische Informatiesystemen in trajectstudie en milieueffectrapportage, *Rijkswaterstaat Meetkundige Dienst*, 1997.
 
-Schotten, C.G.J., Boersma, W.T., Groen, J., [van de Velde, R.J., Simulatie van de ruimtelijke perspectieven 2030](/files/2016/09/rp2030nl.pdf), *RIVM rapport*, *711901004*, Bilthoven, 1997.
+Schotten, C.G.J., Boersma, W.T., Groen, J., [van de Velde, R.J., Simulatie van de ruimtelijke perspectieven 2030](/files/publications/schotten-1997-simulatie-van-de-ruimtelijke-perspectieven-2030.pdf), *RIVM rapport*, *711901004*, Bilthoven, 1997.
 
-Schotten, C.G.J., [van de Velde, R.J., Scholten, H.J., Boersma, W.T., Hilferink, M., Ransijn, M., Rietveld, P., Zut, R., De Ruimtescanner, geïntegreerd ruimtelijk informatiesysteem voor de simulatie van toekomstig ruimtegebruik](/files/2016/09/711901002.pdf), *RIVM rapport*, *711901002*, Bilthoven, 1997.
+Schotten, C.G.J., [van de Velde, R.J., Scholten, H.J., Boersma, W.T., Hilferink, M., Ransijn, M., Rietveld, P., Zut, R., De Ruimtescanner, geïntegreerd ruimtelijk informatiesysteem voor de simulatie van toekomstig ruimtegebruik](/files/publications/schotten-1997-de-ruimtescanner-geintegreerd-ruimtelijk.pdf), *RIVM rapport*, *711901002*, Bilthoven, 1997.
 
-[van de Velde, R.J., Schotten, C.G.J., van de Waals, J.F.M., Boersma, W.T., Oude Munnik, J.M., Ransijn, M., De Ruimteclaims en ruimtelijke ontwikkelingen in de zoekgebieden voor de toekomstige nationale luchtvaartinfrastructuur (TNLI); Quick scan met Ruimtescanner, *RIVM rapport*, *711901024*, Bilthoven, 1997.](/files/2016/09/tnli.pdf)
+[van de Velde, R.J., Schotten, C.G.J., van de Waals, J.F.M., Boersma, W.T., Oude Munnik, J.M., Ransijn, M., De Ruimteclaims en ruimtelijke ontwikkelingen in de zoekgebieden voor de toekomstige nationale luchtvaartinfrastructuur (TNLI); Quick scan met Ruimtescanner, *RIVM rapport*, *711901024*, Bilthoven, 1997.](/files/publications/van-de-velde-1997-de-ruimteclaims-en-ruimtelijke-ontwikkelingen.pdf)
 
 Beinat, E., van den Berg, R., EUPHIDS, a decision support system for the admission of pesticides, *RIVM report*, *712405002*, Bilthoven, 1996.
 

@@ -43,17 +43,17 @@ Koomen, E., Borsboom-van Beurden, J., *Land-use modelling in planning practice*,
 
 Koomen, E., Hilferink, M., Borsboom-van Beurden, J., [Introducing Land Use Scanner](http://link.springer.com/chapter/10.1007/978-94-007-1822-7_1). Chapter 1, in: Koomen, E., Borsboom-van Beurden, J. (eds.), *Land-use modelling in planning practice. GeoJournal Library Vol. 101*, Springer, Dordrecht, 2011.
 
-Koomen, E., Rietveld, P., Dekkers, J.E.C., [Towards an integrated approach for incorporating socio-economic and biophysical processes in local scale land-use modelling, Abstract European Regional Science Conference, Barcelona, Spain, 30 August – 3 September](/files/2016/09/ERSA2011_abstract_Koomen-Rietveld-Dekkers.pdf), 2011.
+Koomen, E., Rietveld, P., Dekkers, J.E.C., [Towards an integrated approach for incorporating socio-economic and biophysical processes in local scale land-use modelling, Abstract European Regional Science Conference, Barcelona, Spain, 30 August – 3 September](/files/publications/koomen-2011-towards-an-integrated-approach-for-incorporating-socio.pdf), 2011.
 
-Koomen, E., Rijken, B., Zondag, B., [Simulating residential land-use density, Paper presented at the Complex City Workshop](/files/2016/09/simulating_residential_land_use_density_draft_paper_complex_city_workshop.pdf), Amsterdam, the Netherlands, 5-6 December, 2011.
+Koomen, E., Rijken, B., Zondag, B., [Simulating residential land-use density, Paper presented at the Complex City Workshop](/files/publications/koomen-2011-simulating-residential-land-use-density.pdf), Amsterdam, the Netherlands, 5-6 December, 2011.
 
 Koekoek, A., Koomen, E., Loonen, W., van Dijk, J., [Simulation of future land use for developing a regional spatial strategy; the case of the Province of Overijssel](http://link.springer.com/chapter/10.1007/978-94-007-1822-7_7). Chapter 7, in: Koomen, E., Borsboom-van Beurden, J. (eds.), *Land-use modelling in planning practice. GeoJournal Library Vol. 101*, Springer, Dordrecht, 2011.
 
 Jacobs-Crisioni, C.G.W., Koomen, E., Bouwman, A., van den Burg, A., [Lessons learned from using land-use simulation in regional planning](http://link.springer.com/chapter/10.1007/978-94-007-1822-7_8). Chapter 8, in: Koomen, E., Borsboom-van Beurden, J. (eds.), *Land-use modelling in planning practice. GeoJournal Library Vol. 101*, Springer, Dordrecht, 2011.
 
-Jacobs-Crisioni, C.G.W., [De drijvende kracht van mobiliteit, Spinlab Research Memorandum SL-09](/files/2016/09/SL-09_DrijvendeKrachten_mobiliteit_def_v2.pdf), Vrije Universiteit, Amsterdam, 2011.
+Jacobs-Crisioni, C.G.W., [De drijvende kracht van mobiliteit, Spinlab Research Memorandum SL-09](/files/publications/jacobs-crisioni-2011-de-drijvende-kracht-van-mobiliteit.pdf), Vrije Universiteit, Amsterdam, 2011.
 
-Jacobs-Crisioni, C.G.W., [Integration of present and future accessibility levels as spatially continuous utility factors in Land Use Scanner, Spinlab Research Memorandum SL-10](/files/2016/09/SL-10_Integration_of_presentandfuture_accessibility_levels_v3.pdf), Vrije Universiteit, Amsterdam, 2011.
+Jacobs-Crisioni, C.G.W., [Integration of present and future accessibility levels as spatially continuous utility factors in Land Use Scanner, Spinlab Research Memorandum SL-10](/files/publications/jacobs-crisioni-2011-integration-of-present-and-future-accessibility-levels.pdf), Vrije Universiteit, Amsterdam, 2011.
 
 Dekkers, J.E.C., Rietveld, P., [Explaining land-use transition in a segmented land market; potential input for Land Use Scanner](http://link.springer.com/chapter/10.1007/978-94-007-1822-7_9). Chapter 9, in: Koomen, E., Borsboom-van Beurden, J. (eds.), *Land-use modelling in planning practice. GeoJournal Library Vol. 101*, Springer, Dordrecht, 2011.
 
@@ -72,24 +72,24 @@ Koomen, E., [De evaluatie van landschap in ruimtegebruiksimulatie, Spinlab Resea
 
 Bubeck, P., Koomen, E., [The use of quantitative evaluation measures in land-use change projections](https://research.vu.nl/en/publications/the-use-of-quantitative-evaluation-measures-in-land-use-change-pr/). An inventory of indicators available in the Land Use Scanner, Spinlab Research Memorandum SL-07, Amsterdam, 2008.
 
-Aerts, J., Sprong, T., Bannink, B., Bessembinder, J., Koomen, E., Jacobs-Crisioni, C.G.W., van der Hoeven, E.M.M.M., Huitema, D., [van ’t Klooster, S., Veraart, J., Walraven, A., Jonkman, S.N., Maaskant, B., Bouwer, L.M., De Bruijn, K., Oosterveld, E., Schuurman, H., Peters, K., Ottevanger, W., Immerzeel, W., Droogers, P., Kwadijk, J., Kind, J., Voogt, L., Van der Klis, H., Dellink, R., Affolter, F., Bubeck, Ph., van der Meulen, M., de Lange, G., Bregman, B., van den Brink, H., Buiteveld, H., Drijfhout, S., Feijt, A., Hazeleger, W., van den Hurk, B., Katsman, C., Kattenberg, A., Lenderink, G., Meijgaard, E., Siegmund, P., de Wit, M., Naples, M., Aandacht voor Veiligheid, Leven met Water, Klimaat voor Ruimte, DG Water](/files/2016/09/Aandacht_Voor_Veiligheid_rapport_010908.pdf), *Rapportnummer: 009/2008*, 2008.
+Aerts, J., Sprong, T., Bannink, B., Bessembinder, J., Koomen, E., Jacobs-Crisioni, C.G.W., van der Hoeven, E.M.M.M., Huitema, D., [van ’t Klooster, S., Veraart, J., Walraven, A., Jonkman, S.N., Maaskant, B., Bouwer, L.M., De Bruijn, K., Oosterveld, E., Schuurman, H., Peters, K., Ottevanger, W., Immerzeel, W., Droogers, P., Kwadijk, J., Kind, J., Voogt, L., Van der Klis, H., Dellink, R., Affolter, F., Bubeck, Ph., van der Meulen, M., de Lange, G., Bregman, B., van den Brink, H., Buiteveld, H., Drijfhout, S., Feijt, A., Hazeleger, W., van den Hurk, B., Katsman, C., Kattenberg, A., Lenderink, G., Meijgaard, E., Siegmund, P., de Wit, M., Naples, M., Aandacht voor Veiligheid, Leven met Water, Klimaat voor Ruimte, DG Water](/files/publications/aerts-2008-aandacht-voor-veiligheid.pdf), *Rapportnummer: 009/2008*, 2008.
 
 Rodríguez, J., Omtzigt, A.Q.A., Koomen, E., de Blois, F.S., [3D Visualisations in simulations of future land use: exploring the possibilities of new, standard visualisation tools](https://research.vu.nl/en/publications/3d-visualisations-in-simulations-of-future-land-use-exploring-the/). Paper presented at the Joint Workshop on Visualization and Exploration of Geospatial Data, ISPRS/ICA/DGfK, in: ISPRS/ICA/DGfK 2007, Stuttgart, Germany, 27-29 June, 2007.
 
-Loonen, W., Koomen, E., Kuijpers-Linde, M., [Calibrating and validating the Land Use Scanner algorithms](/files/2016/09/Cali_Vali_LUS_ECTQG07.pdf), in: *paper presented at the 15TH European Colloquium on Theoretical and Quantitative Geography*, ECTQG 2007, Montreux, Switzerland, 7-11 September, 2007.
+Loonen, W., Koomen, E., Kuijpers-Linde, M., [Calibrating and validating the Land Use Scanner algorithms](/files/publications/loonen-2007-calibrating-and-validating-the-land-use-scanner.pdf), in: *paper presented at the 15TH European Colloquium on Theoretical and Quantitative Geography*, ECTQG 2007, Montreux, Switzerland, 7-11 September, 2007.
 
 Loonen, W., Koomen, E., Verburg, P., Kuijpers-Linde, M., Land Use MOdeling System (LUMOS): A Toolbox for Land Use Modeling. Definitiestudie, Spinlab Research Memorandum SL-03, Amsterdam, 2006.
 
 Dekkers, J.E.C., Koomen, E., [De rol van sectorale inputmodellen in ruimtegebruiksimulatie: Onderzoek naar de modellenketen voor de LUMOS toolbox, Spinlab Research Memorandum SL-05](https://research.vu.nl/en/publications/de-rol-van-sectorale-inputmodellen-in-ruimtegebruiksimulatie-onde/), Amsterdam, 2006.
 
-Dekkers, J.E.C., [Grondprijzen, geschiktheidskaarten en instelling van parameters in het ruimtegebruiksimulatiemodel Ruimtescanner – Technisch achtergrondrapport bij het Project Ruimtelijke Beelden](/files/2016/09/550016005.pdf), *MNP rapport*, *550016005*, Bilthoven, 2005.
+Dekkers, J.E.C., [Grondprijzen, geschiktheidskaarten en instelling van parameters in het ruimtegebruiksimulatiemodel Ruimtescanner – Technisch achtergrondrapport bij het Project Ruimtelijke Beelden](/files/publications/dekkers-2005-grondprijzen-geschiktheidskaarten-en-instelling.pdf), *MNP rapport*, *550016005*, Bilthoven, 2005.
 
 Rietveld, P., Koomen, E., De “discrete choice” theorie voor ruimtegebruikmodellering, de economische achtergrond van de Ruimtescanner, in: *verslag Lumos symposium, Thema: Landgebruiksmodellering voor beleidsondersteuning*, Lumos symposium, Bilthoven, 18 February, 2004.
 
 [Koomen, E., De Ruimtescanner verkend; kwaliteitsaspecten van het informatiesysteem Ruimtescanner, Spinlab Research Memorandum SL-01/Ruimtelijk Planbureau, Amsterdam/Den Haag, 2002.](https://research.vu.nl/en/publications/de-ruimtescanner-verkend-kwaliteitsaspecten-van-het-informatiesys/)
 Remarks: An indepth discussion of data quality and model issues of the Land Use Scanner
 
-[Scholten, H.J., van de Velde, R.J., Borsboom-van Beurden, J.A.M., *Ruimtescanner: informatiesysteem voor de lange termijn verkenning van ruimtegebruik*, Nederlandse Geografische Studies, Utrecht/Amsterdam, 2001.](/files/2016/09/NGSDEFINITIEVEVERSIE_AANGEPAST.pdf)
+[Scholten, H.J., van de Velde, R.J., Borsboom-van Beurden, J.A.M., *Ruimtescanner: informatiesysteem voor de lange termijn verkenning van ruimtegebruik*, Nederlandse Geografische Studies, Utrecht/Amsterdam, 2001.](/files/publications/scholten-2001-ruimtescanner-informatiesysteem-voor-de-lange-termijn.pdf)
 Remarks: Comprehensive description of the Land Use Scanner information system, early validation and calibration efforts, the first practical applications and theoretical backgrounds
 
 Hilferink, M., Rietveld, P., Land Use Scanner: an integrated GIS-based model for long term projections of land use in urban and rural areas, *Journal of Geographical Systems*, 1 (2), pp.155-177, 1999.
@@ -98,7 +98,7 @@ Remarks: This paper describes the structure of the Land Use Scanner, with emphas
 [Hilferink, M., Rietveld, P., Land Use Scanner: an integrated GIS-based model for long term projections of land use in urban and rural areas, Tinbergen Institute Discussion Paper, Amsterdam/Rotterdam, 1998.](https://doi.org/10.1007/978-3-642-21928-3_5)
 Remarks: This paper describes the structure of the Land Use Scanner, with emphasis on its mathematical formulation.
 
-Schotten, C.G.J., [van de Velde, R.J., Scholten, H.J., Boersma, W.T., Hilferink, M., Ransijn, M., Rietveld, P., Zut, R., De Ruimtescanner, geïntegreerd ruimtelijk informatiesysteem voor de simulatie van toekomstig ruimtegebruik](/files/2016/09/711901002.pdf), *RIVM rapport*, *711901002*, Bilthoven, 1997.
+Schotten, C.G.J., [van de Velde, R.J., Scholten, H.J., Boersma, W.T., Hilferink, M., Ransijn, M., Rietveld, P., Zut, R., De Ruimtescanner, geïntegreerd ruimtelijk informatiesysteem voor de simulatie van toekomstig ruimtegebruik](/files/publications/schotten-1997-de-ruimtescanner-geintegreerd-ruimtelijk.pdf), *RIVM rapport*, *711901002*, Bilthoven, 1997.
 
 ## Dutch Applications {: #NL }
 
@@ -110,20 +110,20 @@ Claassens, J., Koomen, E., & Rijken, B. C., [Actualisering landgebruiksimulatie 
 
 Koomen, E., Diogo, V. (2017) [Assessing potential future urban heat island patterns following climate scenarios, socio-economic developments and spatial planning strategies](https://doi.org/10.1007/s11027-015-9646-z). Mitigation and Adaptation Strategies for Global Change 22 (2): 287-306
 
-Rijken, B., Bemmel, B. van, Koomen, E., [Sink or swim: exploring the social cost and benefits of water management policies in delta regions in the context of climate change](/files/2016/09/Sink_or_Swim_ERSA2015.pdf), *Abstract and presentation at the 55th ERSA congress, 25-28 August 2015, Lisbon, Portugal.* 2015.
+Rijken, B., Bemmel, B. van, Koomen, E., [Sink or swim: exploring the social cost and benefits of water management policies in delta regions in the context of climate change](/files/publications/rijken-2015-sink-or-swim.pdf), *Abstract and presentation at the 55th ERSA congress, 25-28 August 2015, Lisbon, Portugal.* 2015.
 
 Koomen, E., Diogo, V., Dekkers, J.E.C., Rietveld P., [A utility-based suitability framework for integrated local-scale land-use modelling](https://doi.org/10.1016/j.compenvurbsys.2014.10.002), *Computers, Environment and Urban Systems*, 50, pp.1-14, 2015.
 
-Diogo, V., Koomen, E., [Integrating utility-based land-use simulation and local cost-benefit analysis tools to support climate change adaptation and regional development strategies](/files/2016/09/Integrating_utility-based_land-use_simulation_and_local_cost-benefit_analysis_tools_to_support_climate_change_adaptation_BSDS2015.pdf), *Abstract and presentation at the Brussels Sustainable Development Summit (BSDS), October 19-20 2015, Brussels, Belgium.* 2015.
+Diogo, V., Koomen, E., [Integrating utility-based land-use simulation and local cost-benefit analysis tools to support climate change adaptation and regional development strategies](/files/publications/diogo-2015-integrating-utility-based-land-use-simulation-and-local.pdf), *Abstract and presentation at the Brussels Sustainable Development Summit (BSDS), October 19-20 2015, Brussels, Belgium.* 2015.
 
-[van Dijk, B.C., *Erop of erover; Introductie op het nieuwe waterveiligheidsbeleid*, *Bachelor thesis Earth and Economics*, VU University, Amsterdam, 2014.](/files/2016/09/Erop_of_erover_BScThesis_BasVanDijk.pdf)
+[van Dijk, B.C., *Erop of erover; Introductie op het nieuwe waterveiligheidsbeleid*, *Bachelor thesis Earth and Economics*, VU University, Amsterdam, 2014.](/files/theses/van-dijk-2014-erop-of-erover.pdf)
 Remarks: This thesis applies SPINlab output in an assessment of the efficiency of new flood management strategies
 
 Schaeffer,M., *De invloed van het veranderend landgebruik op de hydrologie*, *Master thesis UNIGIS MSc in Geographical Information Science*, VU University, Amsterdam, 2014.
 
 Koomen, E., Rijken, B., [Recent applications of a land-use change model in support of sustainable urban development](http://link.springer.com/chapter/10.1007/978-3-319-08299-8_6), in: Lee,D.B., Dias,E.S., Scholten,H.J. (eds.), *Geodesign by integrating Design and Geospatial Sciences*, Springer-Verlag, Heidelberg, 2014.
 
-Olijve, I., [Ruimtelijke veranderingen in de glastuinbouw](/files/theses/Eindversie_Inge_Olijve.pdf), *Bachelor thesis Earth and Economics*, VU University Amsterdam, 2013.
+Olijve, I., [Ruimtelijke veranderingen in de glastuinbouw](/files/theses/olijve-2013-ruimtelijke-veranderingen-in-de-glastuinbouw.pdf), *Bachelor thesis Earth and Economics*, VU University Amsterdam, 2013.
 
 Kuhlman, T., Diogo, V., Koomen, E., [Exploring the potential of reed as a bioenergy crop in the Netherlands](https://doi.org/10.1016/j.biombioe.2012.06.024), *Biomass and Bioenergy*, 55, pp.41-52, 2013.
 
@@ -139,7 +139,7 @@ Jacobs-Crisioni, C.G.W., Koomen, E., Roggema, R., [Integratie van sectorale adap
 
 Jacobs-Crisioni, C.G.W., Koomen, E., Roggema, R., [Towards an integrated vision of a climateproof Groningen](https://research.vu.nl/en/publications/towards-an-integrated-vision-of-a-climateproof-groningen/), *Report for the province of Groningen*, Groningen, 2009.
 
-van der Hoeven, E.M.M.M., Koomen, E., Jacobs-Crisioni, C.G.W., [Beknopte beschrijving van sociaaleconomische scenario’s voor het jaar 2100](/files/2016/09/VdHoeven_Koomen_Jacobs_Storylines_2100.pdf), *Studie in het kader van het project Aandacht voor Veiligheid*, Vrije Universiteit, Amsterdam, 2008.
+van der Hoeven, E.M.M.M., Koomen, E., Jacobs-Crisioni, C.G.W., [Beknopte beschrijving van sociaaleconomische scenario’s voor het jaar 2100](/files/publications/van-der-hoeven-2008-beknopte-beschrijving-van-sociaaleconomische-scenarios.pdf), *Studie in het kader van het project Aandacht voor Veiligheid*, Vrije Universiteit, Amsterdam, 2008.
 
 [GIS magazine](http://www.gismagazine.nl)[Koomen, E., van der Hoeven, E.M.M.M., De toekomst in kaart; simulaties van veranderend ruimtegebruik, *GIS magazine*, 6 (1), pp.6-8, 2008.](https://research.vu.nl/en/publications/de-toekomst-in-kaart-simulaties-van-veranderend-ruimtegebruik/)
 
@@ -162,7 +162,7 @@ Kuhlman, T., Tabeau, A., Gaaff, A., van Tongeren, F., Dekkers, J.E.C., Future la
 
 Koomen, E., [De toekomstige inrichting van Nederland](https://research.vu.nl/en/publications/de-toekomstige-inrichting-van-nederland/), *Klimaatmagazine*, september, pp.27, 2006.
 
-Kuhlman, T., Tabeau, A., Gaaff, A., van Tongeren, F., Dekkers, J.E.C., [Linking models in land use simulation: Application of the Land Use Scanner to changes in agricultural area](/files/2016/09/Kuhlman_etal_linkingmodels.pdf), in: *Proceedings of the 45th congress of the European Regional Science Association*, 45th congress of the European Regional Science Association, Amsterdam, 23-27 August, 2005.
+Kuhlman, T., Tabeau, A., Gaaff, A., van Tongeren, F., Dekkers, J.E.C., [Linking models in land use simulation: Application of the Land Use Scanner to changes in agricultural area](/files/publications/kuhlman-2005-linking-models-in-land-use-simulation.pdf), in: *Proceedings of the 45th congress of the European Regional Science Association*, 45th congress of the European Regional Science Association, Amsterdam, 23-27 August, 2005.
 
 Koomen, E., [De toekomst van Noord-Holland; simulatie van veranderend ruimtegebruik met de Ruimtescanner](https://research.vu.nl/en/publications/de-toekomst-van-noord-holland-simulatie-van-veranderend-ruimtegeb/), *Agroinformatica*, 2005 (2), pp.17-21, 2005.
 
@@ -184,7 +184,7 @@ Koomen, E., Groen, J., [Toekomstig ruimtegebruik in kaart; model en ontwerpbenad
 
 Koomen, E., Groen, J., Evaluating future urbanisation patterns in the Netherlands, in: *Proceedings of the 44th congress of the European Regional Science Association*, 44th congress of the European Regional Science Association, Porto, 25-29 August, 2004.
 
-Groen, J., Koomen, E., [Ritsema van Eck, J., Piek, M](/files/2016/09/scenarios_in_kaart.pdf)., *Scenario’s in kaart; Model- en ontwerpbenaderingen voor toekomstig ruimtegebruik*, RPB rapport, Nai Uitgevers, Rotterdam, 2004.
+Groen, J., Koomen, E., [Ritsema van Eck, J., Piek, M](/files/publications/groen-2004-scenarios-in-kaart.pdf)., *Scenario’s in kaart; Model- en ontwerpbenaderingen voor toekomstig ruimtegebruik*, RPB rapport, Nai Uitgevers, Rotterdam, 2004.
 
 [de Nijs, T., Boersma, W., Koomen, E., Validation of the Dutch Land Use MOdelling System (LUMOS), in: *Integrated Assessment of the Land System; The Future of Land Use, Proceedings of an International Workshop*, Department of Environmental Sciences Wageningen University/ Institute for Environmental Studies (IVM) Vrije Universiteit, Amsterdam, the Netherlands, 28-30 October, 2004.](https://doi.org/10.1016/j.landusepol.2006.04.007)
 Remarks: Report number: W-05/04 Department of Environmental Sciences Wageningen University/ Institute for Environmental Studies (IVM) Vrije Universiteit
@@ -195,7 +195,7 @@ Koomen, E., Dekkers, J.E.C., Landgebruikssimulatie voor Droogtestudie RIZA – A
 
 Koomen, E., Groen, J., Borsboom-van Beurden, J., Kuhlman, T., Rural land use dynamics, in: Dijst, M., Schot, P., de Jong, K. (eds.), *Reviewed abstracts of the Framing Land Use Dynamics conference*, Framing Land Use Dynamics, Utrecht, 16-18 April, 2003.
 
-Groen, J., Kuhlman, J., Koomen, E., [Hoofdstuk 4 Landbouw](/files/2016/09/Landbouw_hoofdstuk_in_De_ongekende_ruimte_verkend.pdf), in: Gordijn, H., Derksen, W., Groen, J., Pálsdóttir, L., Piek, M., Pieterse, N., Snellen, D. (eds.), *De ongekende ruimte verkend*, Nai Uitgevers, Rotterdam, 2003.
+Groen, J., Kuhlman, J., Koomen, E., [Hoofdstuk 4 Landbouw](/files/publications/groen-2003-hoofdstuk-4-landbouw-de-ongekende-ruimte-verkend.pdf), in: Gordijn, H., Derksen, W., Groen, J., Pálsdóttir, L., Piek, M., Pieterse, N., Snellen, D. (eds.), *De ongekende ruimte verkend*, Nai Uitgevers, Rotterdam, 2003.
 
 Dekkers, J.E.C., Koomen, E., Vlaanderen, N., Peereboom, I., Simulation of future land use for water management, in: Dijst, M., Schot, P., de Jong, K. (eds.), *Reviewed abstracts of the Framing Land Use Dynamics conference*, Framing Land Use Dynamics, Utrecht, 16-18 April, 2003.
 
@@ -203,7 +203,7 @@ Koomen, E., Dekkers, J.E.C., Landgebruikssimulatie voor Droogtestudie RIZA – B
 
 Koomen, E., Groen, J., Borsboom, J., Scholten, H.J., [Modelling the fragmentation of open space, a framework for assessing the impact of land use change on open space](https://research.vu.nl/en/publications/modelling-the-fragmentation-of-open-space-a-framework-for-assessi/), in: *Proceedings of the 42nd congress of the European Regional Science Association*, 42nd congress of the European Regional Science Association, Dortmund, Germany, 2002.
 
-[Koomen, E., Buurman, J.J.G., Economic theory and land prices in land use modelling, in: *Proceedings of 5th AGILE Conference on Geographic Information Science*, 5th AGILE Conference on GIS, Palma Balearic Islands, Spain, 2002.](/files/2016/09/ECONTHEORY_AGILE2002.pdf)
+[Koomen, E., Buurman, J.J.G., Economic theory and land prices in land use modelling, in: *Proceedings of 5th AGILE Conference on Geographic Information Science*, 5th AGILE Conference on GIS, Palma Balearic Islands, Spain, 2002.](/files/publications/koomen-2002-economic-theory-and-land-prices-in-land-use-modelling.pdf)
 Remarks: Comparison of the land prices in the Land Use Scanner model with real world land prices.
 
 Schotten, C.G.J., Goetgeluk, R., Hilferink, M., Rietveld, P., Scholten, H.J., Residential construction, land use and the environment. Simulations for The Netherlands using a GIS-based land use model, *Environmental Modeling and Assessment*, 6, pp.133-143, 2001.
@@ -211,13 +211,13 @@ Schotten, C.G.J., Goetgeluk, R., Hilferink, M., Rietveld, P., Scholten, H.J., Re
 [Schotten, C.G.J., Goetgeluk, R., Hilferink, M., Rietveld, P., Scholten, H.J., Residential construction, land use and the environment. Simulations for The Netherlands using a GIS-based land use model, *Environmental Modeling and Assessment*, 6, pp.133-143, 2001.](https://doi.org/10.1023/a:1011531120436)
 Remarks: Describes the simulation of future land use and its possible environmental impact in a reference study for policy development.
 
-Wagtendonk, A.J., Rietveld, P., [Ruimtelijke ontwikkelingen woningbouw Nederland 1980 – 1995; Een historisch-kwantitatieve analyse van de ruimtelijke ontwikkelingen in de woningbouw 1980 – 1995 ter ondersteuning van de Omgevings-effectrapportage Vijfde Nota Ruimtelijke Ordening](/files/2016/09/RUIMTELIJKEONTWIKKELINGENWONINGBOUWNL_0.pdf), *internal VU report*, Vrije Universiteit, Amsterdam, 2000.
+Wagtendonk, A.J., Rietveld, P., [Ruimtelijke ontwikkelingen woningbouw Nederland 1980 – 1995; Een historisch-kwantitatieve analyse van de ruimtelijke ontwikkelingen in de woningbouw 1980 – 1995 ter ondersteuning van de Omgevings-effectrapportage Vijfde Nota Ruimtelijke Ordening](/files/publications/wagtendonk-2000-ruimtelijke-ontwikkelingen-woningbouw-nederland-1980.pdf), *internal VU report*, Vrije Universiteit, Amsterdam, 2000.
 
 Scholten, H.J., [van de Velde, R.J., Rietveld, P., Hilferink, M., Spatial information infrastructure for scenario planning: the development of a land use planner for Holland](http://www.springer.com/east/home?SGWID=5-102-0-0-0&referer=www.springeronline.com), in: Stillwell, J.C.H., Geertman, S., Openshaw, S. (eds.), *Geographical Information and Planning*, Springer-Verlag, Berlin, 1999.
 
-[van de Velde, R.J., Schotten, C.G.J., van de Waals, J.F.M., Boersma, W.T., Oude Munnik, J.M., Ransijn, M., De Ruimteclaims en ruimtelijke ontwikkelingen in de zoekgebieden voor de toekomstige nationale luchtvaartinfrastructuur (TNLI); Quick scan met Ruimtescanner, *RIVM rapport*, *711901024*, Bilthoven, 1997.](/files/2016/09/tnli.pdf)
+[van de Velde, R.J., Schotten, C.G.J., van de Waals, J.F.M., Boersma, W.T., Oude Munnik, J.M., Ransijn, M., De Ruimteclaims en ruimtelijke ontwikkelingen in de zoekgebieden voor de toekomstige nationale luchtvaartinfrastructuur (TNLI); Quick scan met Ruimtescanner, *RIVM rapport*, *711901024*, Bilthoven, 1997.](/files/publications/van-de-velde-1997-de-ruimteclaims-en-ruimtelijke-ontwikkelingen.pdf)
 
-Schotten, C.G.J., Boersma, W.T., Groen, J., [van de Velde, R.J., Simulatie van de ruimtelijke perspectieven 2030](/files/2016/09/rp2030nl.pdf), *RIVM rapport*, *711901004*, Bilthoven, 1997.
+Schotten, C.G.J., Boersma, W.T., Groen, J., [van de Velde, R.J., Simulatie van de ruimtelijke perspectieven 2030](/files/publications/schotten-1997-simulatie-van-de-ruimtelijke-perspectieven-2030.pdf), *RIVM rapport*, *711901004*, Bilthoven, 1997.
 
 ## International Applications {: #EU }
 
@@ -237,7 +237,7 @@ Lavalle, C., Baranzelli, C., [Batista e Silva, F., Mubareka, S., Rocha Gomes, C.
 
 Koomen, E., Improvement of the land allocation in the EUClueScanner100 model, *Final Report to the European Commission, Joint Research Centre*, Vrije Universiteit, Amsterdam, 2011.
 
-Snelder, M., [Land use modelling of Austria with the EuClueScanner; Calibration and validation of explanatory factors](/files/theses/Snelder_Martijn_Land_use_modelling_Austria.pdf), *Bachelor thesis Earth and Economics*, VU University Amsterdam, 2010.
+Snelder, M., [Land use modelling of Austria with the EuClueScanner; Calibration and validation of explanatory factors](/files/theses/snelder-2010-land-use-modelling-of-austria-with-the-eucluescanner.pdf), *Bachelor thesis Earth and Economics*, VU University Amsterdam, 2010.
 
 Perez-Soba, M., Verburg, P.H., Koomen, E., Hilferink, M., Benito, P., Lesschen, J.P., Banse, M., Woltjer, G., Eickhout, B., Prins, A.-G., Staritsky, I., [Land use modelling – implementation; Preserving and enhancing the environmental benefits of land-use services](http://ec.europa.eu/environment/enveco/studies.htm#7), *Final report to the European Commission, DG Environment*, Alterra Wageningen UR/ Geodan Next/ Object Vision/ BIOS/ LEI and PBL, Wageningen, 2010.
 Remarks: The executive summary can be found here.
@@ -248,7 +248,7 @@ Koomen, E., Diogo, V., Hilferink, M., van der Beek, M., EU-ClueScanner100m; mode
 
 Hoymann, J., Koomen, E., Dekkers, J.E.C., Phan-Drost, N., Pilz, H., Hewing, M., [Manual ElbeScanner. Simulating residential land use changes in scenarios](https://research.vu.nl/en/publications/manual-elbescanner-simulating-residential-land-use-changes-in-sce/), *Report project GLOWA-Elbe III*, TU Berlin/VU University, Berlin/Amsterdam, 2010.
 
-Hoymann, J., Dekkers, J.E.C., Koomen, E., [Scenarios der Siedlungsflachenentwicklung im Elbeeinzugsgebiet, chapter 2.5](/files/2016/09/Szenarien_der_Siedlungsflachenentwickelung_im_Elbeeinzugsgebiet.pdf), in: Wechsung, F., Hartje, V., Kaden, S., Behrendt, H., Hansjürgens, B., Gräfe, P. (eds.), *Wirkungen des globalen Wandels auf den Wasserkreislauf im Elbegebiet–Risiken und Optionen. PIK Report*, Potsdam Institute for Climate Impact Research, Potsdam, 2010.
+Hoymann, J., Dekkers, J.E.C., Koomen, E., [Scenarios der Siedlungsflachenentwicklung im Elbeeinzugsgebiet, chapter 2.5](/files/publications/hoymann-2010-scenarios-der-siedlungsflachenentwicklung.pdf), in: Wechsung, F., Hartje, V., Kaden, S., Behrendt, H., Hansjürgens, B., Gräfe, P. (eds.), *Wirkungen des globalen Wandels auf den Wasserkreislauf im Elbegebiet–Risiken und Optionen. PIK Report*, Potsdam Institute for Climate Impact Research, Potsdam, 2010.
 
 Hoymann, J., Koomen, E., Dekkers, J.E.C., [Tool Land Use Scanner](http://www.glowa-elbe.de/pdf/Schlussbericht_Glowa-Elbe_III/Kapitel_3/Anlage_2_EET-Handbuch.pdf). Dokumentation und Hilfe. In: DHI-WASY (Hrsg,): Handbuch der Elbe Expert Toolbox. Manual und Online Hilfe, 2010.
 
@@ -259,7 +259,7 @@ Remarks: Book can be ordered through the publisher. This book also contains a lo
 
 Stillwell. J.C.H., Scholten, H.J., *Land Use Simulation for Europe*, GeoJournal Library, ( ), Kluwer, Dordrecht, 2001.
 
-Schotten, C.G.J., Heunks, C., Wagtendonk, A.J., Buurman, J.J.G., de Zeeuw, C.J., Kramer, H., Boersma, W.T., [Simulating Europe in the 21th century](/files/2016/09/FINAL_SIMRAP_BCRS.pdf), *NRSP-2 report 00-22*, Delft, 2001.
+Schotten, C.G.J., Heunks, C., Wagtendonk, A.J., Buurman, J.J.G., de Zeeuw, C.J., Kramer, H., Boersma, W.T., [Simulating Europe in the 21th century](/files/publications/schotten-2001-simulating-europe-in-the-21th-century.pdf), *NRSP-2 report 00-22*, Delft, 2001.
 
 [Schotten, C.G.J., Heunks, C., A national planning application of Euroscanner in the Netherlands, in: Stillwell, J.C.H., Scholten, H.J. (eds.), *Land use simulation for Europe*, Kluwer Academic Publishers, Dordrecht, 2001.](https://doi.org/10.1007/978-94-010-0466-4_17)
 Remarks: Book can be ordered through the publisher. This book also contains a lot of other interesting chapters on the simulations of Europe’s land use.
@@ -275,12 +275,12 @@ De Kleijn, M., Beijaard, F., Koomen, E., Van Lanen, R. (2018) [Simulating past l
 
 Pontius Jr., [R.G., Castella, J.-C., De Nijs, T., Duan, Z., Fotsing, E., Goldstein, N., Kok, K., Koomen, E., Lippitt, C.D., McConnell, W., Mohd Sood, A., Pijanowski, B.C., Veldkamp, A.T. and Verburg, P.H. (2018) Lessons and challenges in land change modeling derived from synthesis of cross-case comparisons](https://doi.org/10.1007/978-3-319-52522-8_8). Chapter in: Behnisch, M. and Meinel, G. (eds.) *Trends in spatial analysis and modelling*. Geotechnologies and the Environment Series, vol. 19. Springer Cham, pp.134-164.
 
-van der Beek, M., Lassche, M.R., Molendijk, M.A., [Spatial Implications of New Road Infrastructure for the Use of Land and Resources in Suriname: Land use Scanner](/files/2016/09/What-is-the-Future-for-Amazonia_chapter-4.pdf). Chapter 4, in: van Dijck, P. (eds.), *Cuadernos del CEDLA – What is the Future for Amazonia? Socio-Economic and Environmental Transformation and the Role of Road Infrastructure*, WWF/CEDLA, 2013.
+van der Beek, M., Lassche, M.R., Molendijk, M.A., [Spatial Implications of New Road Infrastructure for the Use of Land and Resources in Suriname: Land use Scanner](/files/publications/van-der-beek-2013-spatial-implications-of-new-road-infrastructure.pdf). Chapter 4, in: van Dijck, P. (eds.), *Cuadernos del CEDLA – What is the Future for Amazonia? Socio-Economic and Environmental Transformation and the Role of Road Infrastructure*, WWF/CEDLA, 2013.
 
-Molendijk, M.A., van der Beek, M., Lassche, M.R., [Spatial implications on land and resources of new road infrastructure in Suriname: land use scanner](/files/2016/09/Molendijk_vdBeek_Lassche_2013_CEDLAconf.pdf), in: van Dijck, P., Wallis, M. (eds.), *Handleiding bij seminars en trainingen over planning en beleid voor optimal landgebruik in het kader van grootschalige infrastructurele werken in Suriname*, WWF/CEDLA, Amsterdam, the Netherlands, 2013.
+Molendijk, M.A., van der Beek, M., Lassche, M.R., [Spatial implications on land and resources of new road infrastructure in Suriname: land use scanner](/files/publications/molendijk-2013-spatial-implications-on-land-and-resources-of-new-road.pdf), in: van Dijck, P., Wallis, M. (eds.), *Handleiding bij seminars en trainingen over planning en beleid voor optimal landgebruik in het kader van grootschalige infrastructurele werken in Suriname*, WWF/CEDLA, Amsterdam, the Netherlands, 2013.
 
-Lassche, M.R., Molendijk, M.A., [Geologie van Suriname, een voorstudie voor Land Use Scanner applicatie](/files/2016/09/Lassche_Molendijk_2013_GeologieSuriname.pdf), in: van Dijck, P., Wallis, M. (eds.), *Handleiding bij seminars en trainingen over planning en beleid voor optimal landgebruik in het kader van grootschalige infrastructurele werken in Suriname*, WWF/CEDLA, Amsterdam, the Netherlands, 2013.
+Lassche, M.R., Molendijk, M.A., [Geologie van Suriname, een voorstudie voor Land Use Scanner applicatie](/files/publications/lassche-2013-geologie-van-suriname-een-voorstudie-voor-land-use.pdf), in: van Dijck, P., Wallis, M. (eds.), *Handleiding bij seminars en trainingen over planning en beleid voor optimal landgebruik in het kader van grootschalige infrastructurele werken in Suriname*, WWF/CEDLA, Amsterdam, the Netherlands, 2013.
 
 Koomen, E., Jacobs-Crisioni, C.G.W., [Ruimtegebruiksimulatie in de regionale beleidspraktijk](http://www.rooilijn.nl), *Rooilijn*, 44 (4), pp.284-291, 2011.
 
-Jolly, C.A.G., [Ruimtegebruiksmodellen. Een studie naar de impact van wegen in relatie tot verandering in de ruimte in Suriname](/files/2016/09/Final_ChristiaanJolly1707736.pdf), *Bachelor thesis Earth and Economics*, VU University, Amsterdam, 2010.
+Jolly, C.A.G., [Ruimtegebruiksmodellen. Een studie naar de impact van wegen in relatie tot verandering in de ruimte in Suriname](/files/theses/jolly-2010-ruimtegebruiksmodellen-een-studie-naar-de-impact.pdf), *Bachelor thesis Earth and Economics*, VU University, Amsterdam, 2010.

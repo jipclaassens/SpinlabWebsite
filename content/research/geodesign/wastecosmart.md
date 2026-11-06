@@ -13,8 +13,8 @@ The optimisation of integrated waste management is a key challenge for many Euro
 
 For the project, six research-driven triple helix clusters (science, industry and public sector) have been formed in Paphos (CY), Central Hungary, Piedmont (IT), Amsterdam (NL), Stockholm (SE) and Liverpool City Region (UK). WASTECOSMART also collaborates with international partners from Brazil, Mexico and India to promote international collaboration and opportunities in waste management.
 
-- For more information about the project, [download the leaflet](/files/2016/09/WASTECOSMART_leaflet_UK.pdf)
-- Click [here](/files/2016/09/WorkshopreportWASTECOSMART_WS_Amsterdam.pdf) to read the report on the project workshops held in Amsterdam in 2013
-- Click [here](/files/2016/09/Puzzelen_met_afvalbeheer_GRAM_oktober_2015.pdf) to read a Dutch magazine article about the project
+- For more information about the project, [download the leaflet](/files/projects/wastecosmart-leaflet-2014-11-21.pdf)
+- Click [here](/files/projects/wastecosmart-workshop-report-amsterdam-2015-02-17.pdf) to read the report on the project workshops held in Amsterdam in 2013
+- Click [here](/files/projects/wastecosmart-puzzelen-met-afvalbeheer-2015-11-03.pdf) to read a Dutch magazine article about the project
 
 ![wastecosmart](/files/2016/07/wastecosmart_600px.jpg)

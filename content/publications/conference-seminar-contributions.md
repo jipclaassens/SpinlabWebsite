@@ -9,25 +9,25 @@ This page lists the SPINlab’s conference & seminar contributions, interview, c
 
 Dekkers, J.E.C., de Groot, H.L.F. and van den Brink, A., *The price of Dutch (Urban) Design: Measuring the impact of neighbourhood layout on house values-Presenting the research framework, Abstract and presentation at the 56th annual conference of the European Regional Science Association (ERSA), August 23-26, Vienna, Austria, 2016.*
 
-Diogo, V., Koomen, E., [Integrating utility-based land-use simulation and local cost-benefit analysis tools to support climate change adaptation and regional development strategies](/files/2016/09/Integrating_utility-based_land-use_simulation_and_local_cost-benefit_analysis_tools_to_support_climate_change_adaptation_BSDS2015.pdf), *Abstract and presentation at the Brussels Sustainable Development Summit (BSDS), October 19-20 2015, Brussels, Belgium.* 2015.
+Diogo, V., Koomen, E., [Integrating utility-based land-use simulation and local cost-benefit analysis tools to support climate change adaptation and regional development strategies](/files/publications/diogo-2015-integrating-utility-based-land-use-simulation-and-local.pdf), *Abstract and presentation at the Brussels Sustainable Development Summit (BSDS), October 19-20 2015, Brussels, Belgium.* 2015.
 
-Diogo, V., Koomen, E., [Simulating the adoption of alternative climate adaptation strategies in Dutch arable farming systems under uncertainty and costly land-use reversibility](/files/2016/09/Simulating_the_adoption_of_alternative_climate_adaptation_strategies_in_Dutch_arable_farming_systems_ILUS2015.pdf), *Abstract and presentation at the International Land Use Symposium (ILUS), November 11-13 2015, Dresden, Germany.* 2015.
+Diogo, V., Koomen, E., [Simulating the adoption of alternative climate adaptation strategies in Dutch arable farming systems under uncertainty and costly land-use reversibility](/files/publications/diogo-2015-simulating-the-adoption-of-alternative-climate.pdf), *Abstract and presentation at the International Land Use Symposium (ILUS), November 11-13 2015, Dresden, Germany.* 2015.
 
 Janssen, R., Dias, E.S., [A pictorial approach to geodesign: a case study for the Lower Zambezi valley, Paper prepared for the Geodesign Summit 2015, Salzburg](https://doi.org/10.1016/j.landurbplan.2017.03.014), 2015.
 
-Rijken, B., Bemmel, B. van, Koomen, E., [Sink or swim: exploring the social cost and benefits of water management policies in delta regions in the context of climate change](/files/2016/09/Sink_or_Swim_ERSA2015.pdf), *Abstract and presentation at the 55th ERSA congress, 25-28 August 2015, Lisbon, Portugal.* 2015.
+Rijken, B., Bemmel, B. van, Koomen, E., [Sink or swim: exploring the social cost and benefits of water management policies in delta regions in the context of climate change](/files/publications/rijken-2015-sink-or-swim.pdf), *Abstract and presentation at the 55th ERSA congress, 25-28 August 2015, Lisbon, Portugal.* 2015.
 
 Zhou, T., van Leeuwen, E., Koomen, E., *Appreciation of cultural ecosystem services in the urban-rural fringe*, *Poster presented at 2nd Sino-Dutch Forum on Smart City, June 1-3 2015, Amsterdam, the Netherlands.*2015.
 
 Zhou, T., Koomen, E., Ke, X., Vermaat, J.E., *Recognizing typical patterns of multifunctional use of cultivated land in the urban fringe; a case study of Wuhan, China*, *Abstract and presentation at the International symposium of natural resource management and public policy, Huazhong Agricultural University. December 12, 2015, Wuhan, China.* 2015.
 
-Broitman, D., Koomen, E., [The attraction of the urban core: centrality, intensification and residential density gradients, Abstract and presentation at the 54th ERSA congress, August 26-29th, Saint Petersburg, Russia](/files/2016/09/The_attraction_of_the_urban_core_abstract_ERSA2014.pdf), 2014.
+Broitman, D., Koomen, E., [The attraction of the urban core: centrality, intensification and residential density gradients, Abstract and presentation at the 54th ERSA congress, August 26-29th, Saint Petersburg, Russia](/files/publications/broitman-2014-the-attraction-of-the-urban-core.pdf), 2014.
 
 Broitman, D., Rijken, B., Koomen, E., Simulating urban densities in the face of local flood risk, in: Global Land Project (eds.), *Proceedings of the Global Land Project 2nd Open Science Meeting, Berlin, March 19-21, 2014. Amsterdam/Berlin/Sao Paulo*, 2014.
 
-Diogo, V., Reidsma, P., Schaap, B., Koomen, E., [Analysing climate change impacts on local economic performance of Dutch agricultural systems](/files/2016/09/Analysing_climate_change_impacts_on_local_economic_performance_of_Dutch_agricultural_systems.pdf), *Poster P093 presented at Deltas in times of climate change II conference, 24-26 September 2014*, Rotterdam, the Netherlands, 2014.
+Diogo, V., Reidsma, P., Schaap, B., Koomen, E., [Analysing climate change impacts on local economic performance of Dutch agricultural systems](/files/publications/diogo-2014-analysing-climate-change-impacts-on-local-economic.pdf), *Poster P093 presented at Deltas in times of climate change II conference, 24-26 September 2014*, Rotterdam, the Netherlands, 2014.
 
-Koomen, E., Diogo, V., [Assessing future urban heat island patterns following socio-economic and climate scenarios](/files/2016/09/Assessing_future_urban_heat_island_patterns_following_socio-economic_and_climate_scenarios.pdf), *Poster presented at Deltas in times of climate change II conference, 24-26 September 2014*, Rotterdam, the Netherlands, 2014.
+Koomen, E., Diogo, V., [Assessing future urban heat island patterns following socio-economic and climate scenarios](/files/publications/koomen-2014-assessing-future-urban-heat-island-patterns-following.pdf), *Poster presented at Deltas in times of climate change II conference, 24-26 September 2014*, Rotterdam, the Netherlands, 2014.
 
 Koomen, E., Diogo, V., [Simulating future changes in the urban heat island effect based on an integration of socio-economic and climate scenarios, Abstract and presentation at Adaptation Frontiers: Conference on European Climate Adaptation Research and Practice, Lisbon 10-12 March](https://research.vu.nl/en/publications/simulating-future-changes-in-the-urban-heat-island-effect-based-o/), 2014.
 
@@ -35,17 +35,17 @@ Lavalle,C., Baranzelli, C., Barbosa, A., Batista e Silva, F., Jacobs Crisioni, C
 
 Micheli, M., Rouwendal, J., Dekkers, J.E.C., Border Effects in House Prices, in: *International Conference of the American Real Estate and Urban Economics Association*, Reading, UK, 9-11 July, 2014. ***Remarks:** Also presented at the 61st Annual North American Meetings (NARSC) of the Regional Science Association International (RSAI) in Washington D.C., 12-15 November 2014, and at the 54th ERSA conference in St. Petersburg, Russia, 26-29 August 2014*
 
-Rijken, B., Koomen, E., [Simulating Urban Redevelopment to Explore Sustainable Urban Development Pathways, Abstract and presentation at the 54th ERSA congress, August 26-29th, Saint Petersburg, Russia](/files/2016/09/Simulating_Urban_Redevelopment_to_Explore_Sustainable_Urban_Development_Pathways_abstract_ERSA2014.pdf), 2014.
+Rijken, B., Koomen, E., [Simulating Urban Redevelopment to Explore Sustainable Urban Development Pathways, Abstract and presentation at the 54th ERSA congress, August 26-29th, Saint Petersburg, Russia](/files/publications/rijken-2014-simulating-urban-redevelopment-to-explore-sustainable.pdf), 2014.
 
-Rijken, B., Koomen, E., [Simulating land use change to explore sustainable urban renewal strategies in the context of flood risk](/files/2016/09/Simulating_Land_Use_Change_to_Explore_Sustainable_Urban_Renewal_Strategies_in_the_Context_of_Flood_Risk.pdf), *Abstract and presentation at Deltas in times of climate change II conference, 24-26 September 2014*, Rotterdam, the Netherlands, 2014.
+Rijken, B., Koomen, E., [Simulating land use change to explore sustainable urban renewal strategies in the context of flood risk](/files/publications/rijken-2014-simulating-land-use-change-to-explore-sustainable-urban.pdf), *Abstract and presentation at Deltas in times of climate change II conference, 24-26 September 2014*, Rotterdam, the Netherlands, 2014.
 
 Rouwendal, J., Levkovich, O., [Location choices of highly educated foreign workers: the importance of urban amenities](https://research.vu.nl/en/publications/location-choices-of-highly-educated-foreign-workers-the-importanc/), in: *Paper for the 54th Conference of the European Regional Science Association*, ERSA 2014, St. Petersburg, Russia, 26-29 August, 2014. ***Remarks:** This is a draft version*
 
-Broitman, D., Koomen, E., Rijken, B., [Built-in or build-out: Regional growth and residential spatial dynamics in the Netherlands, Abstract and presentation at the European Regional Science Association Conference August 27-31th, Palermo, Italy](/files/2016/09/Built-in_or_Build-out_ERSA2013.pdf), 2013.
+Broitman, D., Koomen, E., Rijken, B., [Built-in or build-out: Regional growth and residential spatial dynamics in the Netherlands, Abstract and presentation at the European Regional Science Association Conference August 27-31th, Palermo, Italy](/files/publications/broitman-2013-built-in-or-build-out.pdf), 2013.
 
 Broitman, D., Koomen, E., Crisis, regions and housing stock: a decade of urban and peri-urban housing dynamics, in: *Book of abstracts Regional Science meeting Dutch-Israeli workshop*, Groningen, the Netherlands, 3-4 October, 2013.
 
-de Hond, R., [Mapping the Via Appia – 3d GIS](/files/2016/09/Mapping_Via_Appia_3D_GIS.pdf), *Presentation for the Mini Conference 3D GIS for Mapping the Via Appia*, VU University Amsterdam, 2013.
+de Hond, R., [Mapping the Via Appia – 3d GIS](/files/publications/de-hond-2013-mapping-the-via-appia.pdf), *Presentation for the Mini Conference 3D GIS for Mapping the Via Appia*, VU University Amsterdam, 2013.
 
 de Kleijn, M.T.M., van Aart, C., van Manen, N., [Burgers, G-J., Scholten, H.J., Testaccio, A Digital Cultural Biography App](http://ceur-ws.org/Vol-997/patch2013_paper_11.pdf), in: *UMAP 2013 Extended Proceedings of the 21st Conference on User Modeling, Adaptation, and Personalization*, Rome, Italy, June 10-14, 2013.
 
@@ -57,11 +57,11 @@ Dias, E.S., Linde, M., Rafiee, A., Koomen, E., Scholten, H.J., [Beauty and Brain
 
 Diogo, V., Kuhlman, T., Koomen, E., [Exploring the potential of reed as a bioenergy crop in the Netherlands](https://research.vu.nl/en/publications/exploring-the-potential-of-reed-as-a-bioenergy-crop-in-the-nether/), in: *Book of abstracts. International conference on the utilization of wetland plants: reed as a renewable resource*, Greifswald, Germany, February 14-16, 2013.
 
-Diogo, V., Koomen, E., Kuhlman, T., [Explaining and simulating current patterns of agricultural land use in the Netherlands, Abstract and presentation at the European Regional Science Association Conference August 27-31th, Palermo, Italy](/files/2016/09/Explaining-and-simulating-current-patterns-of-agricultural-land-use_Abstract-ERSA2013.pdf), 2013.
+Diogo, V., Koomen, E., Kuhlman, T., [Explaining and simulating current patterns of agricultural land use in the Netherlands, Abstract and presentation at the European Regional Science Association Conference August 27-31th, Palermo, Italy](/files/publications/diogo-2013-explaining-and-simulating-current-patterns.pdf), 2013.
 
 Koomen, E., Rijken, B., [Recent applications of a land-use change model in support of sustainable urban development., Abstract and presentation at Geodesign Summit Europe, GeoFort, Herwijnen, the Netherlands](https://doi.org/10.1007/978-3-319-08299-8_6). September 19, 2013.
 
-Koomen, E., [From observation to implication; Developing land-use change scenario models, Expert keynote](/files/2016/09/From_observation_to_implication_Forecom2013.pdf). FORECOM opening conference, Kraków, Poland, March 7, 2013.
+Koomen, E., [From observation to implication; Developing land-use change scenario models, Expert keynote](/files/publications/koomen-2013-from-observation-to-implication.pdf). FORECOM opening conference, Kraków, Poland, March 7, 2013.
 
 Koomen, E., Rijken, B., Broitman, D., Stedelijke ontwikkeling in tijden van crisis; analyse en vooruitblik, Abstract and presentation at Ruimteconferentie 2013, Den Haag, 21 mei, 2013.
 
@@ -75,7 +75,7 @@ Levkovich, O., Rouwendal, J., [Location choices of highly educated foreign worke
 
 Linde, M., Nedkov, S.B., Redefining the Smart City: Smart and liveable cities through participatory Geodesign, Abstract and presentation at the Geodesign Summit Europe, Geofort, Herwijnen, the Netherlands, 19 September, 2013.
 
-Piccoli, C., [CityEngine for Archaeology](/files/2016/09/2013-04-19_VU_CityEngine.pdf), *Presentation for the Mini Conference 3D GIS for Mapping the Via Appia*, VU University Amsterdam, 2013.
+Piccoli, C., [CityEngine for Archaeology](/files/publications/piccoli-2013-cityengine-for-archaeology.pdf), *Presentation for the Mini Conference 3D GIS for Mapping the Via Appia*, VU University Amsterdam, 2013.
 
 Rafiee, A., Dias, E.S., Batty, M., Scholten, H.J., Energy aware interactive design; experimenting with city morphology, Abstract and presentation at Geodesign Summit Europe, GeoFort, Herwijnen, the Netherlands, September 19, 2013.
 
@@ -83,27 +83,27 @@ Rafiee, A., Dias, E.S., Koomen, E., [Between Green and Grey: towards a new green
 
 Rijken, B., Koomen, E., Broitman, D., Zondag, B., Simulating residential density change, Abstract and presentation at the European Regional Science Association Conference, August 27-31th, Palermo, Italy., 2013.
 
-van der Beek, M., Lassche, M.R., Molendijk, M.A., [Spatial Implications of New Road Infrastructure for the Use of Land and Resources in Suriname: Land use Scanner](/files/2016/09/What-is-the-Future-for-Amazonia_chapter-4.pdf). Chapter 4, in: van Dijck, P. (eds.), *Cuadernos del CEDLA – What is the Future for Amazonia? Socio-Economic and Environmental Transformation and the Role of Road Infrastructure*, WWF/CEDLA, 2013.
+van der Beek, M., Lassche, M.R., Molendijk, M.A., [Spatial Implications of New Road Infrastructure for the Use of Land and Resources in Suriname: Land use Scanner](/files/publications/van-der-beek-2013-spatial-implications-of-new-road-infrastructure.pdf). Chapter 4, in: van Dijck, P. (eds.), *Cuadernos del CEDLA – What is the Future for Amazonia? Socio-Economic and Environmental Transformation and the Role of Road Infrastructure*, WWF/CEDLA, 2013.
 
-Jacobs-Crisioni, C.G.W., [Geographical analyses of accessibility and urban land-use](/files/2016/09/Geographical_analyses_of_accessibility_and_urban_land-use_poster_KfC2012.pdf). Poster presented at Knowledge for Climate Midterm assessment Conference, Amsterdam, the Netherlands, October 4, 2012, 2012.
+Jacobs-Crisioni, C.G.W., [Geographical analyses of accessibility and urban land-use](/files/publications/jacobs-crisioni-2012-geographical-analyses-of-accessibility-and-urban-land.pdf). Poster presented at Knowledge for Climate Midterm assessment Conference, Amsterdam, the Netherlands, October 4, 2012, 2012.
 
-Jacobs-Crisioni, C.G.W., Koomen, E., [Linking urban structure and activity dynamics using cell phone usage data](/files/2016/09/Linking_urban_structure_and_activity_dynamics_using_cell_phone_usage_data_abstract-AGILE2012.pdf), in: *Paper presented at the workshop on Complexity Modeling for Urban Structure and Dynamics*, 15th AGILE international conference on Geographic Information Science, Avignon, France, April 24-27, 2012.
+Jacobs-Crisioni, C.G.W., Koomen, E., [Linking urban structure and activity dynamics using cell phone usage data](/files/publications/jacobs-crisioni-2012-linking-urban-structure-and-activity-dynamics.pdf), in: *Paper presented at the workshop on Complexity Modeling for Urban Structure and Dynamics*, 15th AGILE international conference on Geographic Information Science, Avignon, France, April 24-27, 2012.
 
 Koomen, E., Diogo, V., Dekkers, J.E.C., Rietveld, P., [A utility-based, multi-sector framework for local scale land-use modeling](https://research.vu.nl/en/publications/a-utility-based-multi-sector-framework-for-local-scale-land-use-m/), in: *Paper presented at the workshop on Complexity Modeling for Urban Structure and Dynamics*, 15th AGILE international conference on Geographic Information Science, Avignon, France, April 24-27, 2012.
 
 Lassche, M.R., Diogo, V., Schaeffer, M., Koomen, E., Coupling land-use and hydrological modelling systems. Poster presented at Knowledge for Climate Midterm assessment Conference, Amsterdam, the Netherlands, October 4, 2012.
 
-Rijken, B., Koomen, E., Zondag, B., [Residential land-use density simulation](/files/2016/09/Residential_-land-use_density_simulation_extended_abstract_AGILE2012.pdf), in: *Paper presented at the workshop on Complexity Modeling for Urban Structure and Dynamics*, 15th AGILE international conference on Geographic Information Science, Avignon, France, April 24-27, 2012.
+Rijken, B., Koomen, E., Zondag, B., [Residential land-use density simulation](/files/publications/rijken-2012-residential-land-use-density-simulation.pdf), in: *Paper presented at the workshop on Complexity Modeling for Urban Structure and Dynamics*, 15th AGILE international conference on Geographic Information Science, Avignon, France, April 24-27, 2012.
 
 Steenbruggen, J.G.M., Nijkamp, P., [Traffic Incident Management in Europe–Guide for Best Practice](http://scholar.google.nl/citations?view_op=view_citation&hl=nl&user=pjeyKVIAAAAJ&citation_for_view=pjeyKVIAAAAJ:_FxGoFyzp5QC), in: *Proceedings GDi4DM*, 2012.
 
 van den Ende, P.J.H.G., Vroegop, O., Scholten, H.J., *Meer nodig dan camera’s*, *Verbinding*, maart 2012.
 
-Koomen, E., Rietveld, P., Dekkers, J.E.C., [Towards an integrated approach for incorporating socio-economic and biophysical processes in local scale land-use modelling, Abstract European Regional Science Conference, Barcelona, Spain, 30 August – 3 September](/files/2016/09/ERSA2011_abstract_Koomen-Rietveld-Dekkers.pdf), 2011.
+Koomen, E., Rietveld, P., Dekkers, J.E.C., [Towards an integrated approach for incorporating socio-economic and biophysical processes in local scale land-use modelling, Abstract European Regional Science Conference, Barcelona, Spain, 30 August – 3 September](/files/publications/koomen-2011-towards-an-integrated-approach-for-incorporating-socio.pdf), 2011.
 
 Dekkers, J.E.C., Koomen, E., Jacobs-Crisioni, C.G.W., Koekoek, A., Rijken, B., [Grenzen aan stedelijke verdichting; een kwantitatieve verkenning van verdichtingsopties in Haaglanden](https://research.vu.nl/en/publications/grenzen-aan-stedelijke-verdichting-een-kwantitatieve-verkenning-v/), in: *Abstract voor de PBL-Ruimteconferentie 2011*, PBL Ruimteconferentie, Rotterdam, 19 April, 2011.
 
-Koomen, E., Rijken, B., Zondag, B., [Simulating residential land-use density, Paper presented at the Complex City Workshop](/files/2016/09/simulating_residential_land_use_density_draft_paper_complex_city_workshop.pdf), Amsterdam, the Netherlands, 5-6 December, 2011.
+Koomen, E., Rijken, B., Zondag, B., [Simulating residential land-use density, Paper presented at the Complex City Workshop](/files/publications/koomen-2011-simulating-residential-land-use-density.pdf), Amsterdam, the Netherlands, 5-6 December, 2011.
 
 Lavalle, C., Baranzelli, C., [Batista e Silva, F., Mubareka, S., Rocha Gomes, C., Koomen, E., Hilferink, M., A High Resolution Land use/cover Modelling Framework for Europe: introducing the EU-ClueScanner100 model](http://www.springer.com/computer/communication+networks/book/978-3-642-21886-6), in: Murgante, B., Gervasi, O., Iglesias, A., Taniar, D., Apduhan, B.O. (eds.), *Computational Science and Its Applications – ICCSA 2011, Part I, Lecture Notes in Computer Science*, Springer-Verlag, Berlin-Heidelberg, 2011.
 
@@ -111,7 +111,7 @@ Arribas-Bel, D., Nijkamp, P., Scholten, H.J., [Multi-dimensional urban sprawl in
 
 Braakman, J., *Grondprijs uit het verleden zegt iets over de toekomst. Interview met Jasper Dekkers naar aanleiding van de verdediging van zijn proefschrift op 19 februari*, *Agrarisch Dagblad*, 24 (113), 2010.
 
-Bessembinder, J., Schaap, B., Reidsma, P., Witte, F., Elsman, J., Jacobs-Crisioni, C.G.W., Verboom, J., van Bodegom, P., [Improving access to data on climate change and its impacts](/files/2016/09/Deltas_in_time_of_climate_change_KKF_poster_abstract.pdf), in: Kabat, P., Vellinga, P. (eds.), *Poster abstract Scientific Programme Deltas in Depth*, International conference Rotterdam, the Netherlands, 29 September-1 October, 2010.
+Bessembinder, J., Schaap, B., Reidsma, P., Witte, F., Elsman, J., Jacobs-Crisioni, C.G.W., Verboom, J., van Bodegom, P., [Improving access to data on climate change and its impacts](/files/publications/bessembinder-2010-improving-access-to-data-on-climate-change-and-its.pdf), in: Kabat, P., Vellinga, P. (eds.), *Poster abstract Scientific Programme Deltas in Depth*, International conference Rotterdam, the Netherlands, 29 September-1 October, 2010.
 
 Bubeck, P., te Linde, A., Dekkers, J.E.C., Ward, P., Flood risk developments and adaptation strategies in the Rhine-Meuse delta, in: Kabat, P., Vellinga, P. (eds.), *Abstracts Scientific Programme Deltas in Depth*, International conference Rotterdam, the Netherlands, 29 September-1 October, 2010.
 
@@ -181,7 +181,7 @@ Dias, E.S., The Impact of Location-Awareness on the Perception of Information Se
 
 [Fabbri, A.G., Remondo, J., Ballabio, C., Poli, S., Chung, C.F., Scholten, H.J., Occurrence neighbourhoods and risk assessment from landslide hazard in northern Spain, in: Brebbia, C.A., Popov, V., Beriatos, E. (eds.), *Risk Analysis VI: Simulation and Hazard Mitigation*, Risk Analysis 2008, WIT Press, 2008.](http://library.witpress.com/pages/PaperInfo.asp?PaperID=18752)***Remarks**: This conference paper is also published on-line in: WIT Transactions on Information and Communication, V ol 39, © 2008 WIT Press, www.witpress.com, ISSN 1743-3517 (on-line), Risk Analysis VI 29, doi:10.2495/RISK080041*
 
-Fruijtier, S., Dias, E.S., Scholten, H.J., [Geo Mindstorms: Investigating a sensor information framework for disaster management processes](/files/2016/09/Proceedings_Sensing_a_Changing_World_2008.pdf), in: *Proceedings of International Workshop Sensing a Changing World 2008, CGI report CGI-08-005*, Wageningen University and Research Centre, Wageningen, The Netherlands, 2008.
+Fruijtier, S., Dias, E.S., Scholten, H.J., [Geo Mindstorms: Investigating a sensor information framework for disaster management processes](/files/publications/fruijtier-2008-geo-mindstorms.pdf), in: *Proceedings of International Workshop Sensing a Changing World 2008, CGI report CGI-08-005*, Wageningen University and Research Centre, Wageningen, The Netherlands, 2008.
 
 Lentjes, D., *De genomineerden voor de VU Societal Impact Award Junior. Interview met Eric Koomen over zijn nominatie.*, *Ad Valvas*, 56 (07), , Vrije Universiteit, Amsterdam, 2008.
 
@@ -197,7 +197,7 @@ Dekkers, J.E.C., Koomen, E., [De economische waardering van metropolitane open r
 
 Koomen, E., Loonen, W., Kuijpers-Linde, M., [Localising the land-use impact of global climate change; integration of sector-specific adaptation measures with the Land Use Scanner](https://research.vu.nl/en/publications/localising-the-land-use-impact-of-global-climate-change-integrati/), in: Addink, E., Barendregt, A., Ettema, D., Karssenberg, D., de Nijs, T. (eds.), *Framing Land Use Dynamics II – abstractbook. International conference*, FLUD-II, Utrecht University, the Netherlands, 18-20 April, 2007.
 
-Snoeren, G.F.I., Zlatanova, S., Crompvoets, J., Scholten, H.J., [Spatial Data Infrastructure for emergency management: the view of the users](/files/2016/09/LUWPUBRD_00342624_A502_001.pdf), in: *Proceedings of the 3rd International Symposium on Geo-information for Distater Management (Gi4DM) – CD-ROM*, ISPRS ’06, Toronto, Canada, 2007.
+Snoeren, G.F.I., Zlatanova, S., Crompvoets, J., Scholten, H.J., [Spatial Data Infrastructure for emergency management: the view of the users](/files/publications/zlatanova-2006-investigation-of-user-requirements-in-the-emergency.pdf), in: *Proceedings of the 3rd International Symposium on Geo-information for Distater Management (Gi4DM) – CD-ROM*, ISPRS ’06, Toronto, Canada, 2007.
 
 Fabbri, A.G., *On Spatial Prediction Models or the Unbearable Lightness Of GIS*, *Inaugural lecture in acceptance of the chair of Professor in Geo-Informatics and Risk Management at the Faculty of Earth and Life Sciences*, Vrije Universiteit, Amsterdam, 2007.
 
@@ -205,7 +205,7 @@ Koomen, E., Loonen, W., [Exploring integrated scenarios of socio-economic and cl
 
 Koomen, E., [Ritsema van Eck, J., Measuring urban concentration and land-use diversity in maps of simulated future land use](https://research.vu.nl/en/publications/measuring-urban-concentration-and-land-use-diversity-in-maps-of-s/), in: Bunce, R.G.H., Jongman, R.H.G., Hojas, L., Weel, S. (eds.), *25 years Landscape Ecology: Scientific Principles in Practice.*, Proceedings of the 7th IALE World Congress. IALE publications series 4, Wageningen, the Netherlands, 8-12 July, 2007
 
-Loonen, W., Koomen, E., Kuijpers-Linde, M., [Calibrating and validating the Land Use Scanner algorithms](/files/2016/09/Cali_Vali_LUS_ECTQG07.pdf), in: *paper presented at the 15TH European Colloquium on Theoretical and Quantitative Geography*, ECTQG 2007, Montreux, Switzerland, 7-11 September, 2007.
+Loonen, W., Koomen, E., Kuijpers-Linde, M., [Calibrating and validating the Land Use Scanner algorithms](/files/publications/loonen-2007-calibrating-and-validating-the-land-use-scanner.pdf), in: *paper presented at the 15TH European Colloquium on Theoretical and Quantitative Geography*, ECTQG 2007, Montreux, Switzerland, 7-11 September, 2007.
 
 Pontius Jr., R.G., Castella, J.-C., Clarke, K., de Nijs, T., Dietzel, C., Duan, Z., Fotsing, E., Goldstein, N., Kok, K., Koomen, E., Lippitt, C.D., McConnel, W., Pijanowski, B.C., Sood, A.M., Veldkamp, A., Verburg, P.H., Lessons and challenges for land change modelers as revealed by a comparison of thirteen cases, paper to be presented at the transatlantic conference on the science and education of land use, Washington D.C., USA, 2007.
 
@@ -229,9 +229,9 @@ Koomen, E., Dekkers, J.E.C., Restrictief ruimtelijk beleid effectief in bescherm
 
 Koomen, E., van Wilgenburg, R., [Platteland en kleine kernen verrassend vitaal; kwantitatieve analyse van de sociaal-economische veranderingen van ruraal Nederland](https://research.vu.nl/en/publications/platteland-en-kleine-kernen-verrassend-vitaal-kwantitatieve-analy/), in: Schrijnen, P.M. (eds.), *Nieuwe economie nieuwe ruimte, nieuwe ruimte nieuwe economie; bijdragen aan de PlanDag 2006*, 2006.
 
-Scotta, A., Pleizier, I.D., Scholten, H.J., [Tangible user interfaces in order to improve Collaborative Interactions and Decision Making](/files/2016/09/paper_TUI.pdf), in: Fendel, E., Rumor, R. (eds.), *Proceedings of 25th Urban Data Management Symposium (UDMS 2006), Aalborg, Denmark*, UDMS 2006, Delft, the Netherlands, 15-17 May, 2006.
+Scotta, A., Pleizier, I.D., Scholten, H.J., [Tangible user interfaces in order to improve Collaborative Interactions and Decision Making](/files/publications/scotta-2006-tangible-user-interfaces-in-order-to-improve.pdf), in: Fendel, E., Rumor, R. (eds.), *Proceedings of 25th Urban Data Management Symposium (UDMS 2006), Aalborg, Denmark*, UDMS 2006, Delft, the Netherlands, 15-17 May, 2006.
 
-Zlatanova, S., Scholten, H.J., van Borkulo, E., Neuvel, J.M.M., [Investigation of User Requirements in the Emergency Response Sector: The Dutch Case](/files/2016/09/LUWPUBRD_00342624_A502_001.pdf), in: *Proceedings of ISPRS Conference*, ISPRS ’06, 2006.
+Zlatanova, S., Scholten, H.J., van Borkulo, E., Neuvel, J.M.M., [Investigation of User Requirements in the Emergency Response Sector: The Dutch Case](/files/publications/zlatanova-2006-investigation-of-user-requirements-in-the-emergency.pdf), in: *Proceedings of ISPRS Conference*, ISPRS ’06, 2006.
 
 Steenbruggen, J.G.M., Grothe, M.J.M., Beinat, E., Wagtendonk, A.J., The value of context-aware information systems for incident management, paper presented at Ubigis 2006, Second International Workshop on Ubiquitous GIS, Munster, Germany, September, 2006.
 
@@ -249,13 +249,13 @@ Dias, E.S., Edwardes, A.J., Information Flows in Nature Areas – Information Ne
 
 Koomen, E., Dekkers, J.E.C., Koetse, M.J., Rietveld, P., Scholten, H.J., [Valuation of metropolitan open space; presenting the research framework](https://research.vu.nl/en/publications/valuation-of-metropolitan-open-space-presenting-the-research-fram/), in: *Proceedings of the 45th congress of the European Regional Science Association*, 45th congress of the European Regional Science Association, Amsterdam, 23-27 August, 2005.
 
-Koomen, E., Bacao, F., [Searching for the polycentric study: a spatio-temporal analysis of Dutch urban morphology](/files/2016/09/polycentric_cities_agile2005.pdf), in: Toppen, F., Painho, M. (eds.), *AGILE 2005 conference proceedings*, AGILE 2005, ISEGI-Universidad Nova de Lisboa, 2005.
+Koomen, E., Bacao, F., [Searching for the polycentric study: a spatio-temporal analysis of Dutch urban morphology](/files/publications/koomen-2005-searching-for-the-polycentric-study.pdf), in: Toppen, F., Painho, M. (eds.), *AGILE 2005 conference proceedings*, AGILE 2005, ISEGI-Universidad Nova de Lisboa, 2005.
 
-Kuhlman, T., Tabeau, A., Gaaff, A., van Tongeren, F., Dekkers, J.E.C., [Linking models in land use simulation: Application of the Land Use Scanner to changes in agricultural area](/files/2016/09/Kuhlman_etal_linkingmodels.pdf), in: *Proceedings of the 45th congress of the European Regional Science Association*, 45th congress of the European Regional Science Association, Amsterdam, 23-27 August, 2005.
+Kuhlman, T., Tabeau, A., Gaaff, A., van Tongeren, F., Dekkers, J.E.C., [Linking models in land use simulation: Application of the Land Use Scanner to changes in agricultural area](/files/publications/kuhlman-2005-linking-models-in-land-use-simulation.pdf), in: *Proceedings of the 45th congress of the European Regional Science Association*, 45th congress of the European Regional Science Association, Amsterdam, 23-27 August, 2005.
 
 Loonen, W., Spatial Optimization in Landuse Planning, in: *Congress on theoretical and quantitative Geography: reviewed abstracts*, European congress on theoretical and quantitative Geography, Lisbon, Portugal, 9-13 September, 2005.
 
-van Borkulo, E., Scholten, H.J., Zlatanova, S., van den Brink, A., [Decision Making in Response and Relief Phases](/files/2016/09/LUWPUBRD_00342624_A502_001.pdf), in: van Oosterom, P., Zlatanova, S., Fendel, E.M. (eds.), *Geo-information for Disaster Management*, Springer, Berlin, 2005.
+van Borkulo, E., Scholten, H.J., Zlatanova, S., van den Brink, A., [Decision Making in Response and Relief Phases](/files/publications/zlatanova-2006-investigation-of-user-requirements-in-the-emergency.pdf), in: van Oosterom, P., Zlatanova, S., Fendel, E.M. (eds.), *Geo-information for Disaster Management*, Springer, Berlin, 2005.
 
 van Wilgenburg, R., Dekkers, J.E.C., Scholten, H.J., Geomarketing – A case study: The use of GIS for the development of a marketing strategy for the Vrije Universiteit Amsterdam, in: *Proceedings GIS Planet 2005*, GIS Planet, Estoril, Lisbon, May 30 – June 2, 2005.
 
@@ -311,7 +311,7 @@ Wagtendonk, A.J., Diffusione e divulgazione del progetto di ricerca GETS attrave
 
 Buurman, J.J.G., Dekkers, J.E.C., Koomen, E., Aerts, J.C.J.H., Scholten, H.J., Rietveld, P., *Meerjaren Onderzoeksprogramma Modelleren van Ruimtegebruik*, , Vrije Universiteit, Amsterdam, 2002.
 
-Koomen, E., Buurman, J.J.G., [Economic theory and land prices in land use modelling](/files/2016/09/ECONTHEORY_AGILE2002.pdf), in: *Proceedings of 5th AGILE Conference on Geographic Information Science*, 5th AGILE Conference on GIS, Palma Balearic Islands, Spain, 2002. ***Remarks:** Comparison of the land prices in the Land Use Scanner model with real world land prices.*
+Koomen, E., Buurman, J.J.G., [Economic theory and land prices in land use modelling](/files/publications/koomen-2002-economic-theory-and-land-prices-in-land-use-modelling.pdf), in: *Proceedings of 5th AGILE Conference on Geographic Information Science*, 5th AGILE Conference on GIS, Palma Balearic Islands, Spain, 2002. ***Remarks:** Comparison of the land prices in the Land Use Scanner model with real world land prices.*
 
 Koomen, E., Groen, J., Borsboom, J., Scholten, H.J., [Modelling the fragmentation of open space, a framework for assessing the impact of land use change on open space](https://research.vu.nl/en/publications/modelling-the-fragmentation-of-open-space-a-framework-for-assessi/), in: *Proceedings of the 42nd congress of the European Regional Science Association*, 42nd congress of the European Regional Science Association, Dortmund, Germany, 2002.
 
@@ -353,7 +353,7 @@ Koomen, E., Scholten, H.J., Rietveld, P., [Meerjaren Onderzoeksprogramma Modelle
 
 Kusse, A.A.M., *Integratie van GIS binnen bedrijfsprocessen*, 2000.
 
-Wagtendonk, A.J., Rietveld, P., [Ruimtelijke ontwikkelingen woningbouw Nederland 1980 – 1995; Een historisch-kwantitatieve analyse van de ruimtelijke ontwikkelingen in de woningbouw 1980 – 1995 ter ondersteuning van de Omgevings-effectrapportage Vijfde Nota Ruimtelijke Ordening](/files/2016/09/RUIMTELIJKEONTWIKKELINGENWONINGBOUWNL_0.pdf), *internal VU report*, Vrije Universiteit, Amsterdam, 2000.
+Wagtendonk, A.J., Rietveld, P., [Ruimtelijke ontwikkelingen woningbouw Nederland 1980 – 1995; Een historisch-kwantitatieve analyse van de ruimtelijke ontwikkelingen in de woningbouw 1980 – 1995 ter ondersteuning van de Omgevings-effectrapportage Vijfde Nota Ruimtelijke Ordening](/files/publications/wagtendonk-2000-ruimtelijke-ontwikkelingen-woningbouw-nederland-1980.pdf), *internal VU report*, Vrije Universiteit, Amsterdam, 2000.
 
 Buurman, J.J.G., Wagtendonk, A., EuroScanner: Land use simulation in Europe, in: *Proceedings of UDMS 2000, 22nd Urban and Regional Data Management Symposium*, UDMS 2000, Delft, 2000.
 
@@ -451,7 +451,7 @@ Scholten, H.J., Bogaerts, H., Verspuy, M., *Towards a spatial meta information s
 
 Dekkers, J.E.C., Koomen, E., Jacobs-Crisioni, C.G.W., Koekoek, A., Rijken, B., [Grenzen aan stedelijke verdichting; een kwantitatieve verkenning van verdichtingsopties in Haaglanden](https://research.vu.nl/en/publications/grenzen-aan-stedelijke-verdichting-een-kwantitatieve-verkenning-v/), in: *Abstract voor de PBL-Ruimteconferentie 2011*, PBL Ruimteconferentie, Rotterdam, 19 April, 2011.
 
-Bessembinder, J., Schaap, B., Reidsma, P., Witte, F., Elsman, J., Jacobs-Crisioni, C.G.W., Verboom, J., van Bodegom, P., [Improving access to data on climate change and its impacts](/files/2016/09/Deltas_in_time_of_climate_change_KKF_poster_abstract.pdf), in: Kabat, P., Vellinga, P. (eds.), *Poster abstract Scientific Programme Deltas in Depth*, International conference Rotterdam, the Netherlands, 29 September-1 October, 2010.
+Bessembinder, J., Schaap, B., Reidsma, P., Witte, F., Elsman, J., Jacobs-Crisioni, C.G.W., Verboom, J., van Bodegom, P., [Improving access to data on climate change and its impacts](/files/publications/bessembinder-2010-improving-access-to-data-on-climate-change-and-its.pdf), in: Kabat, P., Vellinga, P. (eds.), *Poster abstract Scientific Programme Deltas in Depth*, International conference Rotterdam, the Netherlands, 29 September-1 October, 2010.
 
 Bubeck, P., te Linde, A., Dekkers, J.E.C., Ward, P., Flood risk developments and adaptation strategies in the Rhine-Meuse delta, in: Kabat, P., Vellinga, P. (eds.), *Abstracts Scientific Programme Deltas in Depth*, International conference Rotterdam, the Netherlands, 29 September-1 October, 2010.
 
@@ -485,7 +485,7 @@ Dekkers, J.E.C., Koomen, E., [De economische waardering van metropolitane open r
 
 Koomen, E., Loonen, W., Kuijpers-Linde, M., [Localising the land-use impact of global climate change; integration of sector-specific adaptation measures with the Land Use Scanner](https://research.vu.nl/en/publications/localising-the-land-use-impact-of-global-climate-change-integrati/), in: Addink, E., Barendregt, A., Ettema, D., Karssenberg, D., de Nijs, T. (eds.), *Framing Land Use Dynamics II – abstractbook. International conference*, FLUD-II, Utrecht University, the Netherlands, 18-20 April, 2007.
 
-Snoeren, G.F.I., Zlatanova, S., Crompvoets, J., Scholten, H.J., [Spatial Data Infrastructure for emergency management: the view of the users](/files/2016/09/LUWPUBRD_00342624_A502_001.pdf), in: *Proceedings of the 3rd International Symposium on Geo-information for Distater Management (Gi4DM) – CD-ROM*, ISPRS ’06, Toronto, Canada, 2007.
+Snoeren, G.F.I., Zlatanova, S., Crompvoets, J., Scholten, H.J., [Spatial Data Infrastructure for emergency management: the view of the users](/files/publications/zlatanova-2006-investigation-of-user-requirements-in-the-emergency.pdf), in: *Proceedings of the 3rd International Symposium on Geo-information for Distater Management (Gi4DM) – CD-ROM*, ISPRS ’06, Toronto, Canada, 2007.
 
 Beinat, E., The Location Awareness 2020 – a foresight study on auto-identification in year 2020, and the implications for mobility, in: *Mo.Ve. Technical Report 2006*, Mo.Ve. Forum 2006, Venice, Italy, 2006.
 
@@ -495,9 +495,9 @@ Koomen, E., Dekkers, J.E.C., Restrictief ruimtelijk beleid effectief in bescherm
 
 Koomen, E., van Wilgenburg, R., [Platteland en kleine kernen verrassend vitaal; kwantitatieve analyse van de sociaal-economische veranderingen van ruraal Nederland](https://research.vu.nl/en/publications/platteland-en-kleine-kernen-verrassend-vitaal-kwantitatieve-analy/), in: Schrijnen, P.M. (eds.), *Nieuwe economie nieuwe ruimte, nieuwe ruimte nieuwe economie; bijdragen aan de PlanDag 2006*, 2006.
 
-Scotta, A., Pleizier, I.D., Scholten, H.J., [Tangible user interfaces in order to improve Collaborative Interactions and Decision Making](/files/2016/09/paper_TUI.pdf), in: Fendel, E., Rumor, R. (eds.), *Proceedings of 25th Urban Data Management Symposium (UDMS 2006), Aalborg, Denmark*, UDMS 2006, Delft, the Netherlands, 15-17 May, 2006.
+Scotta, A., Pleizier, I.D., Scholten, H.J., [Tangible user interfaces in order to improve Collaborative Interactions and Decision Making](/files/publications/scotta-2006-tangible-user-interfaces-in-order-to-improve.pdf), in: Fendel, E., Rumor, R. (eds.), *Proceedings of 25th Urban Data Management Symposium (UDMS 2006), Aalborg, Denmark*, UDMS 2006, Delft, the Netherlands, 15-17 May, 2006.
 
-Zlatanova, S., Scholten, H.J., van Borkulo, E., Neuvel, J.M.M., [Investigation of User Requirements in the Emergency Response Sector: The Dutch Case](/files/2016/09/LUWPUBRD_00342624_A502_001.pdf), in: *Proceedings of ISPRS Conference*, ISPRS ’06, 2006.
+Zlatanova, S., Scholten, H.J., van Borkulo, E., Neuvel, J.M.M., [Investigation of User Requirements in the Emergency Response Sector: The Dutch Case](/files/publications/zlatanova-2006-investigation-of-user-requirements-in-the-emergency.pdf), in: *Proceedings of ISPRS Conference*, ISPRS ’06, 2006.
 
 Chung, C.F., Fabbri, A.G., Jang, D.H., Scholten, H.J., Risk assessment using spatial prediction model for natural disaster preparedness, in: van Oosterom, P., Zlatanova, S., Fendel, E.M. (eds.), *Geo-information for Disaster Management*, Springer, Berlin, 2005.
 
@@ -507,13 +507,13 @@ Dias, E.S., Edwardes, A.J., Information Flows in Nature Areas – Information Ne
 
 Koomen, E., Dekkers, J.E.C., Koetse, M.J., Rietveld, P., Scholten, H.J., [Valuation of metropolitan open space; presenting the research framework](https://research.vu.nl/en/publications/valuation-of-metropolitan-open-space-presenting-the-research-fram/), in: *Proceedings of the 45th congress of the European Regional Science Association*, 45th congress of the European Regional Science Association, Amsterdam, 23-27 August, 2005.
 
-Koomen, E., Bacao, F., [Searching for the polycentric study: a spatio-temporal analysis of Dutch urban morphology](/files/2016/09/polycentric_cities_agile2005.pdf), in: Toppen, F., Painho, M. (eds.), *AGILE 2005 conference proceedings*, AGILE 2005, ISEGI-Universidad Nova de Lisboa, 2005.
+Koomen, E., Bacao, F., [Searching for the polycentric study: a spatio-temporal analysis of Dutch urban morphology](/files/publications/koomen-2005-searching-for-the-polycentric-study.pdf), in: Toppen, F., Painho, M. (eds.), *AGILE 2005 conference proceedings*, AGILE 2005, ISEGI-Universidad Nova de Lisboa, 2005.
 
-Kuhlman, T., Tabeau, A., Gaaff, A., van Tongeren, F., Dekkers, J.E.C., [Linking models in land use simulation: Application of the Land Use Scanner to changes in agricultural area](/files/2016/09/Kuhlman_etal_linkingmodels.pdf), in: *Proceedings of the 45th congress of the European Regional Science Association*, 45th congress of the European Regional Science Association, Amsterdam, 23-27 August, 2005.
+Kuhlman, T., Tabeau, A., Gaaff, A., van Tongeren, F., Dekkers, J.E.C., [Linking models in land use simulation: Application of the Land Use Scanner to changes in agricultural area](/files/publications/kuhlman-2005-linking-models-in-land-use-simulation.pdf), in: *Proceedings of the 45th congress of the European Regional Science Association*, 45th congress of the European Regional Science Association, Amsterdam, 23-27 August, 2005.
 
 Loonen, W., Spatial Optimization in Landuse Planning, in: *Congress on theoretical and quantitative Geography: reviewed abstracts*, European congress on theoretical and quantitative Geography, Lisbon, Portugal, 9-13 September, 2005.
 
-van Borkulo, E., Scholten, H.J., Zlatanova, S., van den Brink, A., [Decision Making in Response and Relief Phases](/files/2016/09/LUWPUBRD_00342624_A502_001.pdf), in: van Oosterom, P., Zlatanova, S., Fendel, E.M. (eds.), *Geo-information for Disaster Management*, Springer, Berlin, 2005.
+van Borkulo, E., Scholten, H.J., Zlatanova, S., van den Brink, A., [Decision Making in Response and Relief Phases](/files/publications/zlatanova-2006-investigation-of-user-requirements-in-the-emergency.pdf), in: van Oosterom, P., Zlatanova, S., Fendel, E.M. (eds.), *Geo-information for Disaster Management*, Springer, Berlin, 2005.
 
 van Wilgenburg, R., Dekkers, J.E.C., Scholten, H.J., Geomarketing – A case study: The use of GIS for the development of a marketing strategy for the Vrije Universiteit Amsterdam, in: *Proceedings GIS Planet 2005*, GIS Planet, Estoril, Lisbon, May 30 – June 2, 2005.
 
@@ -545,7 +545,7 @@ Loonen, W., Heuberger, P., Bakema, A., Spatial Optimization of nitrogen emission
 
 Scholten, H.J., Dekkers, J.E.C., Câmara, A.S., van de Velde, R., Geospatial Virtual Environments, Towards a New Paradigm in Geovisualisation, in: *Abstractbook Digital Earth Conference on Information Resources for Global Sustainability*, Digital Earth Conference on Information Resources for Global Sustainability, Brno, 21-25 September, 2003.
 
-Koomen, E., Buurman, J.J.G., [Economic theory and land prices in land use modelling](/files/2016/09/ECONTHEORY_AGILE2002.pdf), in: *Proceedings of 5th AGILE Conference on Geographic Information Science*, 5th AGILE Conference on GIS, Palma Balearic Islands, Spain, 2002. ***Remarks:** Comparison of the land prices in the Land Use Scanner model with real world land prices.*
+Koomen, E., Buurman, J.J.G., [Economic theory and land prices in land use modelling](/files/publications/koomen-2002-economic-theory-and-land-prices-in-land-use-modelling.pdf), in: *Proceedings of 5th AGILE Conference on Geographic Information Science*, 5th AGILE Conference on GIS, Palma Balearic Islands, Spain, 2002. ***Remarks:** Comparison of the land prices in the Land Use Scanner model with real world land prices.*
 
 Koomen, E., Groen, J., Borsboom, J., Scholten, H.J., [Modelling the fragmentation of open space, a framework for assessing the impact of land use change on open space](https://research.vu.nl/en/publications/modelling-the-fragmentation-of-open-space-a-framework-for-assessi/), in: *Proceedings of the 42nd congress of the European Regional Science Association*, 42nd congress of the European Regional Science Association, Dortmund, Germany, 2002.
 

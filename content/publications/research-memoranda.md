@@ -30,9 +30,9 @@ Dekkers, J.E.C., Koomen, E., Jacobs-Crisioni, C.G.W., Rijken, B., [Scenario-base
 
 Diogo, V., Koomen, E., van der Hilst, F., [Second generation biofuel production in the Netherlands: a spatially-explicit exploration on the economic viability of a perennial biofuel crop](http://hdl.handle.net/1871/33507), Research Memorandum 2012-4, Faculty of Economics and Business Administration, Vrije Universiteit, Amsterdam, 2012.
 
-Jacobs-Crisioni, C.G.W., [De drijvende kracht van mobiliteit, Spinlab Research Memorandum SL-09](/files/2016/09/SL-09_DrijvendeKrachten_mobiliteit_def_v2.pdf), Vrije Universiteit, Amsterdam, 2011.
+Jacobs-Crisioni, C.G.W., [De drijvende kracht van mobiliteit, Spinlab Research Memorandum SL-09](/files/publications/jacobs-crisioni-2011-de-drijvende-kracht-van-mobiliteit.pdf), Vrije Universiteit, Amsterdam, 2011.
 
-Jacobs-Crisioni, C.G.W., [Integration of present and future accessibility levels as spatially continuous utility factors in Land Use Scanner, Spinlab Research Memorandum SL-10](/files/2016/09/SL-10_Integration_of_presentandfuture_accessibility_levels_v3.pdf), Vrije Universiteit, Amsterdam, 2011.
+Jacobs-Crisioni, C.G.W., [Integration of present and future accessibility levels as spatially continuous utility factors in Land Use Scanner, Spinlab Research Memorandum SL-10](/files/publications/jacobs-crisioni-2011-integration-of-present-and-future-accessibility-levels.pdf), Vrije Universiteit, Amsterdam, 2011.
 
 Koomen, E., [Indicators of rural vitality: a GIS-based quantitative analysis of socio-economic development of the rural Netherlands](http://hdl.handle.net/1871/32246), Research Memorandum 2011-50, Faculty of Economics and Business Administration, Vrije Universiteit, Amsterdam, 2011.
 
@@ -54,7 +54,7 @@ van Ommeren, J., Wentink, D., Dekkers, J.E.C., The Real Price Of Parking Policy,
 
 Bubeck, P., Koomen, E., [The use of quantitative evaluation measures in land-use change projections](https://research.vu.nl/en/publications/the-use-of-quantitative-evaluation-measures-in-land-use-change-pr/). An inventory of indicators available in the Land Use Scanner, Spinlab Research Memorandum SL-07, Amsterdam, 2008.
 
-Dekkers, J.E.C., van der Straaten, W., [Monetary Valuation of Aircraft Noise; a hedonic analysis around Amsterdam Airport, Tinbergen Institute Discussion Paper](/files/2016/09/08064.pdf), Amsterdam, 2008.
+Dekkers, J.E.C., van der Straaten, W., [Monetary Valuation of Aircraft Noise; a hedonic analysis around Amsterdam Airport, Tinbergen Institute Discussion Paper](/files/publications/dekkers-2008-monetary-valuation-of-aircraft-noise.pdf), Amsterdam, 2008.
 
 Dekkers, J.E.C., Koomen, E., [Valuation of open space; hedonic house price analyses in the Dutch Randstad region](https://research.vu.nl/en/publications/valuation-of-open-space-hedonic-house-price-analyses-in-the-dutch/), Research Memorandum 2008-24, Faculty of Economics and Business Administration, Vrije Universiteit, Amsterdam, 2008.
 

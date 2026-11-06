@@ -37,8 +37,8 @@ Framework
 ![Venice_Workshop_08042016_1](/files/2016/07/Venice_Workshop_08042016_1.jpg) ![Venice_Workshop_08042016_2](/files/2016/07/Venice_Workshop_08042016_2.jpg) ![Venice_Meeting_10042016_1](/files/2016/07/Venice_Meeting_10042016_1.jpg) ![Venice_Meeting_10042016_2](/files/2016/07/Venice_Meeting_10042016_2.jpg)
 
 - Presentations
-  - [locandina EUWATHER_25032016_LIGHT](/files/2016/07/locandina-EUWATHER_25032016_LIGHT.pdf)
-  - [WORKSHOP 8 Aprile_Vallerani](/files/2016/07/WORKSHOP-8-Aprile_Vallerani.ppt)
-  - [PRESENTAZIONE pdf](/files/2016/07/PRESENTAZIONE-pdf.pdf)
-  - [opmeer_SPINlab design EUWATHER april 2016](/files/2016/07/opmeer_SPINlab-design-EUWATHER-april-2016.pptx)
-  - [07052016_Flyer_CdF_QdA_01](/files/2016/07/07052016_Flyer_CdF_QdA_01.pdf)
+  - [locandina EUWATHER_25032016_LIGHT](/files/projects/euwather-locandina-2016-03-25.pdf)
+  - [WORKSHOP 8 Aprile_Vallerani](/files/projects/euwather-workshop-vallerani-2016-04-08.ppt)
+  - [PRESENTAZIONE pdf](/files/projects/euwather-presentazione-2016-05-02.pdf)
+  - [opmeer_SPINlab design EUWATHER april 2016](/files/projects/euwather-opmeer-spinlab-design-2016-06-10.pptx)
+  - [07052016_Flyer_CdF_QdA_01](/files/projects/euwather-flyer-2016-05-02.pdf)

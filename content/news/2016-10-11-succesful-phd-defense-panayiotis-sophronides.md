@@ -14,4 +14,4 @@ Panayiotis has worked together wit Prof. Henk Scholten and Dr. John Steenbruggen
 
 Download [Dissertation](https://doi.org/10.12681/eadd/39183) (6Mb)
 
-Download [PhD Thesis defense presentation](/files/2016/10/Sophronides_P_PhD_Thesis_Defense.pdf) (6 Mb)
+Download [PhD Thesis defense presentation](/files/publications/sophronides-2016-phd-thesis-defence-presentation.pdf) (6 Mb)

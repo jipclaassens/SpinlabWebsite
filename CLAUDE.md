@@ -57,12 +57,30 @@ permission for publication when they hand in their thesis at the VU, and the for
 ## Documents
 
 Link to a DOI or to the research portal rather than hosting a pdf. What has no other home is a document on the
-web server, under `/files/`, with the same address it would have had in the site.
+web server, under `/files/`.
+
+Names are in lower case with hyphens, without accents, spaces or brackets, because they are web addresses: a space
+turns into `%20`, and on the server a capital makes a different address. The nice form of a title is on the page.
+
+| folder | name | example |
+|---|---|---|
+| `/files/theses/` | author-year-title, the same as the address of its page | `dekkers-2001-what-about-wireless.pdf` |
+| `/files/publications/` | first author-year-title | `dekkers-2008-monetary-valuation-of-aircraft-noise.pdf` |
+| `/files/projects/` | project-what-date | `wastecosmart-leaflet-2014-11-21.pdf` |
+| `/files/teaching/course/` | what-date | `exercise-game-of-life-2006-12-01.pdf` |
+
+Of a title only the part before a colon goes in the name, up to about 55 characters. The date is the date of that
+version of the document, not the date it was placed. A new version goes next to the old one under its own date, and
+the page links to the newest, so a link to the page is always current. Theses and publications are finished and only
+have their year.
 
 Documents do not go in git. A file that was once committed stays in the history, so removing a thesis at the
 request of its author would mean rewriting that history, and every clone would carry the whole collection. Only
 pictures go in `static/files/`, at most 1600 pixels on the long side; `.gitignore` keeps the rest out and the
 deploy fails when a document got in through github.com.
+
+An address on the old site has to keep working: when a document that was on the old site changes name, its line in
+`files:` in `data/redirects.yaml` changes along.
 
 `data/documents.yaml` lists every document, so `--check` can test a link without having the file: a link to a
 document counts when the document is on the list, also on a machine that has the file. The server is the only

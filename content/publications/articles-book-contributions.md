@@ -101,9 +101,9 @@ Koomen, E., Dekkers, J.E.C., [The impact of land-use policy on urban fringe dyna
 
 Kuhlman, T., Diogo, V., Koomen, E., [Exploring the potential of reed as a bioenergy crop in the Netherlands](https://doi.org/10.1016/j.biombioe.2012.06.024), *Biomass and Bioenergy*, 55, pp.41-52, 2013.
 
-Lassche, M.R., Molendijk, M.A., [Geologie van Suriname, een voorstudie voor Land Use Scanner applicatie](/files/2016/09/Lassche_Molendijk_2013_GeologieSuriname.pdf), in: van Dijck, P., Wallis, M. (eds.), *Handleiding bij seminars en trainingen over planning en beleid voor optimal landgebruik in het kader van grootschalige infrastructurele werken in Suriname*, WWF/CEDLA, Amsterdam, the Netherlands, 2013.
+Lassche, M.R., Molendijk, M.A., [Geologie van Suriname, een voorstudie voor Land Use Scanner applicatie](/files/publications/lassche-2013-geologie-van-suriname-een-voorstudie-voor-land-use.pdf), in: van Dijck, P., Wallis, M. (eds.), *Handleiding bij seminars en trainingen over planning en beleid voor optimal landgebruik in het kader van grootschalige infrastructurele werken in Suriname*, WWF/CEDLA, Amsterdam, the Netherlands, 2013.
 
-Molendijk, M.A., van der Beek, M., Lassche, M.R., [Spatial implications on land and resources of new road infrastructure in Suriname: land use scanner](/files/2016/09/Molendijk_vdBeek_Lassche_2013_CEDLAconf.pdf), in: van Dijck, P., Wallis, M. (eds.), *Handleiding bij seminars en trainingen over planning en beleid voor optimal landgebruik in het kader van grootschalige infrastructurele werken in Suriname*, WWF/CEDLA, Amsterdam, the Netherlands, 2013.
+Molendijk, M.A., van der Beek, M., Lassche, M.R., [Spatial implications on land and resources of new road infrastructure in Suriname: land use scanner](/files/publications/molendijk-2013-spatial-implications-on-land-and-resources-of-new-road.pdf), in: van Dijck, P., Wallis, M. (eds.), *Handleiding bij seminars en trainingen over planning en beleid voor optimal landgebruik in het kader van grootschalige infrastructurele werken in Suriname*, WWF/CEDLA, Amsterdam, the Netherlands, 2013.
 
 Steenbruggen, J.G.M., Borzachiello, M.T., Nijkamp, P., Scholten, H.J., [Data from telecommunication networks for incident management: An exploratory review on transport safety and security](https://doi.org/10.1016/j.tranpol.2012.08.006), *Transport Policy*, 28, pp.86-102, 2013.
 
@@ -209,7 +209,7 @@ Dekkers, J.E.C., Koomen, E., [Waardering open ruimte in de woonomgeving. Hoofdst
 
 Dekkers, J.E.C., [Geomarketing. The Buzzword Explained](https://vu.on.worldcat.org/atoztitles/link?sid=ProQ:&issn=13870858&volume=13&issue=2&title=GeoInformatics&spage=40&date=2010-03-01&atitle=Geomarketing%3A+The+Buzzword+Explained&au=Dekkers%2C+Jasper&id=doi:), *Geoinformatics*, 13 (2), pp.40-43, 2010.
 
-Hoymann, J., Dekkers, J.E.C., Koomen, E., [Scenarios der Siedlungsflachenentwicklung im Elbeeinzugsgebiet, chapter 2.5](/files/2016/09/Szenarien_der_Siedlungsflachenentwickelung_im_Elbeeinzugsgebiet.pdf), in: Wechsung, F., Hartje, V., Kaden, S., Behrendt, H., Hansjürgens, B., Gräfe, P. (eds.), *Wirkungen des globalen Wandels auf den Wasserkreislauf im Elbegebiet–Risiken und Optionen. PIK Report*, Potsdam Institute for Climate Impact Research, Potsdam, 2010.
+Hoymann, J., Dekkers, J.E.C., Koomen, E., [Scenarios der Siedlungsflachenentwicklung im Elbeeinzugsgebiet, chapter 2.5](/files/publications/hoymann-2010-scenarios-der-siedlungsflachenentwicklung.pdf), in: Wechsung, F., Hartje, V., Kaden, S., Behrendt, H., Hansjürgens, B., Gräfe, P. (eds.), *Wirkungen des globalen Wandels auf den Wasserkreislauf im Elbegebiet–Risiken und Optionen. PIK Report*, Potsdam Institute for Climate Impact Research, Potsdam, 2010.
 
 Jacobs-Crisioni, C.G.W., Contributions to modelling and analyses, in: Beck, J.P., Farjon, J.M.J., Folkert, R.J.M., Hoogervorst, N.J.P., van Veen, M.P. (eds.), *Balans van de Leefomgeving*, Den haag/Bilthoven, 2010.
 
@@ -425,7 +425,7 @@ Dias, E.S., Beinat, E., Rhin, C., Scholten, H.J., Location Aware ICT in Addressi
 
 Dias, E.S., Beinat, E., Rhin, C., Haller, R., Scholten, H.J., Adding Value and Improving Processes Using Location-Based Services in Protected Areas, in: Prastacos, P., Murillo, M. (eds.), *Research on Computing Science, Special Edition on e-Environment*, Centre for Computing Research at IPN, Mexico City, 2004.
 
-Groen, J., Koomen, E., [Ritsema van Eck, J., Piek, M](/files/2016/09/scenarios_in_kaart.pdf)., *Scenario’s in kaart; Model- en ontwerpbenaderingen voor toekomstig ruimtegebruik*, RPB rapport, Nai Uitgevers, Rotterdam, 2004.
+Groen, J., Koomen, E., [Ritsema van Eck, J., Piek, M](/files/publications/groen-2004-scenarios-in-kaart.pdf)., *Scenario’s in kaart; Model- en ontwerpbenaderingen voor toekomstig ruimtegebruik*, RPB rapport, Nai Uitgevers, Rotterdam, 2004.
 
 Grothe, M.J.M., Steenbruggen, J.G.M., Smits, J.M., Location Based Services, altijd en overal informatie binnen handbereik, in: Bestebreur, A., Coops, R.H., Fenger, H.J.M., Hennephof, P., Vonk-Van Keller, M. (eds.), *Management in overheidsorganisatie*, 2004.
 
@@ -465,7 +465,7 @@ Geneletti, D., Beinat, E., Fabbri, A.G., Scholten, H.J., Prediction of the ecosy
 
 Ghinoi, A., Chung, C.F., Bauer, B., Fabbri, A.G., Suscettibilità valanghe a Sölden (Tirolo, Austria). Modello statistico per la localizzazione di possibili zone di distacco di valanghe, in: Geneletti, D. (eds.), *Qualità dell’Ambiente e Gestione del Territorio. ACTA GEOLOGICA: Studi Tridentini di Scienze Naturali*, Trento, 2003.
 
-Groen, J., Kuhlman, J., Koomen, E., [Hoofdstuk 4 Landbouw](/files/2016/09/Landbouw_hoofdstuk_in_De_ongekende_ruimte_verkend.pdf), in: Gordijn, H., Derksen, W., Groen, J., Pálsdóttir, L., Piek, M., Pieterse, N., Snellen, D. (eds.), *De ongekende ruimte verkend*, Nai Uitgevers, Rotterdam, 2003.
+Groen, J., Kuhlman, J., Koomen, E., [Hoofdstuk 4 Landbouw](/files/publications/groen-2003-hoofdstuk-4-landbouw-de-ongekende-ruimte-verkend.pdf), in: Gordijn, H., Derksen, W., Groen, J., Pálsdóttir, L., Piek, M., Pieterse, N., Snellen, D. (eds.), *De ongekende ruimte verkend*, Nai Uitgevers, Rotterdam, 2003.
 
 Molendijk, M.A., Beinat, E., The UNIGIS experience: the use of Internet for distance learning in GIS, *Agroinformatica*, 4, 2003.
 
@@ -515,7 +515,7 @@ Molendijk, M.A., Beinat, E., “Surveying the issues in Geomatics Education (2)�
 
 Rietveld, P., Scholten, H.J., Stillwell, J.C.H., EuroScanner: A Simulation Model for Land Use Change in Europe, in: Stillwell, J.C.H., Scholten, H.J. (eds.), *Land use simulation for Europe*, Kluwer Academic Publishers, Dordrecht, 2001. ***Remarks:** Book can be ordered through the publisher. This book also contains a lot of other interesting chapters on the simulations of Europe’s land use.*
 
-Scholten, H.J., [van de Velde, R.J., Borsboom-van Beurden, J.A.M](/files/2016/09/NGSDEFINITIEVEVERSIE_AANGEPAST.pdf)., *Ruimtescanner: informatiesysteem voor de lange termijn verkenning van ruimtegebruik*, Nederlandse Geografische Studies, Utrecht/Amsterdam, 2001. ***Remarks:** Comprehensive description of the Land Use Scanner information system, early validation and calibration efforts, the first practical applications and theoretical backgrounds.*
+Scholten, H.J., [van de Velde, R.J., Borsboom-van Beurden, J.A.M](/files/publications/scholten-2001-ruimtescanner-informatiesysteem-voor-de-lange-termijn.pdf)., *Ruimtescanner: informatiesysteem voor de lange termijn verkenning van ruimtegebruik*, Nederlandse Geografische Studies, Utrecht/Amsterdam, 2001. ***Remarks:** Comprehensive description of the Land Use Scanner information system, early validation and calibration efforts, the first practical applications and theoretical backgrounds.*
 
 Schotten, C.G.J., Heunks, C., A national planning application of Euroscanner in the Netherlands, in: Stillwell, J.C.H., Scholten, H.J. (eds.), *Land use simulation for Europe*, Kluwer Academic Publishers, Dordrecht, 2001. ***Remarks:** Book can be ordered through the publisher. This book also contains a lot of other interesting chapters on the simulations of Europe’s land use.*
 
